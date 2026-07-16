@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 30
+Total Solved: 31
 
 ## Easy
 
@@ -30,6 +30,7 @@ Total Solved: 30
 - Group Sold Products By The Date ([MySQL](Easy/1625_Group_Sold_Products_By_The_Date.sql))
 - Can Make Arithmetic Progression From Sequence ([Python](Easy/1626_Can_Make_Arithmetic_Progression_From_Sequence.py))
 - Count Odd Numbers in an Interval Range ([Python](Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.py))
+- Thousand Separator ([Python](Easy/1660_Thousand_Separator.py))
 - Find Users With Valid E-Mails ([MySQL](Easy/1664_Find_Users_With_Valid_E-Mails.sql))
 - Make The String Great ([Python](Easy/1666_Make_The_String_Great.py))
 - Patients With a Condition ([MySQL](Easy/1670_Patients_With_a_Condition.sql))
@@ -46,7 +47,7 @@ Total Solved: 30
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 1 |
 | Hard | 0 |
 
