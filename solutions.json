@@ -39,6 +39,19 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
+    "problemId": "1541",
+    "problemTitle": "Top Travellers",
+    "problemSlug": "top-travellers",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "820 ms",
+    "memory": "0B",
+    "submissionId": "2069851101",
+    "timestamp": "1784205147",
+    "path": "Easy/1541_Top_Travellers.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -169,16 +182,16 @@
     "path": "Easy/1490_Generate_a_String_With_Characters_That_Have_Odd_Counts.py"
   },
   {
-    "problemId": "1541",
-    "problemTitle": "Top Travellers",
-    "problemSlug": "top-travellers",
+    "problemId": "1524",
+    "problemTitle": "String Matching in an Array",
+    "problemSlug": "string-matching-in-an-array",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "820 ms",
-    "memory": "0B",
-    "submissionId": "2069851101",
-    "timestamp": "1784205147",
-    "path": "Easy/1541_Top_Travellers.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "6 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2069851633",
+    "timestamp": "1784205181",
+    "path": "Easy/1524_String_Matching_in_an_Array.py"
   }
 ]
