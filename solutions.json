@@ -440,5 +440,18 @@
     "submissionId": "2069873838",
     "timestamp": "1784206591",
     "path": "Easy/1714_Rearrange_Spaces_Between_Words.py"
+  },
+  {
+    "problemId": "1210",
+    "problemTitle": "Mean of Array After Removing Some Elements",
+    "problemSlug": "mean-of-array-after-removing-some-elements",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "12.6 MB",
+    "submissionId": "2069876080",
+    "timestamp": "1784206721",
+    "path": "Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py"
   }
 ]
