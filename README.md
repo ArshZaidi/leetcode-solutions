@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 18
+Total Solved: 19
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 18
 - Consecutive Characters ([Python](Easy/1542_Consecutive_Characters.py))
 - Check If All 1's Are at Least Length K Places Away ([Python](Easy/1548_Check_If_All_1s_Are_at_Least_Length_K_Places_Away.py))
 - Check If a Word Occurs As a Prefix of Any Word in a Sentence ([Python](Easy/1566_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py))
+- Maximum Product of Two Elements in an Array ([Python](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.py))
 
 ## Medium
 
@@ -34,7 +35,7 @@ Total Solved: 18
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 17 |
+| Easy | 18 |
 | Medium | 1 |
 | Hard | 0 |
 
