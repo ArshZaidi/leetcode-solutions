@@ -297,5 +297,18 @@
     "submissionId": "2069863998",
     "timestamp": "1784205979",
     "path": "Easy/1584_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py"
+  },
+  {
+    "problemId": "1626",
+    "problemTitle": "Can Make Arithmetic Progression From Sequence",
+    "problemSlug": "can-make-arithmetic-progression-from-sequence",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.5 MB",
+    "submissionId": "2069864922",
+    "timestamp": "1784206041",
+    "path": "Easy/1626_Can_Make_Arithmetic_Progression_From_Sequence.py"
   }
 ]
