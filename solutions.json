@@ -544,5 +544,18 @@
     "submissionId": "2069881443",
     "timestamp": "1784207043",
     "path": "Easy/1817_Calculate_Money_in_Leetcode_Bank.py"
+  },
+  {
+    "problemId": "1877",
+    "problemTitle": "Find Followers Count",
+    "problemSlug": "find-followers-count",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "614 ms",
+    "memory": "0B",
+    "submissionId": "2069881917",
+    "timestamp": "1784207072",
+    "path": "Easy/1877_Find_Followers_Count.sql"
   }
 ]
