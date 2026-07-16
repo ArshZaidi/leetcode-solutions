@@ -169,6 +169,19 @@
     "path": "Easy/1827_Invalid_Tweets.sql"
   },
   {
+    "problemId": "1837",
+    "problemTitle": "Daily Leads and Partners",
+    "problemSlug": "daily-leads-and-partners",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "696 ms",
+    "memory": "0B",
+    "submissionId": "2069879579",
+    "timestamp": "1784206931",
+    "path": "Easy/1837_Daily_Leads_and_Partners.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -520,16 +533,16 @@
     "path": "Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py"
   },
   {
-    "problemId": "1837",
-    "problemTitle": "Daily Leads and Partners",
-    "problemSlug": "daily-leads-and-partners",
+    "problemId": "1817",
+    "problemTitle": "Calculate Money in Leetcode Bank",
+    "problemSlug": "calculate-money-in-leetcode-bank",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "696 ms",
-    "memory": "0B",
-    "submissionId": "2069879579",
-    "timestamp": "1784206931",
-    "path": "Easy/1837_Daily_Leads_and_Partners.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "7 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2069881443",
+    "timestamp": "1784207043",
+    "path": "Easy/1817_Calculate_Money_in_Leetcode_Bank.py"
   }
 ]
