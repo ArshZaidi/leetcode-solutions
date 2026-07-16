@@ -13,6 +13,19 @@
     "path": "Easy/1390_Average_Selling_Price.sql"
   },
   {
+    "problemId": "1462",
+    "problemTitle": "List the Products Ordered in a Period",
+    "problemSlug": "list-the-products-ordered-in-a-period",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "5357 ms",
+    "memory": "0B",
+    "submissionId": "2069833743",
+    "timestamp": "1784204031",
+    "path": "Easy/1462_List_the_Products_Ordered_in_a_Period.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -117,16 +130,16 @@
     "path": "Easy/1440_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.py"
   },
   {
-    "problemId": "1462",
-    "problemTitle": "List the Products Ordered in a Period",
-    "problemSlug": "list-the-products-ordered-in-a-period",
+    "problemId": "1274",
+    "problemTitle": "Number of Days Between Two Dates",
+    "problemSlug": "number-of-days-between-two-dates",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "5357 ms",
-    "memory": "0B",
-    "submissionId": "2069833743",
-    "timestamp": "1784204031",
-    "path": "Easy/1462_List_the_Products_Ordered_in_a_Period.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2069835906",
+    "timestamp": "1784204165",
+    "path": "Easy/1274_Number_of_Days_Between_Two_Dates.py"
   }
 ]
