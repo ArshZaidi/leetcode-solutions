@@ -11,5 +11,18 @@
     "submissionId": "2069448464",
     "timestamp": "1784182462",
     "path": "Medium/4242_Sum_of_GCD_of_Formed_Pairs.py"
+  },
+  {
+    "problemId": "1390",
+    "problemTitle": "Average Selling Price",
+    "problemSlug": "average-selling-price",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "767 ms",
+    "memory": "0B",
+    "submissionId": "2069731847",
+    "timestamp": "1784197576",
+    "path": "Easy/1390_Average_Selling_Price.sql"
   }
 ]
