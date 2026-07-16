@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 43
+Total Solved: 44
 
 ## Easy
 
@@ -46,6 +46,7 @@ Total Solved: 43
 - Invalid Tweets ([MySQL](Easy/1827_Invalid_Tweets.sql))
 - Daily Leads and Partners ([MySQL](Easy/1837_Daily_Leads_and_Partners.sql))
 - Find Followers Count ([MySQL](Easy/1877_Find_Followers_Count.sql))
+- The Number of Employees Which Report to Each Employee ([MySQL](Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql))
 
 ## Medium
 
@@ -59,7 +60,7 @@ Total Solved: 43
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 42 |
+| Easy | 43 |
 | Medium | 1 |
 | Hard | 0 |
 
