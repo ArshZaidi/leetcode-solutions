@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 36
+Total Solved: 37
 
 ## Easy
 
@@ -39,6 +39,7 @@ Total Solved: 36
 - Customer Who Visited but Did Not Make Any Transactions ([MySQL](Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql))
 - Bank Account Summary II ([MySQL](Easy/1734_Bank_Account_Summary_II.sql))
 - Percentage of Users Attended a Contest ([MySQL](Easy/1773_Percentage_of_Users_Attended_a_Contest.sql))
+- Average Time of Process per Machine ([MySQL](Easy/1801_Average_Time_of_Process_per_Machine.sql))
 
 ## Medium
 
@@ -52,7 +53,7 @@ Total Solved: 36
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 35 |
+| Easy | 36 |
 | Medium | 1 |
 | Hard | 0 |
 
