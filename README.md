@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 38
+Total Solved: 39
 
 ## Easy
 
@@ -41,6 +41,7 @@ Total Solved: 38
 - Percentage of Users Attended a Contest ([MySQL](Easy/1773_Percentage_of_Users_Attended_a_Contest.sql))
 - Check If Two String Arrays are Equivalent ([Python](Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py))
 - Average Time of Process per Machine ([MySQL](Easy/1801_Average_Time_of_Process_per_Machine.sql))
+- Fix Names in a Table ([MySQL](Easy/1811_Fix_Names_in_a_Table.sql))
 
 ## Medium
 
@@ -54,7 +55,7 @@ Total Solved: 38
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 37 |
+| Easy | 38 |
 | Medium | 1 |
 | Hard | 0 |
 
