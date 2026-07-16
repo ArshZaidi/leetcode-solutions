@@ -143,6 +143,19 @@
     "path": "Easy/1801_Average_Time_of_Process_per_Machine.sql"
   },
   {
+    "problemId": "1811",
+    "problemTitle": "Fix Names in a Table",
+    "problemSlug": "fix-names-in-a-table",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "700 ms",
+    "memory": "0B",
+    "submissionId": "2069878049",
+    "timestamp": "1784206838",
+    "path": "Easy/1811_Fix_Names_in_a_Table.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -494,16 +507,16 @@
     "path": "Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py"
   },
   {
-    "problemId": "1811",
-    "problemTitle": "Fix Names in a Table",
-    "problemSlug": "fix-names-in-a-table",
+    "problemId": "1827",
+    "problemTitle": "Invalid Tweets",
+    "problemSlug": "invalid-tweets",
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "700 ms",
+    "runtime": "798 ms",
     "memory": "0B",
-    "submissionId": "2069878049",
-    "timestamp": "1784206838",
-    "path": "Easy/1811_Fix_Names_in_a_Table.sql"
+    "submissionId": "2069878662",
+    "timestamp": "1784206878",
+    "path": "Easy/1827_Invalid_Tweets.sql"
   }
 ]
