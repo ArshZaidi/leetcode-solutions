@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 20
+Total Solved: 21
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 20
 - Check If a Word Occurs As a Prefix of Any Word in a Sentence ([Python](Easy/1566_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py))
 - Final Prices With a Special Discount in a Shop ([Python](Easy/1570_Final_Prices_With_a_Special_Discount_in_a_Shop.py))
 - Maximum Product of Two Elements in an Array ([Python](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.py))
+- Running Sum of 1d Array ([Python](Easy/1603_Running_Sum_of_1d_Array.py))
 
 ## Medium
 
@@ -36,7 +37,7 @@ Total Solved: 20
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 19 |
+| Easy | 20 |
 | Medium | 1 |
 | Hard | 0 |
 
