@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 23
+Total Solved: 24
 
 ## Easy
 
@@ -26,6 +26,7 @@ Total Solved: 23
 - Average Salary Excluding the Minimum and Maximum Salary ([Python](Easy/1584_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py))
 - Running Sum of 1d Array ([Python](Easy/1603_Running_Sum_of_1d_Array.py))
 - Group Sold Products By The Date ([MySQL](Easy/1625_Group_Sold_Products_By_The_Date.sql))
+- Can Make Arithmetic Progression From Sequence ([Python](Easy/1626_Can_Make_Arithmetic_Progression_From_Sequence.py))
 
 ## Medium
 
@@ -39,7 +40,7 @@ Total Solved: 23
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 1 |
 | Hard | 0 |
 
