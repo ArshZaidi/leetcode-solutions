@@ -156,6 +156,19 @@
     "path": "Easy/1811_Fix_Names_in_a_Table.sql"
   },
   {
+    "problemId": "1827",
+    "problemTitle": "Invalid Tweets",
+    "problemSlug": "invalid-tweets",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "798 ms",
+    "memory": "0B",
+    "submissionId": "2069878662",
+    "timestamp": "1784206878",
+    "path": "Easy/1827_Invalid_Tweets.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -507,16 +520,16 @@
     "path": "Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py"
   },
   {
-    "problemId": "1827",
-    "problemTitle": "Invalid Tweets",
-    "problemSlug": "invalid-tweets",
+    "problemId": "1837",
+    "problemTitle": "Daily Leads and Partners",
+    "problemSlug": "daily-leads-and-partners",
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "798 ms",
+    "runtime": "696 ms",
     "memory": "0B",
-    "submissionId": "2069878662",
-    "timestamp": "1784206878",
-    "path": "Easy/1827_Invalid_Tweets.sql"
+    "submissionId": "2069879579",
+    "timestamp": "1784206931",
+    "path": "Easy/1837_Daily_Leads_and_Partners.sql"
   }
 ]
