@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 8
+Total Solved: 9
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 8
 - Subtract the Product and Sum of Digits of an Integer ([Python](Easy/1406_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py))
 - Find Numbers with Even Number of Digits ([Python](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.py))
 - Decrypt String from Alphabet to Integer Mapping ([Python](Easy/1434_Decrypt_String_from_Alphabet_to_Integer_Mapping.py))
+- Convert Integer to the Sum of Two No-Zero Integers ([Python](Easy/1440_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.py))
 
 ## Medium
 
@@ -24,7 +25,7 @@ Total Solved: 8
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 1 |
 | Hard | 0 |
 
