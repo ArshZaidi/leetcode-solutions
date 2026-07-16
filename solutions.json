@@ -104,6 +104,19 @@
     "path": "Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql"
   },
   {
+    "problemId": "1734",
+    "problemTitle": "Bank Account Summary II",
+    "problemSlug": "bank-account-summary-ii",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "776 ms",
+    "memory": "0B",
+    "submissionId": "2069873065",
+    "timestamp": "1784206542",
+    "path": "Easy/1734_Bank_Account_Summary_II.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -416,16 +429,16 @@
     "path": "Easy/1660_Thousand_Separator.py"
   },
   {
-    "problemId": "1734",
-    "problemTitle": "Bank Account Summary II",
-    "problemSlug": "bank-account-summary-ii",
+    "problemId": "1714",
+    "problemTitle": "Rearrange Spaces Between Words",
+    "problemSlug": "rearrange-spaces-between-words",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "776 ms",
-    "memory": "0B",
-    "submissionId": "2069873065",
-    "timestamp": "1784206542",
-    "path": "Easy/1734_Bank_Account_Summary_II.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069873838",
+    "timestamp": "1784206591",
+    "path": "Easy/1714_Rearrange_Spaces_Between_Words.py"
   }
 ]
