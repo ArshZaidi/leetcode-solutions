@@ -63,5 +63,18 @@
     "submissionId": "2069804114",
     "timestamp": "1784202128",
     "path": "Easy/1421_Find_Numbers_with_Even_Number_of_Digits.py"
+  },
+  {
+    "problemId": "1231",
+    "problemTitle": "Replace Elements with Greatest Element on Right Side",
+    "problemSlug": "replace-elements-with-greatest-element-on-right-side",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "22 ms",
+    "memory": "13.8 MB",
+    "submissionId": "2069805171",
+    "timestamp": "1784202199",
+    "path": "Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.py"
   }
 ]
