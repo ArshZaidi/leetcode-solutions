@@ -52,6 +52,19 @@
     "path": "Easy/1541_Top_Travellers.sql"
   },
   {
+    "problemId": "1625",
+    "problemTitle": "Group Sold Products By The Date",
+    "problemSlug": "group-sold-products-by-the-date",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "396 ms",
+    "memory": "0B",
+    "submissionId": "2069858713",
+    "timestamp": "1784205640",
+    "path": "Easy/1625_Group_Sold_Products_By_The_Date.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -273,16 +286,16 @@
     "path": "Easy/1603_Running_Sum_of_1d_Array.py"
   },
   {
-    "problemId": "1625",
-    "problemTitle": "Group Sold Products By The Date",
-    "problemSlug": "group-sold-products-by-the-date",
+    "problemId": "1584",
+    "problemTitle": "Average Salary Excluding the Minimum and Maximum Salary",
+    "problemSlug": "average-salary-excluding-the-minimum-and-maximum-salary",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "396 ms",
-    "memory": "0B",
-    "submissionId": "2069858713",
-    "timestamp": "1784205640",
-    "path": "Easy/1625_Group_Sold_Products_By_The_Date.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069863998",
+    "timestamp": "1784205979",
+    "path": "Easy/1584_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py"
   }
 ]
