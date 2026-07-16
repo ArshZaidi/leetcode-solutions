@@ -102,5 +102,18 @@
     "submissionId": "2069821994",
     "timestamp": "1784203288",
     "path": "Easy/1241_Decompress_Run-Length_Encoded_List.py"
+  },
+  {
+    "problemId": "1440",
+    "problemTitle": "Convert Integer to the Sum of Two No-Zero Integers",
+    "problemSlug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "12.7 MB",
+    "submissionId": "2069827010",
+    "timestamp": "1784203604",
+    "path": "Easy/1440_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.py"
   }
 ]
