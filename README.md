@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 26
+Total Solved: 27
 
 ## Easy
 
@@ -28,6 +28,7 @@ Total Solved: 26
 - Running Sum of 1d Array ([Python](Easy/1603_Running_Sum_of_1d_Array.py))
 - Group Sold Products By The Date ([MySQL](Easy/1625_Group_Sold_Products_By_The_Date.sql))
 - Can Make Arithmetic Progression From Sequence ([Python](Easy/1626_Can_Make_Arithmetic_Progression_From_Sequence.py))
+- Count Odd Numbers in an Interval Range ([Python](Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.py))
 - Find Users With Valid E-Mails ([MySQL](Easy/1664_Find_Users_With_Valid_E-Mails.sql))
 
 ## Medium
@@ -42,7 +43,7 @@ Total Solved: 26
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 1 |
 | Hard | 0 |
 
