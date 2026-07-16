@@ -1,5 +1,18 @@
 [
   {
+    "problemId": "1390",
+    "problemTitle": "Average Selling Price",
+    "problemSlug": "average-selling-price",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "767 ms",
+    "memory": "0B",
+    "submissionId": "2069731847",
+    "timestamp": "1784197576",
+    "path": "Easy/1390_Average_Selling_Price.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -13,16 +26,16 @@
     "path": "Medium/4242_Sum_of_GCD_of_Formed_Pairs.py"
   },
   {
-    "problemId": "1390",
-    "problemTitle": "Average Selling Price",
-    "problemSlug": "average-selling-price",
+    "problemId": "1406",
+    "problemTitle": "Subtract the Product and Sum of Digits of an Integer",
+    "problemSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "767 ms",
-    "memory": "0B",
-    "submissionId": "2069731847",
-    "timestamp": "1784197576",
-    "path": "Easy/1390_Average_Selling_Price.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069794411",
+    "timestamp": "1784201473",
+    "path": "Easy/1406_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py"
   }
 ]
