@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
@@ -30,6 +30,7 @@ Total Solved: 27
 - Can Make Arithmetic Progression From Sequence ([Python](Easy/1626_Can_Make_Arithmetic_Progression_From_Sequence.py))
 - Count Odd Numbers in an Interval Range ([Python](Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.py))
 - Find Users With Valid E-Mails ([MySQL](Easy/1664_Find_Users_With_Valid_E-Mails.sql))
+- Patients With a Condition ([MySQL](Easy/1670_Patients_With_a_Condition.sql))
 
 ## Medium
 
@@ -43,7 +44,7 @@ Total Solved: 27
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 26 |
+| Easy | 27 |
 | Medium | 1 |
 | Hard | 0 |
 
