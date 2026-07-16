@@ -65,6 +65,19 @@
     "path": "Easy/1625_Group_Sold_Products_By_The_Date.sql"
   },
   {
+    "problemId": "1664",
+    "problemTitle": "Find Users With Valid E-Mails",
+    "problemSlug": "find-users-with-valid-e-mails",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "754 ms",
+    "memory": "0B",
+    "submissionId": "2069867611",
+    "timestamp": "1784206208",
+    "path": "Easy/1664_Find_Users_With_Valid_E-Mails.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -325,16 +338,16 @@
     "path": "Easy/1283_Reformat_Date.py"
   },
   {
-    "problemId": "1664",
-    "problemTitle": "Find Users With Valid E-Mails",
-    "problemSlug": "find-users-with-valid-e-mails",
+    "problemId": "1630",
+    "problemTitle": "Count Odd Numbers in an Interval Range",
+    "problemSlug": "count-odd-numbers-in-an-interval-range",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "754 ms",
-    "memory": "0B",
-    "submissionId": "2069867611",
-    "timestamp": "1784206208",
-    "path": "Easy/1664_Find_Users_With_Valid_E-Mails.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "16 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069868586",
+    "timestamp": "1784206268",
+    "path": "Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.py"
   }
 ]
