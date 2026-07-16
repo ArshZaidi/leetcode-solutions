@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 31
+Total Solved: 32
 
 ## Easy
 
@@ -34,6 +34,7 @@ Total Solved: 31
 - Find Users With Valid E-Mails ([MySQL](Easy/1664_Find_Users_With_Valid_E-Mails.sql))
 - Make The String Great ([Python](Easy/1666_Make_The_String_Great.py))
 - Patients With a Condition ([MySQL](Easy/1670_Patients_With_a_Condition.sql))
+- Customer Who Visited but Did Not Make Any Transactions ([MySQL](Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql))
 
 ## Medium
 
@@ -47,7 +48,7 @@ Total Solved: 31
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 30 |
+| Easy | 31 |
 | Medium | 1 |
 | Hard | 0 |
 
