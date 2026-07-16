@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 21
+Total Solved: 22
 
 ## Easy
 
@@ -24,6 +24,7 @@ Total Solved: 21
 - Final Prices With a Special Discount in a Shop ([Python](Easy/1570_Final_Prices_With_a_Special_Discount_in_a_Shop.py))
 - Maximum Product of Two Elements in an Array ([Python](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.py))
 - Running Sum of 1d Array ([Python](Easy/1603_Running_Sum_of_1d_Array.py))
+- Group Sold Products By The Date ([MySQL](Easy/1625_Group_Sold_Products_By_The_Date.sql))
 
 ## Medium
 
@@ -37,7 +38,7 @@ Total Solved: 21
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 20 |
+| Easy | 21 |
 | Medium | 1 |
 | Hard | 0 |
 
