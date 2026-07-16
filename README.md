@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 13
 - List the Products Ordered in a Period ([MySQL](Easy/1462_List_the_Products_Ordered_in_a_Period.sql))
 - Generate a String With Characters That Have Odd Counts ([Python](Easy/1490_Generate_a_String_With_Characters_That_Have_Odd_Counts.py))
 - Replace Employee ID With The Unique Identifier ([MySQL](Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql))
+- Top Travellers ([MySQL](Easy/1541_Top_Travellers.sql))
 
 ## Medium
 
@@ -29,7 +30,7 @@ Total Solved: 13
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 1 |
 | Hard | 0 |
 
