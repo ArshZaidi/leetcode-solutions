@@ -492,5 +492,18 @@
     "submissionId": "2069877581",
     "timestamp": "1784206811",
     "path": "Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py"
+  },
+  {
+    "problemId": "1811",
+    "problemTitle": "Fix Names in a Table",
+    "problemSlug": "fix-names-in-a-table",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "700 ms",
+    "memory": "0B",
+    "submissionId": "2069878049",
+    "timestamp": "1784206838",
+    "path": "Easy/1811_Fix_Names_in_a_Table.sql"
   }
 ]
