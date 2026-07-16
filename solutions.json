@@ -323,5 +323,18 @@
     "submissionId": "2069865380",
     "timestamp": "1784206071",
     "path": "Easy/1283_Reformat_Date.py"
+  },
+  {
+    "problemId": "1664",
+    "problemTitle": "Find Users With Valid E-Mails",
+    "problemSlug": "find-users-with-valid-e-mails",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "754 ms",
+    "memory": "0B",
+    "submissionId": "2069867611",
+    "timestamp": "1784206208",
+    "path": "Easy/1664_Find_Users_With_Valid_E-Mails.sql"
   }
 ]
