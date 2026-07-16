@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
-*No easy problems solved yet.*
+- Average Selling Price ([MySQL](Easy/1390_Average_Selling_Price.sql))
 
 ## Medium
 
@@ -18,7 +18,7 @@ Total Solved: 1
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 1 |
 | Hard | 0 |
 
