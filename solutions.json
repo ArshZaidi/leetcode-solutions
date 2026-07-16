@@ -388,5 +388,18 @@
     "submissionId": "2069870657",
     "timestamp": "1784206395",
     "path": "Easy/1293_Three_Consecutive_Odds.py"
+  },
+  {
+    "problemId": "1660",
+    "problemTitle": "Thousand Separator",
+    "problemSlug": "thousand-separator",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069871207",
+    "timestamp": "1784206430",
+    "path": "Easy/1660_Thousand_Separator.py"
   }
 ]
