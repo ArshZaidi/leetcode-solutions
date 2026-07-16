@@ -50,5 +50,18 @@
     "submissionId": "2069798337",
     "timestamp": "1784201738",
     "path": "Easy/1221_Element_Appearing_More_Than_25_In_Sorted_Array.py"
+  },
+  {
+    "problemId": "1421",
+    "problemTitle": "Find Numbers with Even Number of Digits",
+    "problemSlug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069804114",
+    "timestamp": "1784202128",
+    "path": "Easy/1421_Find_Numbers_with_Even_Number_of_Digits.py"
   }
 ]
