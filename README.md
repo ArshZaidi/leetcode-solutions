@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 32
+Total Solved: 33
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 32
 - Make The String Great ([Python](Easy/1666_Make_The_String_Great.py))
 - Patients With a Condition ([MySQL](Easy/1670_Patients_With_a_Condition.sql))
 - Customer Who Visited but Did Not Make Any Transactions ([MySQL](Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql))
+- Bank Account Summary II ([MySQL](Easy/1734_Bank_Account_Summary_II.sql))
 
 ## Medium
 
@@ -48,7 +49,7 @@ Total Solved: 32
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 31 |
+| Easy | 32 |
 | Medium | 1 |
 | Hard | 0 |
 
