@@ -453,5 +453,18 @@
     "submissionId": "2069876080",
     "timestamp": "1784206721",
     "path": "Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py"
+  },
+  {
+    "problemId": "1773",
+    "problemTitle": "Percentage of Users Attended a Contest",
+    "problemSlug": "percentage-of-users-attended-a-contest",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1478 ms",
+    "memory": "0B",
+    "submissionId": "2069876669",
+    "timestamp": "1784206756",
+    "path": "Easy/1773_Percentage_of_Users_Attended_a_Contest.sql"
   }
 ]
