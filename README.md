@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
@@ -12,6 +12,7 @@ Total Solved: 9
 - Find Numbers with Even Number of Digits ([Python](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.py))
 - Decrypt String from Alphabet to Integer Mapping ([Python](Easy/1434_Decrypt_String_from_Alphabet_to_Integer_Mapping.py))
 - Convert Integer to the Sum of Two No-Zero Integers ([Python](Easy/1440_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.py))
+- List the Products Ordered in a Period ([MySQL](Easy/1462_List_the_Products_Ordered_in_a_Period.sql))
 
 ## Medium
 
@@ -25,7 +26,7 @@ Total Solved: 9
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 1 |
 | Hard | 0 |
 
