@@ -89,5 +89,18 @@
     "submissionId": "2069806119",
     "timestamp": "1784202264",
     "path": "Easy/1434_Decrypt_String_from_Alphabet_to_Integer_Mapping.py"
+  },
+  {
+    "problemId": "1241",
+    "problemTitle": "Decompress Run-Length Encoded List",
+    "problemSlug": "decompress-run-length-encoded-list",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.5 MB",
+    "submissionId": "2069821994",
+    "timestamp": "1784203288",
+    "path": "Easy/1241_Decompress_Run-Length_Encoded_List.py"
   }
 ]
