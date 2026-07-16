@@ -115,5 +115,18 @@
     "submissionId": "2069827010",
     "timestamp": "1784203604",
     "path": "Easy/1440_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.py"
+  },
+  {
+    "problemId": "1462",
+    "problemTitle": "List the Products Ordered in a Period",
+    "problemSlug": "list-the-products-ordered-in-a-period",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "5357 ms",
+    "memory": "0B",
+    "submissionId": "2069833743",
+    "timestamp": "1784204031",
+    "path": "Easy/1462_List_the_Products_Ordered_in_a_Period.sql"
   }
 ]
