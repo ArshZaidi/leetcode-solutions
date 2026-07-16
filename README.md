@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 40
+Total Solved: 41
 
 ## Easy
 
@@ -43,6 +43,7 @@ Total Solved: 40
 - Average Time of Process per Machine ([MySQL](Easy/1801_Average_Time_of_Process_per_Machine.sql))
 - Fix Names in a Table ([MySQL](Easy/1811_Fix_Names_in_a_Table.sql))
 - Invalid Tweets ([MySQL](Easy/1827_Invalid_Tweets.sql))
+- Daily Leads and Partners ([MySQL](Easy/1837_Daily_Leads_and_Partners.sql))
 
 ## Medium
 
@@ -56,7 +57,7 @@ Total Solved: 40
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 39 |
+| Easy | 40 |
 | Medium | 1 |
 | Hard | 0 |
 
