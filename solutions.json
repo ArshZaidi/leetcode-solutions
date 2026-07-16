@@ -130,6 +130,19 @@
     "path": "Easy/1773_Percentage_of_Users_Attended_a_Contest.sql"
   },
   {
+    "problemId": "1801",
+    "problemTitle": "Average Time of Process per Machine",
+    "problemSlug": "average-time-of-process-per-machine",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "220 ms",
+    "memory": "0B",
+    "submissionId": "2069877160",
+    "timestamp": "1784206785",
+    "path": "Easy/1801_Average_Time_of_Process_per_Machine.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -468,16 +481,16 @@
     "path": "Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py"
   },
   {
-    "problemId": "1801",
-    "problemTitle": "Average Time of Process per Machine",
-    "problemSlug": "average-time-of-process-per-machine",
+    "problemId": "1781",
+    "problemTitle": "Check If Two String Arrays are Equivalent",
+    "problemSlug": "check-if-two-string-arrays-are-equivalent",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "220 ms",
-    "memory": "0B",
-    "submissionId": "2069877160",
-    "timestamp": "1784206785",
-    "path": "Easy/1801_Average_Time_of_Process_per_Machine.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069877581",
+    "timestamp": "1784206811",
+    "path": "Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py"
   }
 ]
