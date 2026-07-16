@@ -23,4 +23,3 @@ Total Solved: 2
 | Hard | 0 |
 
 ---
-*README.md automatically updated by [LeetCelebrate](https://github.com/)*
