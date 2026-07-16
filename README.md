@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 6
 - Average Selling Price ([MySQL](Easy/1390_Average_Selling_Price.sql))
 - Subtract the Product and Sum of Digits of an Integer ([Python](Easy/1406_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py))
 - Find Numbers with Even Number of Digits ([Python](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.py))
+- Decrypt String from Alphabet to Integer Mapping ([Python](Easy/1434_Decrypt_String_from_Alphabet_to_Integer_Mapping.py))
 
 ## Medium
 
@@ -22,7 +23,7 @@ Total Solved: 6
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 1 |
 | Hard | 0 |
 
