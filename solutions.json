@@ -91,6 +91,19 @@
     "path": "Easy/1670_Patients_With_a_Condition.sql"
   },
   {
+    "problemId": "1724",
+    "problemTitle": "Customer Who Visited but Did Not Make Any Transactions",
+    "problemSlug": "customer-who-visited-but-did-not-make-any-transactions",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1344 ms",
+    "memory": "0B",
+    "submissionId": "2069872593",
+    "timestamp": "1784206516",
+    "path": "Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -403,16 +416,16 @@
     "path": "Easy/1660_Thousand_Separator.py"
   },
   {
-    "problemId": "1724",
-    "problemTitle": "Customer Who Visited but Did Not Make Any Transactions",
-    "problemSlug": "customer-who-visited-but-did-not-make-any-transactions",
+    "problemId": "1734",
+    "problemTitle": "Bank Account Summary II",
+    "problemSlug": "bank-account-summary-ii",
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "1344 ms",
+    "runtime": "776 ms",
     "memory": "0B",
-    "submissionId": "2069872593",
-    "timestamp": "1784206516",
-    "path": "Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql"
+    "submissionId": "2069873065",
+    "timestamp": "1784206542",
+    "path": "Easy/1734_Bank_Account_Summary_II.sql"
   }
 ]
