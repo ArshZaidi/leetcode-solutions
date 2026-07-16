@@ -349,5 +349,18 @@
     "submissionId": "2069868586",
     "timestamp": "1784206268",
     "path": "Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.py"
+  },
+  {
+    "problemId": "1670",
+    "problemTitle": "Patients With a Condition",
+    "problemSlug": "patients-with-a-condition",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "393 ms",
+    "memory": "0B",
+    "submissionId": "2069868986",
+    "timestamp": "1784206293",
+    "path": "Easy/1670_Patients_With_a_Condition.sql"
   }
 ]
