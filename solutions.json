@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "4242",
+    "problemTitle": "Sum of GCD of Formed Pairs",
+    "problemSlug": "sum-of-gcd-of-formed-pairs",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "707 ms",
+    "memory": "22.4 MB",
+    "submissionId": "2069448464",
+    "timestamp": "1784182462",
+    "path": "Medium/4242_Sum_of_GCD_of_Formed_Pairs.py"
+  }
+]
