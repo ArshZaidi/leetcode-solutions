@@ -219,5 +219,18 @@
     "submissionId": "2069854525",
     "timestamp": "1784205370",
     "path": "Easy/1542_Consecutive_Characters.py"
+  },
+  {
+    "problemId": "1566",
+    "problemTitle": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "problemSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069855066",
+    "timestamp": "1784205405",
+    "path": "Easy/1566_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py"
   }
 ]
