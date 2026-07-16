@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 33
+Total Solved: 34
 
 ## Easy
 
@@ -34,6 +34,7 @@ Total Solved: 33
 - Find Users With Valid E-Mails ([MySQL](Easy/1664_Find_Users_With_Valid_E-Mails.sql))
 - Make The String Great ([Python](Easy/1666_Make_The_String_Great.py))
 - Patients With a Condition ([MySQL](Easy/1670_Patients_With_a_Condition.sql))
+- Rearrange Spaces Between Words ([Python](Easy/1714_Rearrange_Spaces_Between_Words.py))
 - Customer Who Visited but Did Not Make Any Transactions ([MySQL](Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql))
 - Bank Account Summary II ([MySQL](Easy/1734_Bank_Account_Summary_II.sql))
 
@@ -49,7 +50,7 @@ Total Solved: 33
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 1 |
 | Hard | 0 |
 
