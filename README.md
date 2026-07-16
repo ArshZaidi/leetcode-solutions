@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 35
+Total Solved: 36
 
 ## Easy
 
@@ -38,6 +38,7 @@ Total Solved: 35
 - Rearrange Spaces Between Words ([Python](Easy/1714_Rearrange_Spaces_Between_Words.py))
 - Customer Who Visited but Did Not Make Any Transactions ([MySQL](Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql))
 - Bank Account Summary II ([MySQL](Easy/1734_Bank_Account_Summary_II.sql))
+- Percentage of Users Attended a Contest ([MySQL](Easy/1773_Percentage_of_Users_Attended_a_Contest.sql))
 
 ## Medium
 
@@ -51,7 +52,7 @@ Total Solved: 35
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 34 |
+| Easy | 35 |
 | Medium | 1 |
 | Hard | 0 |
 
