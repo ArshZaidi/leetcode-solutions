@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 42
+Total Solved: 43
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 42
 - Calculate Money in Leetcode Bank ([Python](Easy/1817_Calculate_Money_in_Leetcode_Bank.py))
 - Invalid Tweets ([MySQL](Easy/1827_Invalid_Tweets.sql))
 - Daily Leads and Partners ([MySQL](Easy/1837_Daily_Leads_and_Partners.sql))
+- Find Followers Count ([MySQL](Easy/1877_Find_Followers_Count.sql))
 
 ## Medium
 
@@ -58,7 +59,7 @@ Total Solved: 42
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 41 |
+| Easy | 42 |
 | Medium | 1 |
 | Hard | 0 |
 
