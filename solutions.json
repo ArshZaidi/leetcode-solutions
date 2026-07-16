@@ -245,5 +245,18 @@
     "submissionId": "2069855494",
     "timestamp": "1784205433",
     "path": "Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.py"
+  },
+  {
+    "problemId": "1570",
+    "problemTitle": "Final Prices With a Special Discount in a Shop",
+    "problemSlug": "final-prices-with-a-special-discount-in-a-shop",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "13 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2069856461",
+    "timestamp": "1784205496",
+    "path": "Easy/1570_Final_Prices_With_a_Special_Discount_in_a_Shop.py"
   }
 ]
