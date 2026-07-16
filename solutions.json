@@ -78,6 +78,19 @@
     "path": "Easy/1664_Find_Users_With_Valid_E-Mails.sql"
   },
   {
+    "problemId": "1670",
+    "problemTitle": "Patients With a Condition",
+    "problemSlug": "patients-with-a-condition",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "393 ms",
+    "memory": "0B",
+    "submissionId": "2069868986",
+    "timestamp": "1784206293",
+    "path": "Easy/1670_Patients_With_a_Condition.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -351,16 +364,16 @@
     "path": "Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.py"
   },
   {
-    "problemId": "1670",
-    "problemTitle": "Patients With a Condition",
-    "problemSlug": "patients-with-a-condition",
+    "problemId": "1666",
+    "problemTitle": "Make The String Great",
+    "problemSlug": "make-the-string-great",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "393 ms",
-    "memory": "0B",
-    "submissionId": "2069868986",
-    "timestamp": "1784206293",
-    "path": "Easy/1670_Patients_With_a_Condition.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2069870155",
+    "timestamp": "1784206365",
+    "path": "Easy/1666_Make_The_String_Great.py"
   }
 ]
