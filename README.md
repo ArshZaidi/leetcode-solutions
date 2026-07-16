@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 15
+Total Solved: 16
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 15
 - Replace Employee ID With The Unique Identifier ([MySQL](Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql))
 - String Matching in an Array ([Python](Easy/1524_String_Matching_in_an_Array.py))
 - Top Travellers ([MySQL](Easy/1541_Top_Travellers.sql))
+- Check If All 1's Are at Least Length K Places Away ([Python](Easy/1548_Check_If_All_1s_Are_at_Least_Length_K_Places_Away.py))
 
 ## Medium
 
@@ -31,7 +32,7 @@ Total Solved: 15
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 1 |
 | Hard | 0 |
 
