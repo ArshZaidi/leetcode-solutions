@@ -310,5 +310,18 @@
     "submissionId": "2069864922",
     "timestamp": "1784206041",
     "path": "Easy/1626_Can_Make_Arithmetic_Progression_From_Sequence.py"
+  },
+  {
+    "problemId": "1283",
+    "problemTitle": "Reformat Date",
+    "problemSlug": "reformat-date",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2069865380",
+    "timestamp": "1784206071",
+    "path": "Easy/1283_Reformat_Date.py"
   }
 ]
