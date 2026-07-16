@@ -206,5 +206,18 @@
     "submissionId": "2069853840",
     "timestamp": "1784205327",
     "path": "Easy/1548_Check_If_All_1s_Are_at_Least_Length_K_Places_Away.py"
+  },
+  {
+    "problemId": "1542",
+    "problemTitle": "Consecutive Characters",
+    "problemSlug": "consecutive-characters",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "11 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2069854525",
+    "timestamp": "1784205370",
+    "path": "Easy/1542_Consecutive_Characters.py"
   }
 ]
