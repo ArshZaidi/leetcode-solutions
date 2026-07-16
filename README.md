@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
+- Mean of Array After Removing Some Elements ([Python](Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py))
 - Element Appearing More Than 25% In Sorted Array ([Python](Easy/1221_Element_Appearing_More_Than_25_In_Sorted_Array.py))
 - Replace Elements with Greatest Element on Right Side ([Python](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.py))
 - Decompress Run-Length Encoded List ([Python](Easy/1241_Decompress_Run-Length_Encoded_List.py))
@@ -50,7 +51,7 @@ Total Solved: 34
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 33 |
+| Easy | 34 |
 | Medium | 1 |
 | Hard | 0 |
 
