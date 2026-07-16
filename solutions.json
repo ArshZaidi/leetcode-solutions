@@ -154,5 +154,18 @@
     "submissionId": "2069838742",
     "timestamp": "1784204350",
     "path": "Easy/1490_Generate_a_String_With_Characters_That_Have_Odd_Counts.py"
+  },
+  {
+    "problemId": "1509",
+    "problemTitle": "Replace Employee ID With The Unique Identifier",
+    "problemSlug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1325 ms",
+    "memory": "0B",
+    "submissionId": "2069849313",
+    "timestamp": "1784205023",
+    "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   }
 ]
