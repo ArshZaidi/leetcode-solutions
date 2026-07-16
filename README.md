@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 39
+Total Solved: 40
 
 ## Easy
 
@@ -42,6 +42,7 @@ Total Solved: 39
 - Check If Two String Arrays are Equivalent ([Python](Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py))
 - Average Time of Process per Machine ([MySQL](Easy/1801_Average_Time_of_Process_per_Machine.sql))
 - Fix Names in a Table ([MySQL](Easy/1811_Fix_Names_in_a_Table.sql))
+- Invalid Tweets ([MySQL](Easy/1827_Invalid_Tweets.sql))
 
 ## Medium
 
@@ -55,7 +56,7 @@ Total Solved: 39
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 38 |
+| Easy | 39 |
 | Medium | 1 |
 | Hard | 0 |
 
