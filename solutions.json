@@ -375,5 +375,18 @@
     "submissionId": "2069870155",
     "timestamp": "1784206365",
     "path": "Easy/1666_Make_The_String_Great.py"
+  },
+  {
+    "problemId": "1293",
+    "problemTitle": "Three Consecutive Odds",
+    "problemSlug": "three-consecutive-odds",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2069870657",
+    "timestamp": "1784206395",
+    "path": "Easy/1293_Three_Consecutive_Odds.py"
   }
 ]
