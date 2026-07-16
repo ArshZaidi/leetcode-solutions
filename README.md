@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
 - Element Appearing More Than 25% In Sorted Array ([Python](Easy/1221_Element_Appearing_More_Than_25_In_Sorted_Array.py))
 - Replace Elements with Greatest Element on Right Side ([Python](Easy/1231_Replace_Elements_with_Greatest_Element_on_Right_Side.py))
+- Decompress Run-Length Encoded List ([Python](Easy/1241_Decompress_Run-Length_Encoded_List.py))
 - Average Selling Price ([MySQL](Easy/1390_Average_Selling_Price.sql))
 - Subtract the Product and Sum of Digits of an Integer ([Python](Easy/1406_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py))
 - Find Numbers with Even Number of Digits ([Python](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.py))
@@ -23,7 +24,7 @@ Total Solved: 7
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 1 |
 | Hard | 0 |
 
