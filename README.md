@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 37
+Total Solved: 38
 
 ## Easy
 
@@ -39,6 +39,7 @@ Total Solved: 37
 - Customer Who Visited but Did Not Make Any Transactions ([MySQL](Easy/1724_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql))
 - Bank Account Summary II ([MySQL](Easy/1734_Bank_Account_Summary_II.sql))
 - Percentage of Users Attended a Contest ([MySQL](Easy/1773_Percentage_of_Users_Attended_a_Contest.sql))
+- Check If Two String Arrays are Equivalent ([Python](Easy/1781_Check_If_Two_String_Arrays_are_Equivalent.py))
 - Average Time of Process per Machine ([MySQL](Easy/1801_Average_Time_of_Process_per_Machine.sql))
 
 ## Medium
@@ -53,7 +54,7 @@ Total Solved: 37
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 1 |
 | Hard | 0 |
 
