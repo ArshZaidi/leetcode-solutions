@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 46
+Total Solved: 47
 
 ## Easy
 
@@ -46,6 +46,7 @@ Total Solved: 46
 - Invalid Tweets ([MySQL](Easy/1827_Invalid_Tweets.sql))
 - Find the Highest Altitude ([Python](Easy/1833_Find_the_Highest_Altitude.py))
 - Daily Leads and Partners ([MySQL](Easy/1837_Daily_Leads_and_Partners.sql))
+- Latest Time by Replacing Hidden Digits ([Python](Easy/1858_Latest_Time_by_Replacing_Hidden_Digits.py))
 - Find Followers Count ([MySQL](Easy/1877_Find_Followers_Count.sql))
 - The Number of Employees Which Report to Each Employee ([MySQL](Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql))
 
@@ -61,7 +62,7 @@ Total Solved: 46
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 44 |
+| Easy | 45 |
 | Medium | 1 |
 | Hard | 1 |
 
