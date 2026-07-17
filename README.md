@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 44
+Total Solved: 45
 
 ## Easy
 
@@ -54,7 +54,7 @@ Total Solved: 44
 
 ## Hard
 
-*No hard problems solved yet.*
+- Sorted GCD Pair Queries ([Python](Hard/3583_Sorted_GCD_Pair_Queries.py))
 
 ## Statistics
 
@@ -62,7 +62,7 @@ Total Solved: 44
 |------------|--------|
 | Easy | 43 |
 | Medium | 1 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
