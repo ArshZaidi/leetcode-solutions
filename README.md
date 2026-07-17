@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 48
+Total Solved: 49
 
 ## Easy
 
@@ -48,6 +48,7 @@ Total Solved: 48
 - Daily Leads and Partners ([MySQL](Easy/1837_Daily_Leads_and_Partners.sql))
 - Latest Time by Replacing Hidden Digits ([Python](Easy/1858_Latest_Time_by_Replacing_Hidden_Digits.py))
 - Find Followers Count ([MySQL](Easy/1877_Find_Followers_Count.sql))
+- Check if Array Is Sorted and Rotated ([Python](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.py))
 - The Number of Employees Which Report to Each Employee ([MySQL](Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql))
 - Find Total Time Spent by Each Employee ([MySQL](Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql))
 
@@ -63,7 +64,7 @@ Total Solved: 48
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 46 |
+| Easy | 47 |
 | Medium | 1 |
 | Hard | 1 |
 
