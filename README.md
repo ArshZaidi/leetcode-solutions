@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 57
+Total Solved: 58
 
 ## Easy
 
@@ -59,6 +59,7 @@ Total Solved: 57
 - Primary Department for Each Employee ([MySQL](Easy/1942_Primary_Department_for_Each_Employee.sql))
 - Truncate Sentence ([Python](Easy/1944_Truncate_Sentence.py))
 - Rearrange Products Table ([MySQL](Easy/1948_Rearrange_Products_Table.sql))
+- Sign of the Product of an Array ([Python](Easy/1950_Sign_of_the_Product_of_an_Array.py))
 
 ## Medium
 
@@ -72,7 +73,7 @@ Total Solved: 57
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 55 |
+| Easy | 56 |
 | Medium | 1 |
 | Hard | 1 |
 
