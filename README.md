@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 59
+Total Solved: 60
 
 ## Easy
 
@@ -61,6 +61,7 @@ Total Solved: 59
 - Rearrange Products Table ([MySQL](Easy/1948_Rearrange_Products_Table.sql))
 - Sign of the Product of an Array ([Python](Easy/1950_Sign_of_the_Product_of_an_Array.py))
 - Replace All Digits with Characters ([Python](Easy/1954_Replace_All_Digits_with_Characters.py))
+- Calculate Special Bonus ([MySQL](Easy/2024_Calculate_Special_Bonus.sql))
 
 ## Medium
 
@@ -74,7 +75,7 @@ Total Solved: 59
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 57 |
+| Easy | 58 |
 | Medium | 1 |
 | Hard | 1 |
 
