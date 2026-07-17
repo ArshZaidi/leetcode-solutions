@@ -752,5 +752,18 @@
     "submissionId": "2071467613",
     "timestamp": "1784312199",
     "path": "Easy/1950_Sign_of_the_Product_of_an_Array.py"
+  },
+  {
+    "problemId": "1954",
+    "problemTitle": "Replace All Digits with Characters",
+    "problemSlug": "replace-all-digits-with-characters",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.2 MB",
+    "submissionId": "2071470267",
+    "timestamp": "1784312343",
+    "path": "Easy/1954_Replace_All_Digits_with_Characters.py"
   }
 ]
