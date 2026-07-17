@@ -208,6 +208,19 @@
     "path": "Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql"
   },
   {
+    "problemId": "1892",
+    "problemTitle": "Find Total Time Spent by Each Employee",
+    "problemSlug": "find-total-time-spent-by-each-employee",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "530 ms",
+    "memory": "0B",
+    "submissionId": "2071444302",
+    "timestamp": "1784311042",
+    "path": "Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -611,16 +624,16 @@
     "path": "Easy/1858_Latest_Time_by_Replacing_Hidden_Digits.py"
   },
   {
-    "problemId": "1892",
-    "problemTitle": "Find Total Time Spent by Each Employee",
-    "problemSlug": "find-total-time-spent-by-each-employee",
+    "problemId": "1878",
+    "problemTitle": "Check if Array Is Sorted and Rotated",
+    "problemSlug": "check-if-array-is-sorted-and-rotated",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "530 ms",
-    "memory": "0B",
-    "submissionId": "2071444302",
-    "timestamp": "1784311042",
-    "path": "Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "12.5 MB",
+    "submissionId": "2071447922",
+    "timestamp": "1784311223",
+    "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.py"
   }
 ]
