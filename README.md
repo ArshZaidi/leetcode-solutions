@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 58
+Total Solved: 59
 
 ## Easy
 
@@ -60,6 +60,7 @@ Total Solved: 58
 - Truncate Sentence ([Python](Easy/1944_Truncate_Sentence.py))
 - Rearrange Products Table ([MySQL](Easy/1948_Rearrange_Products_Table.sql))
 - Sign of the Product of an Array ([Python](Easy/1950_Sign_of_the_Product_of_an_Array.py))
+- Replace All Digits with Characters ([Python](Easy/1954_Replace_All_Digits_with_Characters.py))
 
 ## Medium
 
@@ -73,7 +74,7 @@ Total Solved: 58
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 56 |
+| Easy | 57 |
 | Medium | 1 |
 | Hard | 1 |
 
