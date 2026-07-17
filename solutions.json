@@ -596,5 +596,18 @@
     "submissionId": "2071421027",
     "timestamp": "1784309910",
     "path": "Easy/1833_Find_the_Highest_Altitude.py"
+  },
+  {
+    "problemId": "1858",
+    "problemTitle": "Latest Time by Replacing Hidden Digits",
+    "problemSlug": "latest-time-by-replacing-hidden-digits",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.6 MB",
+    "submissionId": "2071437674",
+    "timestamp": "1784310718",
+    "path": "Easy/1858_Latest_Time_by_Replacing_Hidden_Digits.py"
   }
 ]
