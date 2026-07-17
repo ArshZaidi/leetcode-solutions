@@ -635,5 +635,18 @@
     "submissionId": "2071447922",
     "timestamp": "1784311223",
     "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.py"
+  },
+  {
+    "problemId": "1908",
+    "problemTitle": "Recyclable and Low Fat Products",
+    "problemSlug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "600 ms",
+    "memory": "0B",
+    "submissionId": "2071449703",
+    "timestamp": "1784311308",
+    "path": "Easy/1908_Recyclable_and_Low_Fat_Products.sql"
   }
 ]
