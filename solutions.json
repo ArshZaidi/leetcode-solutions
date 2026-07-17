@@ -195,6 +195,19 @@
     "path": "Easy/1877_Find_Followers_Count.sql"
   },
   {
+    "problemId": "1882",
+    "problemTitle": "The Number of Employees Which Report to Each Employee",
+    "problemSlug": "the-number-of-employees-which-report-to-each-employee",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "654 ms",
+    "memory": "0B",
+    "submissionId": "2069882338",
+    "timestamp": "1784207099",
+    "path": "Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -559,16 +572,16 @@
     "path": "Easy/1817_Calculate_Money_in_Leetcode_Bank.py"
   },
   {
-    "problemId": "1882",
-    "problemTitle": "The Number of Employees Which Report to Each Employee",
-    "problemSlug": "the-number-of-employees-which-report-to-each-employee",
-    "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "654 ms",
-    "memory": "0B",
-    "submissionId": "2069882338",
-    "timestamp": "1784207099",
-    "path": "Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql"
+    "problemId": "3583",
+    "problemTitle": "Sorted GCD Pair Queries",
+    "problemSlug": "sorted-gcd-pair-queries",
+    "difficulty": "Hard",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "1056 ms",
+    "memory": "33.3 MB",
+    "submissionId": "2071412414",
+    "timestamp": "1784309494",
+    "path": "Hard/3583_Sorted_GCD_Pair_Queries.py"
   }
 ]
