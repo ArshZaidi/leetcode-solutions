@@ -726,5 +726,18 @@
     "submissionId": "2071460464",
     "timestamp": "1784311839",
     "path": "Easy/1920_Determine_Color_of_a_Chessboard_Square.py"
+  },
+  {
+    "problemId": "1944",
+    "problemTitle": "Truncate Sentence",
+    "problemSlug": "truncate-sentence",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2071461439",
+    "timestamp": "1784311888",
+    "path": "Easy/1944_Truncate_Sentence.py"
   }
 ]
