@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 54
+Total Solved: 55
 
 ## Easy
 
@@ -54,6 +54,7 @@ Total Solved: 54
 - Merge Strings Alternately ([Python](Easy/1894_Merge_Strings_Alternately.py))
 - Count Items Matching a Rule ([Python](Easy/1899_Count_Items_Matching_a_Rule.py))
 - Recyclable and Low Fat Products ([MySQL](Easy/1908_Recyclable_and_Low_Fat_Products.sql))
+- Maximum Ascending Subarray Sum ([Python](Easy/1927_Maximum_Ascending_Subarray_Sum.py))
 - Primary Department for Each Employee ([MySQL](Easy/1942_Primary_Department_for_Each_Employee.sql))
 - Rearrange Products Table ([MySQL](Easy/1948_Rearrange_Products_Table.sql))
 
@@ -69,7 +70,7 @@ Total Solved: 54
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 52 |
+| Easy | 53 |
 | Medium | 1 |
 | Hard | 1 |
 
