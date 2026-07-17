@@ -609,5 +609,18 @@
     "submissionId": "2071437674",
     "timestamp": "1784310718",
     "path": "Easy/1858_Latest_Time_by_Replacing_Hidden_Digits.py"
+  },
+  {
+    "problemId": "1892",
+    "problemTitle": "Find Total Time Spent by Each Employee",
+    "problemSlug": "find-total-time-spent-by-each-employee",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "530 ms",
+    "memory": "0B",
+    "submissionId": "2071444302",
+    "timestamp": "1784311042",
+    "path": "Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql"
   }
 ]
