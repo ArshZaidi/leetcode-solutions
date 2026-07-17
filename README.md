@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 51
+Total Solved: 52
 
 ## Easy
 
@@ -52,6 +52,7 @@ Total Solved: 51
 - The Number of Employees Which Report to Each Employee ([MySQL](Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql))
 - Find Total Time Spent by Each Employee ([MySQL](Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql))
 - Merge Strings Alternately ([Python](Easy/1894_Merge_Strings_Alternately.py))
+- Count Items Matching a Rule ([Python](Easy/1899_Count_Items_Matching_a_Rule.py))
 - Recyclable and Low Fat Products ([MySQL](Easy/1908_Recyclable_and_Low_Fat_Products.sql))
 
 ## Medium
@@ -66,7 +67,7 @@ Total Solved: 51
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 49 |
+| Easy | 50 |
 | Medium | 1 |
 | Hard | 1 |
 
