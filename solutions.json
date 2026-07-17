@@ -765,5 +765,18 @@
     "submissionId": "2071470267",
     "timestamp": "1784312343",
     "path": "Easy/1954_Replace_All_Digits_with_Characters.py"
+  },
+  {
+    "problemId": "2024",
+    "problemTitle": "Calculate Special Bonus",
+    "problemSlug": "calculate-special-bonus",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "630 ms",
+    "memory": "0B",
+    "submissionId": "2071472749",
+    "timestamp": "1784312481",
+    "path": "Easy/2024_Calculate_Special_Bonus.sql"
   }
 ]
