@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 52
+Total Solved: 53
 
 ## Easy
 
@@ -54,6 +54,7 @@ Total Solved: 52
 - Merge Strings Alternately ([Python](Easy/1894_Merge_Strings_Alternately.py))
 - Count Items Matching a Rule ([Python](Easy/1899_Count_Items_Matching_a_Rule.py))
 - Recyclable and Low Fat Products ([MySQL](Easy/1908_Recyclable_and_Low_Fat_Products.sql))
+- Primary Department for Each Employee ([MySQL](Easy/1942_Primary_Department_for_Each_Employee.sql))
 
 ## Medium
 
@@ -67,7 +68,7 @@ Total Solved: 52
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 50 |
+| Easy | 51 |
 | Medium | 1 |
 | Hard | 1 |
 
