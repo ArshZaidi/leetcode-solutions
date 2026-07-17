@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 47
+Total Solved: 48
 
 ## Easy
 
@@ -49,6 +49,7 @@ Total Solved: 47
 - Latest Time by Replacing Hidden Digits ([Python](Easy/1858_Latest_Time_by_Replacing_Hidden_Digits.py))
 - Find Followers Count ([MySQL](Easy/1877_Find_Followers_Count.sql))
 - The Number of Employees Which Report to Each Employee ([MySQL](Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql))
+- Find Total Time Spent by Each Employee ([MySQL](Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql))
 
 ## Medium
 
@@ -62,7 +63,7 @@ Total Solved: 47
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 45 |
+| Easy | 46 |
 | Medium | 1 |
 | Hard | 1 |
 
