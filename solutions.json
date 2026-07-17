@@ -739,5 +739,18 @@
     "submissionId": "2071461439",
     "timestamp": "1784311888",
     "path": "Easy/1944_Truncate_Sentence.py"
+  },
+  {
+    "problemId": "1950",
+    "problemTitle": "Sign of the Product of an Array",
+    "problemSlug": "sign-of-the-product-of-an-array",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.7 MB",
+    "submissionId": "2071467613",
+    "timestamp": "1784312199",
+    "path": "Easy/1950_Sign_of_the_Product_of_an_Array.py"
   }
 ]
