@@ -234,6 +234,19 @@
     "path": "Easy/1908_Recyclable_and_Low_Fat_Products.sql"
   },
   {
+    "problemId": "1942",
+    "problemTitle": "Primary Department for Each Employee",
+    "problemSlug": "primary-department-for-each-employee",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "519 ms",
+    "memory": "0B",
+    "submissionId": "2071454823",
+    "timestamp": "1784311558",
+    "path": "Easy/1942_Primary_Department_for_Each_Employee.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -676,16 +689,16 @@
     "path": "Easy/1899_Count_Items_Matching_a_Rule.py"
   },
   {
-    "problemId": "1942",
-    "problemTitle": "Primary Department for Each Employee",
-    "problemSlug": "primary-department-for-each-employee",
+    "problemId": "1948",
+    "problemTitle": "Rearrange Products Table",
+    "problemSlug": "rearrange-products-table",
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "519 ms",
+    "runtime": "715 ms",
     "memory": "0B",
-    "submissionId": "2071454823",
-    "timestamp": "1784311558",
-    "path": "Easy/1942_Primary_Department_for_Each_Employee.sql"
+    "submissionId": "2071457664",
+    "timestamp": "1784311700",
+    "path": "Easy/1948_Rearrange_Products_Table.sql"
   }
 ]
