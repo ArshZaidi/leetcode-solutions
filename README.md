@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 45
+Total Solved: 46
 
 ## Easy
 
@@ -44,6 +44,7 @@ Total Solved: 45
 - Fix Names in a Table ([MySQL](Easy/1811_Fix_Names_in_a_Table.sql))
 - Calculate Money in Leetcode Bank ([Python](Easy/1817_Calculate_Money_in_Leetcode_Bank.py))
 - Invalid Tweets ([MySQL](Easy/1827_Invalid_Tweets.sql))
+- Find the Highest Altitude ([Python](Easy/1833_Find_the_Highest_Altitude.py))
 - Daily Leads and Partners ([MySQL](Easy/1837_Daily_Leads_and_Partners.sql))
 - Find Followers Count ([MySQL](Easy/1877_Find_Followers_Count.sql))
 - The Number of Employees Which Report to Each Employee ([MySQL](Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql))
@@ -60,7 +61,7 @@ Total Solved: 45
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 43 |
+| Easy | 44 |
 | Medium | 1 |
 | Hard | 1 |
 
