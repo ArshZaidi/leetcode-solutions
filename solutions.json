@@ -221,6 +221,19 @@
     "path": "Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql"
   },
   {
+    "problemId": "1908",
+    "problemTitle": "Recyclable and Low Fat Products",
+    "problemSlug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "600 ms",
+    "memory": "0B",
+    "submissionId": "2071449703",
+    "timestamp": "1784311308",
+    "path": "Easy/1908_Recyclable_and_Low_Fat_Products.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -637,16 +650,16 @@
     "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.py"
   },
   {
-    "problemId": "1908",
-    "problemTitle": "Recyclable and Low Fat Products",
-    "problemSlug": "recyclable-and-low-fat-products",
+    "problemId": "1894",
+    "problemTitle": "Merge Strings Alternately",
+    "problemSlug": "merge-strings-alternately",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "600 ms",
-    "memory": "0B",
-    "submissionId": "2071449703",
-    "timestamp": "1784311308",
-    "path": "Easy/1908_Recyclable_and_Low_Fat_Products.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "20 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2071452682",
+    "timestamp": "1784311454",
+    "path": "Easy/1894_Merge_Strings_Alternately.py"
   }
 ]
