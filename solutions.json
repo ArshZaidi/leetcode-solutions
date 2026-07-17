@@ -247,6 +247,19 @@
     "path": "Easy/1942_Primary_Department_for_Each_Employee.sql"
   },
   {
+    "problemId": "1948",
+    "problemTitle": "Rearrange Products Table",
+    "problemSlug": "rearrange-products-table",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "715 ms",
+    "memory": "0B",
+    "submissionId": "2071457664",
+    "timestamp": "1784311700",
+    "path": "Easy/1948_Rearrange_Products_Table.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -689,16 +702,16 @@
     "path": "Easy/1899_Count_Items_Matching_a_Rule.py"
   },
   {
-    "problemId": "1948",
-    "problemTitle": "Rearrange Products Table",
-    "problemSlug": "rearrange-products-table",
+    "problemId": "1927",
+    "problemTitle": "Maximum Ascending Subarray Sum",
+    "problemSlug": "maximum-ascending-subarray-sum",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "715 ms",
-    "memory": "0B",
-    "submissionId": "2071457664",
-    "timestamp": "1784311700",
-    "path": "Easy/1948_Rearrange_Products_Table.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "1 ms",
+    "memory": "12.5 MB",
+    "submissionId": "2071458854",
+    "timestamp": "1784311759",
+    "path": "Easy/1927_Maximum_Ascending_Subarray_Sum.py"
   }
 ]
