@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 50
+Total Solved: 51
 
 ## Easy
 
@@ -51,6 +51,7 @@ Total Solved: 50
 - Check if Array Is Sorted and Rotated ([Python](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.py))
 - The Number of Employees Which Report to Each Employee ([MySQL](Easy/1882_The_Number_of_Employees_Which_Report_to_Each_Employee.sql))
 - Find Total Time Spent by Each Employee ([MySQL](Easy/1892_Find_Total_Time_Spent_by_Each_Employee.sql))
+- Merge Strings Alternately ([Python](Easy/1894_Merge_Strings_Alternately.py))
 - Recyclable and Low Fat Products ([MySQL](Easy/1908_Recyclable_and_Low_Fat_Products.sql))
 
 ## Medium
@@ -65,7 +66,7 @@ Total Solved: 50
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 48 |
+| Easy | 49 |
 | Medium | 1 |
 | Hard | 1 |
 
