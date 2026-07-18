@@ -947,5 +947,18 @@
     "submissionId": "2072282357",
     "timestamp": "1784383333",
     "path": "Medium/0011_Container_With_Most_Water.py"
+  },
+  {
+    "problemId": "15",
+    "problemTitle": "3Sum",
+    "problemSlug": "3sum",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "799 ms",
+    "memory": "19 MB",
+    "submissionId": "2072298669",
+    "timestamp": "1784384303",
+    "path": "Medium/0015_3Sum.py"
   }
 ]
