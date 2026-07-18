@@ -299,6 +299,19 @@
     "path": "Easy/2110_Employees_With_Missing_Information.sql"
   },
   {
+    "problemId": "2127",
+    "problemTitle": "Employees Whose Manager Left the Company",
+    "problemSlug": "employees-whose-manager-left-the-company",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "301 ms",
+    "memory": "0B",
+    "submissionId": "2071894829",
+    "timestamp": "1784357916",
+    "path": "Easy/2127_Employees_Whose_Manager_Left_the_Company.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -910,16 +923,16 @@
     "path": "Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.py"
   },
   {
-    "problemId": "2127",
-    "problemTitle": "Employees Whose Manager Left the Company",
-    "problemSlug": "employees-whose-manager-left-the-company",
+    "problemId": "2231",
+    "problemTitle": "Find First Palindromic String in the Array",
+    "problemSlug": "find-first-palindromic-string-in-the-array",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "301 ms",
-    "memory": "0B",
-    "submissionId": "2071894829",
-    "timestamp": "1784357916",
-    "path": "Easy/2127_Employees_Whose_Manager_Left_the_Company.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2071899036",
+    "timestamp": "1784358164",
+    "path": "Easy/2231_Find_First_Palindromic_String_in_the_Array.py"
   }
 ]
