@@ -986,5 +986,18 @@
     "submissionId": "2072558109",
     "timestamp": "1784392402",
     "path": "Medium/0056_Merge_Intervals.py"
+  },
+  {
+    "problemId": "57",
+    "problemTitle": "Insert Interval",
+    "problemSlug": "insert-interval",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "14.2 MB",
+    "submissionId": "2072618599",
+    "timestamp": "1784395426",
+    "path": "Medium/0057_Insert_Interval.py"
   }
 ]
