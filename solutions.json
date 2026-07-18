@@ -286,6 +286,19 @@
     "path": "Easy/2041_The_Latest_Login_in_2020.sql"
   },
   {
+    "problemId": "2110",
+    "problemTitle": "Employees With Missing Information",
+    "problemSlug": "employees-with-missing-information",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "557 ms",
+    "memory": "0B",
+    "submissionId": "2071883461",
+    "timestamp": "1784357272",
+    "path": "Easy/2110_Employees_With_Missing_Information.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -884,16 +897,16 @@
     "path": "Easy/2093_Check_If_String_Is_a_Prefix_of_Array.py"
   },
   {
-    "problemId": "2110",
-    "problemTitle": "Employees With Missing Information",
-    "problemSlug": "employees-with-missing-information",
+    "problemId": "2099",
+    "problemTitle": "Number of Strings That Appear as Substrings in Word",
+    "problemSlug": "number-of-strings-that-appear-as-substrings-in-word",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "557 ms",
-    "memory": "0B",
-    "submissionId": "2071883461",
-    "timestamp": "1784357272",
-    "path": "Easy/2110_Employees_With_Missing_Information.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2071891147",
+    "timestamp": "1784357704",
+    "path": "Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.py"
   }
 ]
