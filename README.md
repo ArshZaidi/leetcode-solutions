@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 65
+Total Solved: 66
 
 ## Easy
 
@@ -64,6 +64,7 @@ Total Solved: 65
 - Replace All Digits with Characters ([Python](Easy/1954_Replace_All_Digits_with_Characters.py))
 - Sorting the Sentence ([Python](Easy/1970_Sorting_the_Sentence.py))
 - Minimum Distance to the Target Element ([Python](Easy/1975_Minimum_Distance_to_the_Target_Element.py))
+- Remove One Element to Make the Array Strictly Increasing ([Python](Easy/2020_Remove_One_Element_to_Make_the_Array_Strictly_Increasing.py))
 - Calculate Special Bonus ([MySQL](Easy/2024_Calculate_Special_Bonus.sql))
 - The Latest Login in 2020 ([MySQL](Easy/2041_The_Latest_Login_in_2020.sql))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
@@ -80,7 +81,7 @@ Total Solved: 65
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 63 |
+| Easy | 64 |
 | Medium | 1 |
 | Hard | 1 |
 
