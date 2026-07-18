@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 64
+Total Solved: 65
 
 ## Easy
 
@@ -65,6 +65,7 @@ Total Solved: 64
 - Sorting the Sentence ([Python](Easy/1970_Sorting_the_Sentence.py))
 - Minimum Distance to the Target Element ([Python](Easy/1975_Minimum_Distance_to_the_Target_Element.py))
 - Calculate Special Bonus ([MySQL](Easy/2024_Calculate_Special_Bonus.sql))
+- The Latest Login in 2020 ([MySQL](Easy/2041_The_Latest_Login_in_2020.sql))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
 
 ## Medium
@@ -79,7 +80,7 @@ Total Solved: 64
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 62 |
+| Easy | 63 |
 | Medium | 1 |
 | Hard | 1 |
 
