@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 71
+Total Solved: 72
 
 ## Easy
 
@@ -73,6 +73,7 @@ Total Solved: 71
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
 - Employees With Missing Information ([MySQL](Easy/2110_Employees_With_Missing_Information.sql))
 - Employees Whose Manager Left the Company ([MySQL](Easy/2127_Employees_Whose_Manager_Left_the_Company.sql))
+- Find First Palindromic String in the Array ([Python](Easy/2231_Find_First_Palindromic_String_in_the_Array.py))
 
 ## Medium
 
@@ -86,7 +87,7 @@ Total Solved: 71
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 69 |
+| Easy | 70 |
 | Medium | 1 |
 | Hard | 1 |
 
