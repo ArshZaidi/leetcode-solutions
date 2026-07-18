@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 70
+Total Solved: 71
 
 ## Easy
 
@@ -72,6 +72,7 @@ Total Solved: 70
 - Number of Strings That Appear as Substrings in Word ([Python](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.py))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
 - Employees With Missing Information ([MySQL](Easy/2110_Employees_With_Missing_Information.sql))
+- Employees Whose Manager Left the Company ([MySQL](Easy/2127_Employees_Whose_Manager_Left_the_Company.sql))
 
 ## Medium
 
@@ -85,7 +86,7 @@ Total Solved: 70
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 68 |
+| Easy | 69 |
 | Medium | 1 |
 | Hard | 1 |
 
