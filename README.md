@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 76
+Total Solved: 77
 
 ## Easy
 
@@ -81,6 +81,7 @@ Total Solved: 76
 - 3Sum ([Python](Medium/0015_3Sum.py))
 - 4Sum ([Python](Medium/0018_4Sum.py))
 - Merge Intervals ([Python](Medium/0056_Merge_Intervals.py))
+- Insert Interval ([Python](Medium/0057_Insert_Interval.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
 ## Hard
@@ -92,7 +93,7 @@ Total Solved: 76
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 1 |
 
 ---
