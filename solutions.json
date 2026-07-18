@@ -817,5 +817,18 @@
     "submissionId": "2071852587",
     "timestamp": "1784355692",
     "path": "Easy/1975_Minimum_Distance_to_the_Target_Element.py"
+  },
+  {
+    "problemId": "1970",
+    "problemTitle": "Sorting the Sentence",
+    "problemSlug": "sorting-the-sentence",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "14 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2071870800",
+    "timestamp": "1784356604",
+    "path": "Easy/1970_Sorting_the_Sentence.py"
   }
 ]
