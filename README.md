@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 67
+Total Solved: 68
 
 ## Easy
 
@@ -68,6 +68,7 @@ Total Solved: 67
 - Calculate Special Bonus ([MySQL](Easy/2024_Calculate_Special_Bonus.sql))
 - The Latest Login in 2020 ([MySQL](Easy/2041_The_Latest_Login_in_2020.sql))
 - Maximum Product Difference Between Two Pairs ([Python](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.py))
+- Check If String Is a Prefix of Array ([Python](Easy/2093_Check_If_String_Is_a_Prefix_of_Array.py))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
 
 ## Medium
@@ -82,7 +83,7 @@ Total Solved: 67
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 65 |
+| Easy | 66 |
 | Medium | 1 |
 | Hard | 1 |
 
