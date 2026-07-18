@@ -830,5 +830,18 @@
     "submissionId": "2071870800",
     "timestamp": "1784356604",
     "path": "Easy/1970_Sorting_the_Sentence.py"
+  },
+  {
+    "problemId": "2041",
+    "problemTitle": "The Latest Login in 2020",
+    "problemSlug": "the-latest-login-in-2020",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "618 ms",
+    "memory": "0B",
+    "submissionId": "2071877282",
+    "timestamp": "1784356942",
+    "path": "Easy/2041_The_Latest_Login_in_2020.sql"
   }
 ]
