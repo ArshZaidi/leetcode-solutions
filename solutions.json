@@ -856,5 +856,18 @@
     "submissionId": "2071878047",
     "timestamp": "1784356984",
     "path": "Easy/2020_Remove_One_Element_to_Make_the_Array_Strictly_Increasing.py"
+  },
+  {
+    "problemId": "2042",
+    "problemTitle": "Maximum Product Difference Between Two Pairs",
+    "problemSlug": "maximum-product-difference-between-two-pairs",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "141 ms",
+    "memory": "13.4 MB",
+    "submissionId": "2071881058",
+    "timestamp": "1784357143",
+    "path": "Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.py"
   }
 ]
