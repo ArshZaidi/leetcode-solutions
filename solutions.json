@@ -273,6 +273,19 @@
     "path": "Easy/2024_Calculate_Special_Bonus.sql"
   },
   {
+    "problemId": "2041",
+    "problemTitle": "The Latest Login in 2020",
+    "problemSlug": "the-latest-login-in-2020",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "618 ms",
+    "memory": "0B",
+    "submissionId": "2071877282",
+    "timestamp": "1784356942",
+    "path": "Easy/2041_The_Latest_Login_in_2020.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -832,16 +845,16 @@
     "path": "Easy/1970_Sorting_the_Sentence.py"
   },
   {
-    "problemId": "2041",
-    "problemTitle": "The Latest Login in 2020",
-    "problemSlug": "the-latest-login-in-2020",
+    "problemId": "2020",
+    "problemTitle": "Remove One Element to Make the Array Strictly Increasing",
+    "problemSlug": "remove-one-element-to-make-the-array-strictly-increasing",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "618 ms",
-    "memory": "0B",
-    "submissionId": "2071877282",
-    "timestamp": "1784356942",
-    "path": "Easy/2041_The_Latest_Login_in_2020.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "12.6 MB",
+    "submissionId": "2071878047",
+    "timestamp": "1784356984",
+    "path": "Easy/2020_Remove_One_Element_to_Make_the_Array_Strictly_Increasing.py"
   }
 ]
