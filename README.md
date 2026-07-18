@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 75
+Total Solved: 76
 
 ## Easy
 
@@ -80,6 +80,7 @@ Total Solved: 75
 - Container With Most Water ([Python](Medium/0011_Container_With_Most_Water.py))
 - 3Sum ([Python](Medium/0015_3Sum.py))
 - 4Sum ([Python](Medium/0018_4Sum.py))
+- Merge Intervals ([Python](Medium/0056_Merge_Intervals.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
 ## Hard
@@ -91,7 +92,7 @@ Total Solved: 75
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 1 |
 
 ---
