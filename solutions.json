@@ -260,6 +260,19 @@
     "path": "Easy/1948_Rearrange_Products_Table.sql"
   },
   {
+    "problemId": "2024",
+    "problemTitle": "Calculate Special Bonus",
+    "problemSlug": "calculate-special-bonus",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "630 ms",
+    "memory": "0B",
+    "submissionId": "2071472749",
+    "timestamp": "1784312481",
+    "path": "Easy/2024_Calculate_Special_Bonus.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -767,16 +780,16 @@
     "path": "Easy/1954_Replace_All_Digits_with_Characters.py"
   },
   {
-    "problemId": "2024",
-    "problemTitle": "Calculate Special Bonus",
-    "problemSlug": "calculate-special-bonus",
+    "problemId": "2106",
+    "problemTitle": "Find Greatest Common Divisor of Array",
+    "problemSlug": "find-greatest-common-divisor-of-array",
     "difficulty": "Easy",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "630 ms",
-    "memory": "0B",
-    "submissionId": "2071472749",
-    "timestamp": "1784312481",
-    "path": "Easy/2024_Calculate_Special_Bonus.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.6 MB",
+    "submissionId": "2071830074",
+    "timestamp": "1784354540",
+    "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.py"
   }
 ]
