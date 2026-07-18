@@ -791,5 +791,18 @@
     "submissionId": "2071830074",
     "timestamp": "1784354540",
     "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.py"
+  },
+  {
+    "problemId": "1938",
+    "problemTitle": "Minimum Operations to Make the Array Increasing",
+    "problemSlug": "minimum-operations-to-make-the-array-increasing",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "88 ms",
+    "memory": "13 MB",
+    "submissionId": "2071840391",
+    "timestamp": "1784355078",
+    "path": "Easy/1938_Minimum_Operations_to_Make_the_Array_Increasing.py"
   }
 ]
