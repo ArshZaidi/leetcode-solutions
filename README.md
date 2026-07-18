@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 61
+Total Solved: 62
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 61
 - Recyclable and Low Fat Products ([MySQL](Easy/1908_Recyclable_and_Low_Fat_Products.sql))
 - Determine Color of a Chessboard Square ([Python](Easy/1920_Determine_Color_of_a_Chessboard_Square.py))
 - Maximum Ascending Subarray Sum ([Python](Easy/1927_Maximum_Ascending_Subarray_Sum.py))
+- Minimum Operations to Make the Array Increasing ([Python](Easy/1938_Minimum_Operations_to_Make_the_Array_Increasing.py))
 - Primary Department for Each Employee ([MySQL](Easy/1942_Primary_Department_for_Each_Employee.sql))
 - Truncate Sentence ([Python](Easy/1944_Truncate_Sentence.py))
 - Rearrange Products Table ([MySQL](Easy/1948_Rearrange_Products_Table.sql))
@@ -76,7 +77,7 @@ Total Solved: 61
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 59 |
+| Easy | 60 |
 | Medium | 1 |
 | Hard | 1 |
 
