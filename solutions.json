@@ -804,5 +804,18 @@
     "submissionId": "2071840391",
     "timestamp": "1784355078",
     "path": "Easy/1938_Minimum_Operations_to_Make_the_Array_Increasing.py"
+  },
+  {
+    "problemId": "1975",
+    "problemTitle": "Minimum Distance to the Target Element",
+    "problemSlug": "minimum-distance-to-the-target-element",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2071852587",
+    "timestamp": "1784355692",
+    "path": "Easy/1975_Minimum_Distance_to_the_Target_Element.py"
   }
 ]
