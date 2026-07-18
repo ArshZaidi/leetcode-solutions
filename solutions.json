@@ -960,5 +960,18 @@
     "submissionId": "2072298669",
     "timestamp": "1784384303",
     "path": "Medium/0015_3Sum.py"
+  },
+  {
+    "problemId": "18",
+    "problemTitle": "4Sum",
+    "problemSlug": "4sum",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "535 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2072514783",
+    "timestamp": "1784390114",
+    "path": "Medium/0018_4Sum.py"
   }
 ]
