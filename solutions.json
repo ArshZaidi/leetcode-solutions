@@ -908,5 +908,18 @@
     "submissionId": "2071891147",
     "timestamp": "1784357704",
     "path": "Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.py"
+  },
+  {
+    "problemId": "2127",
+    "problemTitle": "Employees Whose Manager Left the Company",
+    "problemSlug": "employees-whose-manager-left-the-company",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "301 ms",
+    "memory": "0B",
+    "submissionId": "2071894829",
+    "timestamp": "1784357916",
+    "path": "Easy/2127_Employees_Whose_Manager_Left_the_Company.sql"
   }
 ]
