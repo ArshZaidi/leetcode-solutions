@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 66
+Total Solved: 67
 
 ## Easy
 
@@ -67,6 +67,7 @@ Total Solved: 66
 - Remove One Element to Make the Array Strictly Increasing ([Python](Easy/2020_Remove_One_Element_to_Make_the_Array_Strictly_Increasing.py))
 - Calculate Special Bonus ([MySQL](Easy/2024_Calculate_Special_Bonus.sql))
 - The Latest Login in 2020 ([MySQL](Easy/2041_The_Latest_Login_in_2020.sql))
+- Maximum Product Difference Between Two Pairs ([Python](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.py))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
 
 ## Medium
@@ -81,7 +82,7 @@ Total Solved: 66
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 64 |
+| Easy | 65 |
 | Medium | 1 |
 | Hard | 1 |
 
