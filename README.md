@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 69
+Total Solved: 70
 
 ## Easy
 
@@ -69,6 +69,7 @@ Total Solved: 69
 - The Latest Login in 2020 ([MySQL](Easy/2041_The_Latest_Login_in_2020.sql))
 - Maximum Product Difference Between Two Pairs ([Python](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.py))
 - Check If String Is a Prefix of Array ([Python](Easy/2093_Check_If_String_Is_a_Prefix_of_Array.py))
+- Number of Strings That Appear as Substrings in Word ([Python](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.py))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
 - Employees With Missing Information ([MySQL](Easy/2110_Employees_With_Missing_Information.sql))
 
@@ -84,7 +85,7 @@ Total Solved: 69
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 67 |
+| Easy | 68 |
 | Medium | 1 |
 | Hard | 1 |
 
