@@ -869,5 +869,18 @@
     "submissionId": "2071881058",
     "timestamp": "1784357143",
     "path": "Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.py"
+  },
+  {
+    "problemId": "2093",
+    "problemTitle": "Check If String Is a Prefix of Array",
+    "problemSlug": "check-if-string-is-a-prefix-of-array",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.2 MB",
+    "submissionId": "2071882527",
+    "timestamp": "1784357223",
+    "path": "Easy/2093_Check_If_String_Is_a_Prefix_of_Array.py"
   }
 ]
