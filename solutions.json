@@ -882,5 +882,18 @@
     "submissionId": "2071882527",
     "timestamp": "1784357223",
     "path": "Easy/2093_Check_If_String_Is_a_Prefix_of_Array.py"
+  },
+  {
+    "problemId": "2110",
+    "problemTitle": "Employees With Missing Information",
+    "problemSlug": "employees-with-missing-information",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "557 ms",
+    "memory": "0B",
+    "submissionId": "2071883461",
+    "timestamp": "1784357272",
+    "path": "Easy/2110_Employees_With_Missing_Information.sql"
   }
 ]
