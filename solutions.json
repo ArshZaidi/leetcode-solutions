@@ -973,5 +973,18 @@
     "submissionId": "2072514783",
     "timestamp": "1784390114",
     "path": "Medium/0018_4Sum.py"
+  },
+  {
+    "problemId": "56",
+    "problemTitle": "Merge Intervals",
+    "problemSlug": "merge-intervals",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "7 ms",
+    "memory": "16.1 MB",
+    "submissionId": "2072558109",
+    "timestamp": "1784392402",
+    "path": "Medium/0056_Merge_Intervals.py"
   }
 ]
