@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 62
+Total Solved: 63
 
 ## Easy
 
@@ -62,6 +62,7 @@ Total Solved: 62
 - Rearrange Products Table ([MySQL](Easy/1948_Rearrange_Products_Table.sql))
 - Sign of the Product of an Array ([Python](Easy/1950_Sign_of_the_Product_of_an_Array.py))
 - Replace All Digits with Characters ([Python](Easy/1954_Replace_All_Digits_with_Characters.py))
+- Minimum Distance to the Target Element ([Python](Easy/1975_Minimum_Distance_to_the_Target_Element.py))
 - Calculate Special Bonus ([MySQL](Easy/2024_Calculate_Special_Bonus.sql))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
 
@@ -77,7 +78,7 @@ Total Solved: 62
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 60 |
+| Easy | 61 |
 | Medium | 1 |
 | Hard | 1 |
 
