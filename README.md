@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 68
+Total Solved: 69
 
 ## Easy
 
@@ -70,6 +70,7 @@ Total Solved: 68
 - Maximum Product Difference Between Two Pairs ([Python](Easy/2042_Maximum_Product_Difference_Between_Two_Pairs.py))
 - Check If String Is a Prefix of Array ([Python](Easy/2093_Check_If_String_Is_a_Prefix_of_Array.py))
 - Find Greatest Common Divisor of Array ([Python](Easy/2106_Find_Greatest_Common_Divisor_of_Array.py))
+- Employees With Missing Information ([MySQL](Easy/2110_Employees_With_Missing_Information.sql))
 
 ## Medium
 
@@ -83,7 +84,7 @@ Total Solved: 68
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 66 |
+| Easy | 67 |
 | Medium | 1 |
 | Hard | 1 |
 
