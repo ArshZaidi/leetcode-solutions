@@ -999,5 +999,18 @@
     "submissionId": "2072618599",
     "timestamp": "1784395426",
     "path": "Medium/0057_Insert_Interval.py"
+  },
+  {
+    "problemId": "1159",
+    "problemTitle": "Smallest Subsequence of Distinct Characters",
+    "problemSlug": "smallest-subsequence-of-distinct-characters",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2073094495",
+    "timestamp": "1784439378",
+    "path": "Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py"
   }
 ]
