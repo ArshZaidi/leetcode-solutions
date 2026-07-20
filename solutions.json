@@ -351,6 +351,19 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
+    "problemId": "180",
+    "problemTitle": "Consecutive Numbers",
+    "problemSlug": "consecutive-numbers",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "553 ms",
+    "memory": "0B",
+    "submissionId": "2074317421",
+    "timestamp": "1784536535",
+    "path": "Medium/0180_Consecutive_Numbers.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -1131,16 +1144,16 @@
     "path": "Medium/0172_Factorial_Trailing_Zeroes.py"
   },
   {
-    "problemId": "180",
-    "problemTitle": "Consecutive Numbers",
-    "problemSlug": "consecutive-numbers",
+    "problemId": "184",
+    "problemTitle": "Department Highest Salary",
+    "problemSlug": "department-highest-salary",
     "difficulty": "Medium",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "553 ms",
+    "runtime": "1075 ms",
     "memory": "0B",
-    "submissionId": "2074317421",
-    "timestamp": "1784536535",
-    "path": "Medium/0180_Consecutive_Numbers.sql"
+    "submissionId": "2074318913",
+    "timestamp": "1784536626",
+    "path": "Medium/0184_Department_Highest_Salary.sql"
   }
 ]
