@@ -1194,5 +1194,18 @@
     "submissionId": "2074323449",
     "timestamp": "1784536907",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.py"
+  },
+  {
+    "problemId": "1386",
+    "problemTitle": "Shift 2D Grid",
+    "problemSlug": "shift-2d-grid",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "1 ms",
+    "memory": "12.6 MB",
+    "submissionId": "2074324383",
+    "timestamp": "1784536967",
+    "path": "Easy/1386_Shift_2D_Grid.py"
   }
 ]
