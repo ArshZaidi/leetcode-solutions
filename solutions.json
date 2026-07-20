@@ -1025,5 +1025,18 @@
     "submissionId": "2074170543",
     "timestamp": "1784527646",
     "path": "Medium/0075_Sort_Colors.py"
+  },
+  {
+    "problemId": "80",
+    "problemTitle": "Remove Duplicates from Sorted Array II",
+    "problemSlug": "remove-duplicates-from-sorted-array-ii",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "95 ms",
+    "memory": "15.2 MB",
+    "submissionId": "2074210300",
+    "timestamp": "1784529616",
+    "path": "Medium/0080_Remove_Duplicates_from_Sorted_Array_II.py"
   }
 ]
