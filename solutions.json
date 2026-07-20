@@ -1168,5 +1168,18 @@
     "submissionId": "2074320682",
     "timestamp": "1784536736",
     "path": "Medium/0215_Kth_Largest_Element_in_an_Array.py"
+  },
+  {
+    "problemId": "1212",
+    "problemTitle": "Sequential Digits",
+    "problemSlug": "sequential-digits",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2074322832",
+    "timestamp": "1784536868",
+    "path": "Medium/1212_Sequential_Digits.py"
   }
 ]
