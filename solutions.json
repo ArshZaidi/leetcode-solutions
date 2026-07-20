@@ -312,6 +312,19 @@
     "path": "Easy/2127_Employees_Whose_Manager_Left_the_Company.sql"
   },
   {
+    "problemId": "176",
+    "problemTitle": "Second Highest Salary",
+    "problemSlug": "second-highest-salary",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "269 ms",
+    "memory": "0B",
+    "submissionId": "2074312989",
+    "timestamp": "1784536261",
+    "path": "Medium/0176_Second_Highest_Salary.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -1092,16 +1105,16 @@
     "path": "Medium/0172_Factorial_Trailing_Zeroes.py"
   },
   {
-    "problemId": "176",
-    "problemTitle": "Second Highest Salary",
-    "problemSlug": "second-highest-salary",
+    "problemId": "177",
+    "problemTitle": "Nth Highest Salary",
+    "problemSlug": "nth-highest-salary",
     "difficulty": "Medium",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "269 ms",
+    "runtime": "398 ms",
     "memory": "0B",
-    "submissionId": "2074312989",
-    "timestamp": "1784536261",
-    "path": "Medium/0176_Second_Highest_Salary.sql"
+    "submissionId": "2074314980",
+    "timestamp": "1784536382",
+    "path": "Medium/0177_Nth_Highest_Salary.sql"
   }
 ]
