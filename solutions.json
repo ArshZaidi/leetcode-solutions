@@ -1012,5 +1012,18 @@
     "submissionId": "2073094495",
     "timestamp": "1784439378",
     "path": "Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py"
+  },
+  {
+    "problemId": "75",
+    "problemTitle": "Sort Colors",
+    "problemSlug": "sort-colors",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.3 MB",
+    "submissionId": "2074170543",
+    "timestamp": "1784527646",
+    "path": "Medium/0075_Sort_Colors.py"
   }
 ]
