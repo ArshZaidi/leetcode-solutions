@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 78
+Total Solved: 79
 
 ## Easy
 
@@ -82,6 +82,7 @@ Total Solved: 78
 - 4Sum ([Python](Medium/0018_4Sum.py))
 - Merge Intervals ([Python](Medium/0056_Merge_Intervals.py))
 - Insert Interval ([Python](Medium/0057_Insert_Interval.py))
+- Sort Colors ([Python](Medium/0075_Sort_Colors.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
@@ -94,7 +95,7 @@ Total Solved: 78
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 1 |
 
 ---
