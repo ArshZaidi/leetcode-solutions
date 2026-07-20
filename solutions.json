@@ -325,6 +325,19 @@
     "path": "Medium/0176_Second_Highest_Salary.sql"
   },
   {
+    "problemId": "177",
+    "problemTitle": "Nth Highest Salary",
+    "problemSlug": "nth-highest-salary",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "398 ms",
+    "memory": "0B",
+    "submissionId": "2074314980",
+    "timestamp": "1784536382",
+    "path": "Medium/0177_Nth_Highest_Salary.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -1105,16 +1118,16 @@
     "path": "Medium/0172_Factorial_Trailing_Zeroes.py"
   },
   {
-    "problemId": "177",
-    "problemTitle": "Nth Highest Salary",
-    "problemSlug": "nth-highest-salary",
+    "problemId": "178",
+    "problemTitle": "Rank Scores",
+    "problemSlug": "rank-scores",
     "difficulty": "Medium",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "398 ms",
+    "runtime": "289 ms",
     "memory": "0B",
-    "submissionId": "2074314980",
-    "timestamp": "1784536382",
-    "path": "Medium/0177_Nth_Highest_Salary.sql"
+    "submissionId": "2074315912",
+    "timestamp": "1784536440",
+    "path": "Medium/0178_Rank_Scores.sql"
   }
 ]
