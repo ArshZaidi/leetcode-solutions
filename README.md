@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 84
+Total Solved: 85
 
 ## Easy
 
@@ -88,6 +88,7 @@ Total Solved: 84
 - Maximum Gap ([Python](Medium/0164_Maximum_Gap.py))
 - Compare Version Numbers ([Python](Medium/0165_Compare_Version_Numbers.py))
 - Factorial Trailing Zeroes ([Python](Medium/0172_Factorial_Trailing_Zeroes.py))
+- Second Highest Salary ([MySQL](Medium/0176_Second_Highest_Salary.sql))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
@@ -100,7 +101,7 @@ Total Solved: 84
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 1 |
 
 ---
