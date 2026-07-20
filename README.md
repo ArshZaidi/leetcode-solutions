@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 90
+Total Solved: 91
 
 ## Easy
 
@@ -95,6 +95,7 @@ Total Solved: 90
 - Department Highest Salary ([MySQL](Medium/0184_Department_Highest_Salary.sql))
 - Kth Largest Element in an Array ([Python](Medium/0215_Kth_Largest_Element_in_an_Array.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
+- Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
 ## Hard
@@ -106,7 +107,7 @@ Total Solved: 90
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 19 |
+| Medium | 20 |
 | Hard | 1 |
 
 ---
