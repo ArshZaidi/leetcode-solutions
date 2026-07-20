@@ -1051,5 +1051,18 @@
     "submissionId": "2074230140",
     "timestamp": "1784530663",
     "path": "Medium/0151_Reverse_Words_in_a_String.py"
+  },
+  {
+    "problemId": "164",
+    "problemTitle": "Maximum Gap",
+    "problemSlug": "maximum-gap",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "239 ms",
+    "memory": "23.9 MB",
+    "submissionId": "2074241100",
+    "timestamp": "1784531307",
+    "path": "Medium/0164_Maximum_Gap.py"
   }
 ]
