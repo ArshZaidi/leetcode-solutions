@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 82
+Total Solved: 83
 
 ## Easy
 
@@ -86,6 +86,7 @@ Total Solved: 82
 - Remove Duplicates from Sorted Array II ([Python](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.py))
 - Reverse Words in a String ([Python](Medium/0151_Reverse_Words_in_a_String.py))
 - Maximum Gap ([Python](Medium/0164_Maximum_Gap.py))
+- Compare Version Numbers ([Python](Medium/0165_Compare_Version_Numbers.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
@@ -98,7 +99,7 @@ Total Solved: 82
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 1 |
 
 ---
