@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 87
+Total Solved: 88
 
 ## Easy
 
@@ -91,6 +91,7 @@ Total Solved: 87
 - Second Highest Salary ([MySQL](Medium/0176_Second_Highest_Salary.sql))
 - Nth Highest Salary ([MySQL](Medium/0177_Nth_Highest_Salary.sql))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
+- Consecutive Numbers ([MySQL](Medium/0180_Consecutive_Numbers.sql))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
@@ -103,7 +104,7 @@ Total Solved: 87
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 1 |
 
 ---
