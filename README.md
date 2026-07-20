@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 89
+Total Solved: 90
 
 ## Easy
 
@@ -93,6 +93,7 @@ Total Solved: 89
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Consecutive Numbers ([MySQL](Medium/0180_Consecutive_Numbers.sql))
 - Department Highest Salary ([MySQL](Medium/0184_Department_Highest_Salary.sql))
+- Kth Largest Element in an Array ([Python](Medium/0215_Kth_Largest_Element_in_an_Array.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
@@ -105,7 +106,7 @@ Total Solved: 89
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 18 |
+| Medium | 19 |
 | Hard | 1 |
 
 ---
