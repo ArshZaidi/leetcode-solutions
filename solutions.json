@@ -364,6 +364,19 @@
     "path": "Medium/0180_Consecutive_Numbers.sql"
   },
   {
+    "problemId": "184",
+    "problemTitle": "Department Highest Salary",
+    "problemSlug": "department-highest-salary",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1075 ms",
+    "memory": "0B",
+    "submissionId": "2074318913",
+    "timestamp": "1784536626",
+    "path": "Medium/0184_Department_Highest_Salary.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -1144,16 +1157,16 @@
     "path": "Medium/0172_Factorial_Trailing_Zeroes.py"
   },
   {
-    "problemId": "184",
-    "problemTitle": "Department Highest Salary",
-    "problemSlug": "department-highest-salary",
+    "problemId": "215",
+    "problemTitle": "Kth Largest Element in an Array",
+    "problemSlug": "kth-largest-element-in-an-array",
     "difficulty": "Medium",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "1075 ms",
-    "memory": "0B",
-    "submissionId": "2074318913",
-    "timestamp": "1784536626",
-    "path": "Medium/0184_Department_Highest_Salary.sql"
+    "language": "Python",
+    "extension": "py",
+    "runtime": "80 ms",
+    "memory": "20.2 MB",
+    "submissionId": "2074320682",
+    "timestamp": "1784536736",
+    "path": "Medium/0215_Kth_Largest_Element_in_an_Array.py"
   }
 ]
