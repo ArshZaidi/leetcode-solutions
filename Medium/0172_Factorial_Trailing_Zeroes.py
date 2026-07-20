@@ -3,7 +3,7 @@
 # Difficulty: Medium
 # Language: Python
 # Runtime: 0 ms
-# Memory: 12.4 MB
+# Memory: 12.3 MB
 # Synced From: LeetCode
 # Date: 2026-07-20
 
