@@ -1086,9 +1086,9 @@
     "language": "Python",
     "extension": "py",
     "runtime": "0 ms",
-    "memory": "12.4 MB",
-    "submissionId": "2074277702",
-    "timestamp": "1784533843",
+    "memory": "12.3 MB",
+    "submissionId": "2074296843",
+    "timestamp": "1784535210",
     "path": "Medium/0172_Factorial_Trailing_Zeroes.py"
   }
 ]
