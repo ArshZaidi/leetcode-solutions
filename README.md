@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 92
+Total Solved: 93
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 92
 - Number of Days Between Two Dates ([Python](Easy/1274_Number_of_Days_Between_Two_Dates.py))
 - Reformat Date ([Python](Easy/1283_Reformat_Date.py))
 - Three Consecutive Odds ([Python](Easy/1293_Three_Consecutive_Odds.py))
+- Shift 2D Grid ([Python](Easy/1386_Shift_2D_Grid.py))
 - Average Selling Price ([MySQL](Easy/1390_Average_Selling_Price.sql))
 - Subtract the Product and Sum of Digits of an Integer ([Python](Easy/1406_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py))
 - Find Numbers with Even Number of Digits ([Python](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.py))
@@ -107,7 +108,7 @@ Total Solved: 92
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 71 |
+| Easy | 72 |
 | Medium | 20 |
 | Hard | 1 |
 
