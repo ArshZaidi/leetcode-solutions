@@ -1064,5 +1064,18 @@
     "submissionId": "2074241553",
     "timestamp": "1784531335",
     "path": "Medium/0164_Maximum_Gap.py"
+  },
+  {
+    "problemId": "165",
+    "problemTitle": "Compare Version Numbers",
+    "problemSlug": "compare-version-numbers",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.2 MB",
+    "submissionId": "2074253568",
+    "timestamp": "1784532118",
+    "path": "Medium/0165_Compare_Version_Numbers.py"
   }
 ]
