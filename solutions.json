@@ -1090,5 +1090,18 @@
     "submissionId": "2074296843",
     "timestamp": "1784535210",
     "path": "Medium/0172_Factorial_Trailing_Zeroes.py"
+  },
+  {
+    "problemId": "176",
+    "problemTitle": "Second Highest Salary",
+    "problemSlug": "second-highest-salary",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "269 ms",
+    "memory": "0B",
+    "submissionId": "2074312989",
+    "timestamp": "1784536261",
+    "path": "Medium/0176_Second_Highest_Salary.sql"
   }
 ]
