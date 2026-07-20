@@ -1077,5 +1077,18 @@
     "submissionId": "2074253568",
     "timestamp": "1784532118",
     "path": "Medium/0165_Compare_Version_Numbers.py"
+  },
+  {
+    "problemId": "172",
+    "problemTitle": "Factorial Trailing Zeroes",
+    "problemSlug": "factorial-trailing-zeroes",
+    "difficulty": "Medium",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2074259234",
+    "timestamp": "1784532505",
+    "path": "Medium/0172_Factorial_Trailing_Zeroes.py"
   }
 ]
