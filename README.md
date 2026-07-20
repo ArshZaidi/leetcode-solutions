@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 86
+Total Solved: 87
 
 ## Easy
 
@@ -90,6 +90,7 @@ Total Solved: 86
 - Factorial Trailing Zeroes ([Python](Medium/0172_Factorial_Trailing_Zeroes.py))
 - Second Highest Salary ([MySQL](Medium/0176_Second_Highest_Salary.sql))
 - Nth Highest Salary ([MySQL](Medium/0177_Nth_Highest_Salary.sql))
+- Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
@@ -102,7 +103,7 @@ Total Solved: 86
 | Difficulty | Count |
 |------------|--------|
 | Easy | 70 |
-| Medium | 15 |
+| Medium | 16 |
 | Hard | 1 |
 
 ---
