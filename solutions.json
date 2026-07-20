@@ -1181,5 +1181,18 @@
     "submissionId": "2074322832",
     "timestamp": "1784536868",
     "path": "Medium/1212_Sequential_Digits.py"
+  },
+  {
+    "problemId": "3995",
+    "problemTitle": "GCD of Odd and Even Sums",
+    "problemSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2074323449",
+    "timestamp": "1784536907",
+    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.py"
   }
 ]
