@@ -1246,5 +1246,18 @@
     "submissionId": "2077450458",
     "timestamp": "1784740630",
     "path": "Medium/0443_String_Compression.py"
+  },
+  {
+    "problemId": "468",
+    "problemTitle": "Validate IP Address",
+    "problemSlug": "validate-ip-address",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2077453818",
+    "timestamp": "1784740765",
+    "path": "Medium/0468_Validate_IP_Address.py"
   }
 ]
