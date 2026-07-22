@@ -1233,5 +1233,18 @@
     "submissionId": "2077445750",
     "timestamp": "1784740449",
     "path": "Medium/0402_Remove_K_Digits.py"
+  },
+  {
+    "problemId": "443",
+    "problemTitle": "String Compression",
+    "problemSlug": "string-compression",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "1 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2077450458",
+    "timestamp": "1784740630",
+    "path": "Medium/0443_String_Compression.py"
   }
 ]
