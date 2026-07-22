@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 96
+Total Solved: 97
 
 ## Easy
 
@@ -98,6 +98,7 @@ Total Solved: 96
 - Kth Largest Element in an Array ([Python](Medium/0215_Kth_Largest_Element_in_an_Array.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
+- Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
@@ -112,7 +113,7 @@ Total Solved: 96
 | Difficulty | Count |
 |------------|--------|
 | Easy | 72 |
-| Medium | 22 |
+| Medium | 23 |
 | Hard | 2 |
 
 ---
