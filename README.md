@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 93
+Total Solved: 94
 
 ## Easy
 
@@ -103,6 +103,7 @@ Total Solved: 93
 ## Hard
 
 - Sorted GCD Pair Queries ([Python](Hard/3583_Sorted_GCD_Pair_Queries.py))
+- Maximize Active Section with Trade II ([C++](Hard/3804_Maximize_Active_Section_with_Trade_II.cpp))
 
 ## Statistics
 
@@ -110,7 +111,7 @@ Total Solved: 93
 |------------|--------|
 | Easy | 72 |
 | Medium | 20 |
-| Hard | 1 |
+| Hard | 2 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
