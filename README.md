@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 97
+Total Solved: 98
 
 ## Easy
 
@@ -101,6 +101,7 @@ Total Solved: 97
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
+- Number of Unique XOR Triplets I ([Python3](Medium/3824_Number_of_Unique_XOR_Triplets_I.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
 
 ## Hard
@@ -113,7 +114,7 @@ Total Solved: 97
 | Difficulty | Count |
 |------------|--------|
 | Easy | 72 |
-| Medium | 23 |
+| Medium | 24 |
 | Hard | 2 |
 
 ---
