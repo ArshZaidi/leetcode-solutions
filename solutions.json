@@ -1259,5 +1259,18 @@
     "submissionId": "2077453818",
     "timestamp": "1784740765",
     "path": "Medium/0468_Validate_IP_Address.py"
+  },
+  {
+    "problemId": "3824",
+    "problemTitle": "Number of Unique XOR Triplets I",
+    "problemSlug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "32.1 MB",
+    "submissionId": "2078742178",
+    "timestamp": "1784828224",
+    "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.py"
   }
 ]
