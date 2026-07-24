@@ -1272,5 +1272,18 @@
     "submissionId": "2078742178",
     "timestamp": "1784828224",
     "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.py"
+  },
+  {
+    "problemId": "3820",
+    "problemTitle": "Number of Unique XOR Triplets II",
+    "problemSlug": "number-of-unique-xor-triplets-ii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "10202 ms",
+    "memory": "20 MB",
+    "submissionId": "2079881893",
+    "timestamp": "1784913663",
+    "path": "Medium/3820_Number_of_Unique_XOR_Triplets_II.py"
   }
 ]
