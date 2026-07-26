@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 102
+Total Solved: 103
 
 ## Easy
 
@@ -102,6 +102,7 @@ Total Solved: 102
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
 - Non-decreasing Array ([Python3](Medium/0665_Non-decreasing_Array.py))
 - Beautiful Arrangement II ([Python3](Medium/0667_Beautiful_Arrangement_II.py))
+- Maximum Swap ([Python3](Medium/0670_Maximum_Swap.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -118,7 +119,7 @@ Total Solved: 102
 | Difficulty | Count |
 |------------|--------|
 | Easy | 73 |
-| Medium | 27 |
+| Medium | 28 |
 | Hard | 2 |
 
 ---
