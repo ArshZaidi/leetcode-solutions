@@ -1311,5 +1311,18 @@
     "submissionId": "2081663692",
     "timestamp": "1785048256",
     "path": "Easy/0628_Maximum_Product_of_Three_Numbers.py"
+  },
+  {
+    "problemId": "665",
+    "problemTitle": "Non-decreasing Array",
+    "problemSlug": "non-decreasing-array",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "20.7 MB",
+    "submissionId": "2082331052",
+    "timestamp": "1785084938",
+    "path": "Medium/0665_Non-decreasing_Array.py"
   }
 ]
