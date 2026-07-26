@@ -1337,5 +1337,18 @@
     "submissionId": "2082340867",
     "timestamp": "1785085363",
     "path": "Medium/0667_Beautiful_Arrangement_II.py"
+  },
+  {
+    "problemId": "670",
+    "problemTitle": "Maximum Swap",
+    "problemSlug": "maximum-swap",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "submissionId": "2082349794",
+    "timestamp": "1785085750",
+    "path": "Medium/0670_Maximum_Swap.py"
   }
 ]
