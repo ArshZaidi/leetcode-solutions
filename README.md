@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 100
+Total Solved: 101
 
 ## Easy
 
@@ -100,6 +100,7 @@ Total Solved: 100
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
+- Non-decreasing Array ([Python3](Medium/0665_Non-decreasing_Array.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -116,7 +117,7 @@ Total Solved: 100
 | Difficulty | Count |
 |------------|--------|
 | Easy | 73 |
-| Medium | 25 |
+| Medium | 26 |
 | Hard | 2 |
 
 ---
