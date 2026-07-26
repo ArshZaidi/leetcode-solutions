@@ -1222,6 +1222,19 @@
     "path": "Easy/1386_Shift_2D_Grid.py"
   },
   {
+    "problemId": "628",
+    "problemTitle": "Maximum Product of Three Numbers",
+    "problemSlug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "language": "Python",
+    "extension": "py",
+    "runtime": "34 ms",
+    "memory": "13.1 MB",
+    "submissionId": "2056190628",
+    "timestamp": "1783192259",
+    "path": "Easy/0628_Maximum_Product_of_Three_Numbers.py"
+  },
+  {
     "problemId": "402",
     "problemTitle": "Remove K Digits",
     "problemSlug": "remove-k-digits",
@@ -1291,12 +1304,12 @@
     "problemTitle": "Maximum Product of Three Numbers",
     "problemSlug": "maximum-product-of-three-numbers",
     "difficulty": "Easy",
-    "language": "Python",
+    "language": "Python3",
     "extension": "py",
-    "runtime": "34 ms",
-    "memory": "13.1 MB",
-    "submissionId": "2056190628",
-    "timestamp": "1783192259",
+    "runtime": "17 ms",
+    "memory": "20.3 MB",
+    "submissionId": "2081663692",
+    "timestamp": "1785048256",
     "path": "Easy/0628_Maximum_Product_of_Three_Numbers.py"
   }
 ]
