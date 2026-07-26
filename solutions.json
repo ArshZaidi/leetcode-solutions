@@ -1324,5 +1324,18 @@
     "submissionId": "2082331052",
     "timestamp": "1785084938",
     "path": "Medium/0665_Non-decreasing_Array.py"
+  },
+  {
+    "problemId": "667",
+    "problemTitle": "Beautiful Arrangement II",
+    "problemSlug": "beautiful-arrangement-ii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "20.1 MB",
+    "submissionId": "2082340867",
+    "timestamp": "1785085363",
+    "path": "Medium/0667_Beautiful_Arrangement_II.py"
   }
 ]
