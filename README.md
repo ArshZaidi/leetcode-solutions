@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 108
+Total Solved: 109
 
 ## Easy
 
@@ -108,6 +108,7 @@ Total Solved: 108
 - Asteroid Collision ([Python3](Medium/0735_Asteroid_Collision.py))
 - Monotone Increasing Digits ([Python3](Medium/0738_Monotone_Increasing_Digits.py))
 - Daily Temperatures ([Python3](Medium/0739_Daily_Temperatures.py))
+- Global and Local Inversions ([Python3](Medium/0790_Global_and_Local_Inversions.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -124,7 +125,7 @@ Total Solved: 108
 | Difficulty | Count |
 |------------|--------|
 | Easy | 73 |
-| Medium | 33 |
+| Medium | 34 |
 | Hard | 2 |
 
 ---
