@@ -1415,5 +1415,18 @@
     "submissionId": "2087219439",
     "timestamp": "1785400881",
     "path": "Medium/0739_Daily_Temperatures.py"
+  },
+  {
+    "problemId": "790",
+    "problemTitle": "Global and Local Inversions",
+    "problemSlug": "global-and-local-inversions",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "23 ms",
+    "memory": "30.4 MB",
+    "submissionId": "2087296425",
+    "timestamp": "1785404303",
+    "path": "Medium/0790_Global_and_Local_Inversions.py"
   }
 ]
