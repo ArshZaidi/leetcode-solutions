@@ -1402,5 +1402,18 @@
     "submissionId": "2087204250",
     "timestamp": "1785400147",
     "path": "Medium/0738_Monotone_Increasing_Digits.py"
+  },
+  {
+    "problemId": "739",
+    "problemTitle": "Daily Temperatures",
+    "problemSlug": "daily-temperatures",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "90 ms",
+    "memory": "28.1 MB",
+    "submissionId": "2087219439",
+    "timestamp": "1785400881",
+    "path": "Medium/0739_Daily_Temperatures.py"
   }
 ]
