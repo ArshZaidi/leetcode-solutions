@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 105
+Total Solved: 106
 
 ## Easy
 
@@ -105,6 +105,7 @@ Total Solved: 105
 - Maximum Swap ([Python3](Medium/0670_Maximum_Swap.py))
 - Repeated String Match ([Python3](Medium/0686_Repeated_String_Match.py))
 - Remove Comments ([Python3](Medium/0722_Remove_Comments.py))
+- Asteroid Collision ([Python3](Medium/0735_Asteroid_Collision.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -121,7 +122,7 @@ Total Solved: 105
 | Difficulty | Count |
 |------------|--------|
 | Easy | 73 |
-| Medium | 30 |
+| Medium | 31 |
 | Hard | 2 |
 
 ---
