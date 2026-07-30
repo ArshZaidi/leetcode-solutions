@@ -1376,5 +1376,18 @@
     "submissionId": "2087134988",
     "timestamp": "1785395870",
     "path": "Medium/0686_Repeated_String_Match.py"
+  },
+  {
+    "problemId": "735",
+    "problemTitle": "Asteroid Collision",
+    "problemSlug": "asteroid-collision",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "7 ms",
+    "memory": "20.3 MB",
+    "submissionId": "2087165613",
+    "timestamp": "1785397885",
+    "path": "Medium/0735_Asteroid_Collision.py"
   }
 ]
