@@ -1350,5 +1350,18 @@
     "submissionId": "2082349794",
     "timestamp": "1785085750",
     "path": "Medium/0670_Maximum_Swap.py"
+  },
+  {
+    "problemId": "722",
+    "problemTitle": "Remove Comments",
+    "problemSlug": "remove-comments",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2087119482",
+    "timestamp": "1785395050",
+    "path": "Medium/0722_Remove_Comments.py"
   }
 ]
