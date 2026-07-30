@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 103
+Total Solved: 104
 
 ## Easy
 
@@ -103,6 +103,7 @@ Total Solved: 103
 - Non-decreasing Array ([Python3](Medium/0665_Non-decreasing_Array.py))
 - Beautiful Arrangement II ([Python3](Medium/0667_Beautiful_Arrangement_II.py))
 - Maximum Swap ([Python3](Medium/0670_Maximum_Swap.py))
+- Remove Comments ([Python3](Medium/0722_Remove_Comments.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -119,7 +120,7 @@ Total Solved: 103
 | Difficulty | Count |
 |------------|--------|
 | Easy | 73 |
-| Medium | 28 |
+| Medium | 29 |
 | Hard | 2 |
 
 ---
