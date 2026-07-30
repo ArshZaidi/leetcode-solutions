@@ -1389,5 +1389,18 @@
     "submissionId": "2087165613",
     "timestamp": "1785397885",
     "path": "Medium/0735_Asteroid_Collision.py"
+  },
+  {
+    "problemId": "738",
+    "problemTitle": "Monotone Increasing Digits",
+    "problemSlug": "monotone-increasing-digits",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2087204250",
+    "timestamp": "1785400147",
+    "path": "Medium/0738_Monotone_Increasing_Digits.py"
   }
 ]
