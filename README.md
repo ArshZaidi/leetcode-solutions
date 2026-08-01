@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 109
+Total Solved: 110
 
 ## Easy
 
@@ -100,6 +100,7 @@ Total Solved: 109
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
+- Predict the Winner ([Python3](Medium/0486_Predict_the_Winner.py))
 - Non-decreasing Array ([Python3](Medium/0665_Non-decreasing_Array.py))
 - Beautiful Arrangement II ([Python3](Medium/0667_Beautiful_Arrangement_II.py))
 - Maximum Swap ([Python3](Medium/0670_Maximum_Swap.py))
@@ -125,7 +126,7 @@ Total Solved: 109
 | Difficulty | Count |
 |------------|--------|
 | Easy | 73 |
-| Medium | 34 |
+| Medium | 35 |
 | Hard | 2 |
 
 ---
