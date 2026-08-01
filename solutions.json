@@ -1428,5 +1428,18 @@
     "submissionId": "2087296425",
     "timestamp": "1785404303",
     "path": "Medium/0790_Global_and_Local_Inversions.py"
+  },
+  {
+    "problemId": "486",
+    "problemTitle": "Predict the Winner",
+    "problemSlug": "predict-the-winner",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "1 ms",
+    "memory": "20 MB",
+    "submissionId": "2090448812",
+    "timestamp": "1785608537",
+    "path": "Medium/0486_Predict_the_Winner.py"
   }
 ]
