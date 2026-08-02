@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 110
+Total Solved: 111
 
 ## Easy
 
@@ -110,6 +110,7 @@ Total Solved: 110
 - Monotone Increasing Digits ([Python3](Medium/0738_Monotone_Increasing_Digits.py))
 - Daily Temperatures ([Python3](Medium/0739_Daily_Temperatures.py))
 - Global and Local Inversions ([Python3](Medium/0790_Global_and_Local_Inversions.py))
+- Stone Game ([Python3](Medium/0909_Stone_Game.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -126,7 +127,7 @@ Total Solved: 110
 | Difficulty | Count |
 |------------|--------|
 | Easy | 73 |
-| Medium | 35 |
+| Medium | 36 |
 | Hard | 2 |
 
 ---
