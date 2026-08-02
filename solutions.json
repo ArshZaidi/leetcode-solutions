@@ -1441,5 +1441,18 @@
     "submissionId": "2090448812",
     "timestamp": "1785608537",
     "path": "Medium/0486_Predict_the_Winner.py"
+  },
+  {
+    "problemId": "909",
+    "problemTitle": "Stone Game",
+    "problemSlug": "stone-game",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2091723440",
+    "timestamp": "1785693002",
+    "path": "Medium/0909_Stone_Game.py"
   }
 ]
