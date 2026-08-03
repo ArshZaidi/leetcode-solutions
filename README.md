@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 111
+Total Solved: 112
 
 ## Easy
 
@@ -119,6 +119,7 @@ Total Solved: 111
 
 ## Hard
 
+- Stone Game III ([Python3](Hard/1522_Stone_Game_III.py))
 - Sorted GCD Pair Queries ([Python](Hard/3583_Sorted_GCD_Pair_Queries.py))
 - Maximize Active Section with Trade II ([C++](Hard/3804_Maximize_Active_Section_with_Trade_II.cpp))
 
@@ -128,7 +129,7 @@ Total Solved: 111
 |------------|--------|
 | Easy | 73 |
 | Medium | 36 |
-| Hard | 2 |
+| Hard | 3 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
