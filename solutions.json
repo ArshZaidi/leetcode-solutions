@@ -1454,5 +1454,18 @@
     "submissionId": "2091723440",
     "timestamp": "1785693002",
     "path": "Medium/0909_Stone_Game.py"
+  },
+  {
+    "problemId": "1522",
+    "problemTitle": "Stone Game III",
+    "problemSlug": "stone-game-iii",
+    "difficulty": "Hard",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "680 ms",
+    "memory": "23.9 MB",
+    "submissionId": "2093136226",
+    "timestamp": "1785784209",
+    "path": "Hard/1522_Stone_Game_III.py"
   }
 ]
