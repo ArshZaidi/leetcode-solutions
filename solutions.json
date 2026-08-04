@@ -1532,5 +1532,18 @@
     "submissionId": "2094497905",
     "timestamp": "1785869320",
     "path": "Easy/2819_Remove_Trailing_Zeros_From_a_String.py"
+  },
+  {
+    "problemId": "2836",
+    "problemTitle": "Neither Minimum nor Maximum",
+    "problemSlug": "neither-minimum-nor-maximum",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "10 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094499592",
+    "timestamp": "1785869412",
+    "path": "Easy/2836_Neither_Minimum_nor_Maximum.py"
   }
 ]
