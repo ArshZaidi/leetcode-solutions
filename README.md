@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 112
+Total Solved: 113
 
 ## Easy
 
@@ -77,6 +77,7 @@ Total Solved: 112
 - Employees Whose Manager Left the Company ([MySQL](Easy/2127_Employees_Whose_Manager_Left_the_Company.sql))
 - Find First Palindromic String in the Array ([Python](Easy/2231_Find_First_Palindromic_String_in_the_Array.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
+- Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
 ## Medium
 
@@ -127,7 +128,7 @@ Total Solved: 112
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 73 |
+| Easy | 74 |
 | Medium | 36 |
 | Hard | 3 |
 
