@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 116
+Total Solved: 117
 
 ## Easy
 
@@ -79,6 +79,7 @@ Total Solved: 116
 - Number of Senior Citizens ([Python3](Easy/2727_Number_of_Senior_Citizens.py))
 - Buy Two Chocolates ([Python3](Easy/2756_Buy_Two_Chocolates.py))
 - Lexicographically Smallest Palindrome ([Python3](Easy/2816_Lexicographically_Smallest_Palindrome.py))
+- Remove Trailing Zeros From a String ([Python3](Easy/2819_Remove_Trailing_Zeros_From_a_String.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -131,7 +132,7 @@ Total Solved: 116
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 77 |
+| Easy | 78 |
 | Medium | 36 |
 | Hard | 3 |
 
