@@ -1519,5 +1519,18 @@
     "submissionId": "2094497358",
     "timestamp": "1785869292",
     "path": "Easy/2756_Buy_Two_Chocolates.py"
+  },
+  {
+    "problemId": "2819",
+    "problemTitle": "Remove Trailing Zeros From a String",
+    "problemSlug": "remove-trailing-zeros-from-a-string",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094497905",
+    "timestamp": "1785869320",
+    "path": "Easy/2819_Remove_Trailing_Zeros_From_a_String.py"
   }
 ]
