@@ -1545,5 +1545,18 @@
     "submissionId": "2094499592",
     "timestamp": "1785869412",
     "path": "Easy/2836_Neither_Minimum_nor_Maximum.py"
+  },
+  {
+    "problemId": "2812",
+    "problemTitle": "Find the Maximum Achievable Number",
+    "problemSlug": "find-the-maximum-achievable-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094500661",
+    "timestamp": "1785869474",
+    "path": "Easy/2812_Find_the_Maximum_Achievable_Number.py"
   }
 ]
