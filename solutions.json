@@ -1584,5 +1584,18 @@
     "submissionId": "2094502680",
     "timestamp": "1785869590",
     "path": "Easy/2876_Number_of_Employees_Who_Met_the_Target.py"
+  },
+  {
+    "problemId": "2955",
+    "problemTitle": "Account Balance After Rounded Purchase",
+    "problemSlug": "account-balance-after-rounded-purchase",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094503259",
+    "timestamp": "1785869623",
+    "path": "Easy/2955_Account_Balance_After_Rounded_Purchase.py"
   }
 ]
