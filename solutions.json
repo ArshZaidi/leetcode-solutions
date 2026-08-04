@@ -1467,5 +1467,18 @@
     "submissionId": "2093136226",
     "timestamp": "1785784209",
     "path": "Hard/1522_Stone_Game_III.py"
+  },
+  {
+    "problemId": "4107",
+    "problemTitle": "Find Missing Elements",
+    "problemSlug": "find-missing-elements",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "7 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094457076",
+    "timestamp": "1785867422",
+    "path": "Easy/4107_Find_Missing_Elements.py"
   }
 ]
