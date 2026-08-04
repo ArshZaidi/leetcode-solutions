@@ -1571,5 +1571,18 @@
     "submissionId": "2094501697",
     "timestamp": "1785869532",
     "path": "Easy/2881_Split_Strings_by_Separator.py"
+  },
+  {
+    "problemId": "2876",
+    "problemTitle": "Number of Employees Who Met the Target",
+    "problemSlug": "number-of-employees-who-met-the-target",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094502680",
+    "timestamp": "1785869590",
+    "path": "Easy/2876_Number_of_Employees_Who_Met_the_Target.py"
   }
 ]
