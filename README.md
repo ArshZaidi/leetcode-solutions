@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 113
+Total Solved: 114
 
 ## Easy
 
@@ -76,6 +76,7 @@ Total Solved: 113
 - Employees With Missing Information ([MySQL](Easy/2110_Employees_With_Missing_Information.sql))
 - Employees Whose Manager Left the Company ([MySQL](Easy/2127_Employees_Whose_Manager_Left_the_Company.sql))
 - Find First Palindromic String in the Array ([Python](Easy/2231_Find_First_Palindromic_String_in_the_Array.py))
+- Number of Senior Citizens ([Python3](Easy/2727_Number_of_Senior_Citizens.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -128,7 +129,7 @@ Total Solved: 113
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 74 |
+| Easy | 75 |
 | Medium | 36 |
 | Hard | 3 |
 
