@@ -1493,5 +1493,18 @@
     "submissionId": "2094488695",
     "timestamp": "1785868826",
     "path": "Easy/2727_Number_of_Senior_Citizens.py"
+  },
+  {
+    "problemId": "2816",
+    "problemTitle": "Lexicographically Smallest Palindrome",
+    "problemSlug": "lexicographically-smallest-palindrome",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "43 ms",
+    "memory": "19.5 MB",
+    "submissionId": "2094493628",
+    "timestamp": "1785869088",
+    "path": "Easy/2816_Lexicographically_Smallest_Palindrome.py"
   }
 ]
