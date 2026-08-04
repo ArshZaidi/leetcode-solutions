@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 115
+Total Solved: 116
 
 ## Easy
 
@@ -77,6 +77,7 @@ Total Solved: 115
 - Employees Whose Manager Left the Company ([MySQL](Easy/2127_Employees_Whose_Manager_Left_the_Company.sql))
 - Find First Palindromic String in the Array ([Python](Easy/2231_Find_First_Palindromic_String_in_the_Array.py))
 - Number of Senior Citizens ([Python3](Easy/2727_Number_of_Senior_Citizens.py))
+- Buy Two Chocolates ([Python3](Easy/2756_Buy_Two_Chocolates.py))
 - Lexicographically Smallest Palindrome ([Python3](Easy/2816_Lexicographically_Smallest_Palindrome.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
@@ -130,7 +131,7 @@ Total Solved: 115
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 76 |
+| Easy | 77 |
 | Medium | 36 |
 | Hard | 3 |
 
