@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 117
+Total Solved: 118
 
 ## Easy
 
@@ -80,6 +80,7 @@ Total Solved: 117
 - Buy Two Chocolates ([Python3](Easy/2756_Buy_Two_Chocolates.py))
 - Lexicographically Smallest Palindrome ([Python3](Easy/2816_Lexicographically_Smallest_Palindrome.py))
 - Remove Trailing Zeros From a String ([Python3](Easy/2819_Remove_Trailing_Zeros_From_a_String.py))
+- Neither Minimum nor Maximum ([Python3](Easy/2836_Neither_Minimum_nor_Maximum.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -132,7 +133,7 @@ Total Solved: 117
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 78 |
+| Easy | 79 |
 | Medium | 36 |
 | Hard | 3 |
 
