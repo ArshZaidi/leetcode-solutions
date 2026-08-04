@@ -1480,5 +1480,18 @@
     "submissionId": "2094457076",
     "timestamp": "1785867422",
     "path": "Easy/4107_Find_Missing_Elements.py"
+  },
+  {
+    "problemId": "2727",
+    "problemTitle": "Number of Senior Citizens",
+    "problemSlug": "number-of-senior-citizens",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2094488695",
+    "timestamp": "1785868826",
+    "path": "Easy/2727_Number_of_Senior_Citizens.py"
   }
 ]
