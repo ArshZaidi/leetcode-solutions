@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 119
+Total Solved: 120
 
 ## Easy
 
@@ -82,6 +82,7 @@ Total Solved: 119
 - Lexicographically Smallest Palindrome ([Python3](Easy/2816_Lexicographically_Smallest_Palindrome.py))
 - Remove Trailing Zeros From a String ([Python3](Easy/2819_Remove_Trailing_Zeros_From_a_String.py))
 - Neither Minimum nor Maximum ([Python3](Easy/2836_Neither_Minimum_nor_Maximum.py))
+- Split Strings by Separator ([Python3](Easy/2881_Split_Strings_by_Separator.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -134,7 +135,7 @@ Total Solved: 119
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 80 |
+| Easy | 81 |
 | Medium | 36 |
 | Hard | 3 |
 
