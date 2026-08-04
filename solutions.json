@@ -1506,5 +1506,18 @@
     "submissionId": "2094493628",
     "timestamp": "1785869088",
     "path": "Easy/2816_Lexicographically_Smallest_Palindrome.py"
+  },
+  {
+    "problemId": "2756",
+    "problemTitle": "Buy Two Chocolates",
+    "problemSlug": "buy-two-chocolates",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094497358",
+    "timestamp": "1785869292",
+    "path": "Easy/2756_Buy_Two_Chocolates.py"
   }
 ]
