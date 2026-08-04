@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 118
+Total Solved: 119
 
 ## Easy
 
@@ -78,6 +78,7 @@ Total Solved: 118
 - Find First Palindromic String in the Array ([Python](Easy/2231_Find_First_Palindromic_String_in_the_Array.py))
 - Number of Senior Citizens ([Python3](Easy/2727_Number_of_Senior_Citizens.py))
 - Buy Two Chocolates ([Python3](Easy/2756_Buy_Two_Chocolates.py))
+- Find the Maximum Achievable Number ([Python3](Easy/2812_Find_the_Maximum_Achievable_Number.py))
 - Lexicographically Smallest Palindrome ([Python3](Easy/2816_Lexicographically_Smallest_Palindrome.py))
 - Remove Trailing Zeros From a String ([Python3](Easy/2819_Remove_Trailing_Zeros_From_a_String.py))
 - Neither Minimum nor Maximum ([Python3](Easy/2836_Neither_Minimum_nor_Maximum.py))
@@ -133,7 +134,7 @@ Total Solved: 118
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 79 |
+| Easy | 80 |
 | Medium | 36 |
 | Hard | 3 |
 
