@@ -1896,5 +1896,18 @@
     "submissionId": "2094947248",
     "timestamp": "1785911921",
     "path": "Easy/3468_Find_the_Encrypted_String.py"
+  },
+  {
+    "problemId": "3515",
+    "problemTitle": "Find if Digit Game Can Be Won",
+    "problemSlug": "find-if-digit-game-can-be-won",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094949158",
+    "timestamp": "1785912015",
+    "path": "Easy/3515_Find_if_Digit_Game_Can_Be_Won.py"
   }
 ]
