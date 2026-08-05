@@ -2013,5 +2013,18 @@
     "submissionId": "2095554580",
     "timestamp": "1785945790",
     "path": "Easy/3684_Substring_Matching_Pattern.py"
+  },
+  {
+    "problemId": "3747",
+    "problemTitle": "Maximum Difference Between Adjacent Elements in a Circular Array",
+    "problemSlug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2095566482",
+    "timestamp": "1785946304",
+    "path": "Easy/3747_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py"
   }
 ]
