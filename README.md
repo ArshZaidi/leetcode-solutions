@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 141
+Total Solved: 142
 
 ## Easy
 
@@ -102,6 +102,7 @@ Total Solved: 141
 - Harshad Number ([Python3](Easy/3371_Harshad_Number.py))
 - Longest Strictly Increasing or Strictly Decreasing Subarray ([Python3](Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py))
 - Score of a String ([Python3](Easy/3379_Score_of_a_String.py))
+- Valid Word ([Python3](Easy/3396_Valid_Word.py))
 - Find the Integer Added to Array I ([Python3](Easy/3397_Find_the_Integer_Added_to_Array_I.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
@@ -156,7 +157,7 @@ Total Solved: 141
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 101 |
+| Easy | 102 |
 | Medium | 37 |
 | Hard | 3 |
 
