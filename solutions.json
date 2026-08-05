@@ -1909,5 +1909,18 @@
     "submissionId": "2094949158",
     "timestamp": "1785912015",
     "path": "Easy/3515_Find_if_Digit_Game_Can_Be_Won.py"
+  },
+  {
+    "problemId": "3568",
+    "problemTitle": "Find the Key of the Numbers",
+    "problemSlug": "find-the-key-of-the-numbers",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094950969",
+    "timestamp": "1785912097",
+    "path": "Easy/3568_Find_the_Key_of_the_Numbers.py"
   }
 ]
