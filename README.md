@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 126
+Total Solved: 127
 
 ## Easy
 
@@ -88,6 +88,7 @@ Total Solved: 126
 - Check if a String Is an Acronym of Words ([Python3](Easy/2977_Check_if_a_String_Is_an_Acronym_of_Words.py))
 - Check if Strings Can be Made Equal With Operations I ([Python3](Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.py))
 - Furthest Point From Origin ([Python3](Easy/3019_Furthest_Point_From_Origin.py))
+- Minimum Right Shifts to Sort the Array ([Python3](Easy/3045_Minimum_Right_Shifts_to_Sort_the_Array.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -141,7 +142,7 @@ Total Solved: 126
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 86 |
+| Easy | 87 |
 | Medium | 37 |
 | Hard | 3 |
 
