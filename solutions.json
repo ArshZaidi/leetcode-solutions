@@ -1805,5 +1805,18 @@
     "submissionId": "2094933996",
     "timestamp": "1785911310",
     "path": "Easy/3371_Harshad_Number.py"
+  },
+  {
+    "problemId": "3372",
+    "problemTitle": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "problemSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094936385",
+    "timestamp": "1785911418",
+    "path": "Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py"
   }
 ]
