@@ -2117,5 +2117,18 @@
     "submissionId": "2095588544",
     "timestamp": "1785947224",
     "path": "Easy/3859_Maximum_Product_of_Two_Digits.py"
+  },
+  {
+    "problemId": "3869",
+    "problemTitle": "Smallest Index With Digit Sum Equal to Index",
+    "problemSlug": "smallest-index-with-digit-sum-equal-to-index",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "2 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2095589764",
+    "timestamp": "1785947274",
+    "path": "Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.py"
   }
 ]
