@@ -1675,5 +1675,18 @@
     "submissionId": "2094894049",
     "timestamp": "1785909510",
     "path": "Easy/3154_Maximum_Value_of_an_Ordered_Triplet_I.py"
+  },
+  {
+    "problemId": "3172",
+    "problemTitle": "Divisible and Non-divisible Sums Difference",
+    "problemSlug": "divisible-and-non-divisible-sums-difference",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "2 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094898679",
+    "timestamp": "1785909728",
+    "path": "Easy/3172_Divisible_and_Non-divisible_Sums_Difference.py"
   }
 ]
