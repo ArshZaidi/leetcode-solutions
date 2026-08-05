@@ -2026,5 +2026,18 @@
     "submissionId": "2095566482",
     "timestamp": "1785946304",
     "path": "Easy/3747_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py"
+  },
+  {
+    "problemId": "3723",
+    "problemTitle": "Sum of Good Numbers",
+    "problemSlug": "sum-of-good-numbers",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2095576658",
+    "timestamp": "1785946736",
+    "path": "Easy/3723_Sum_of_Good_Numbers.py"
   }
 ]
