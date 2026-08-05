@@ -2039,5 +2039,18 @@
     "submissionId": "2095576658",
     "timestamp": "1785946736",
     "path": "Easy/3723_Sum_of_Good_Numbers.py"
+  },
+  {
+    "problemId": "3709",
+    "problemTitle": "Find Special Substring of Length K",
+    "problemSlug": "find-special-substring-of-length-k",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "7 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2095577797",
+    "timestamp": "1785946782",
+    "path": "Easy/3709_Find_Special_Substring_of_Length_K.py"
   }
 ]
