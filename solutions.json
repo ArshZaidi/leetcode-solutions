@@ -1610,5 +1610,18 @@
     "submissionId": "2094877842",
     "timestamp": "1785908709",
     "path": "Medium/3561_Remove_Methods_From_Project.py"
+  },
+  {
+    "problemId": "2977",
+    "problemTitle": "Check if a String Is an Acronym of Words",
+    "problemSlug": "check-if-a-string-is-an-acronym-of-words",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094882557",
+    "timestamp": "1785908942",
+    "path": "Easy/2977_Check_if_a_String_Is_an_Acronym_of_Words.py"
   }
 ]
