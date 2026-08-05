@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 134
+Total Solved: 135
 
 ## Easy
 
@@ -96,6 +96,7 @@ Total Solved: 134
 - Maximum Area of Longest Diagonal Rectangle ([Python3](Easy/3251_Maximum_Area_of_Longest_Diagonal_Rectangle.py))
 - Number of Changing Keys ([Python3](Easy/3312_Number_of_Changing_Keys.py))
 - Type of Triangle ([Python3](Easy/3321_Type_of_Triangle.py))
+- Minimum Operations to Exceed Threshold Value I ([Python3](Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -149,7 +150,7 @@ Total Solved: 134
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 94 |
+| Easy | 95 |
 | Medium | 37 |
 | Hard | 3 |
 
