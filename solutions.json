@@ -2065,5 +2065,18 @@
     "submissionId": "2095582321",
     "timestamp": "1785946969",
     "path": "Easy/3778_Transform_Array_by_Parity.py"
+  },
+  {
+    "problemId": "3817",
+    "problemTitle": "Maximum Containers on a Ship",
+    "problemSlug": "maximum-containers-on-a-ship",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2095584021",
+    "timestamp": "1785947038",
+    "path": "Easy/3817_Maximum_Containers_on_a_Ship.py"
   }
 ]
