@@ -1818,5 +1818,18 @@
     "submissionId": "2094936385",
     "timestamp": "1785911418",
     "path": "Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py"
+  },
+  {
+    "problemId": "3379",
+    "problemTitle": "Score of a String",
+    "problemSlug": "score-of-a-string",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2094937132",
+    "timestamp": "1785911450",
+    "path": "Easy/3379_Score_of_a_String.py"
   }
 ]
