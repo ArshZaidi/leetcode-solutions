@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 132
+Total Solved: 133
 
 ## Easy
 
@@ -94,6 +94,7 @@ Total Solved: 132
 - Divisible and Non-divisible Sums Difference ([Python3](Easy/3172_Divisible_and_Non-divisible_Sums_Difference.py))
 - Make Three Strings Equal ([Python3](Easy/3207_Make_Three_Strings_Equal.py))
 - Maximum Area of Longest Diagonal Rectangle ([Python3](Easy/3251_Maximum_Area_of_Longest_Diagonal_Rectangle.py))
+- Number of Changing Keys ([Python3](Easy/3312_Number_of_Changing_Keys.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -147,7 +148,7 @@ Total Solved: 132
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 92 |
+| Easy | 93 |
 | Medium | 37 |
 | Hard | 3 |
 
