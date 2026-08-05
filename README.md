@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 151
+Total Solved: 152
 
 ## Easy
 
@@ -113,6 +113,7 @@ Total Solved: 151
 - Find Indices of Stable Mountains ([Python3](Easy/3582_Find_Indices_of_Stable_Mountains.py))
 - Minimum Element After Replacement With Digit Sum ([Python3](Easy/3606_Minimum_Element_After_Replacement_With_Digit_Sum.py))
 - Find the Original Typed String I ([Python3](Easy/3617_Find_the_Original_Typed_String_I.py))
+- Check Balanced String ([Python3](Easy/3636_Check_Balanced_String.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -166,7 +167,7 @@ Total Solved: 151
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 111 |
+| Easy | 112 |
 | Medium | 37 |
 | Hard | 3 |
 
