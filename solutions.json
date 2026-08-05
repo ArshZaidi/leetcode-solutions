@@ -1831,5 +1831,18 @@
     "submissionId": "2094937132",
     "timestamp": "1785911450",
     "path": "Easy/3379_Score_of_a_String.py"
+  },
+  {
+    "problemId": "3397",
+    "problemTitle": "Find the Integer Added to Array I",
+    "problemSlug": "find-the-integer-added-to-array-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094939186",
+    "timestamp": "1785911540",
+    "path": "Easy/3397_Find_the_Integer_Added_to_Array_I.py"
   }
 ]
