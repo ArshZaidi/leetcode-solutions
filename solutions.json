@@ -2000,5 +2000,18 @@
     "submissionId": "2095541060",
     "timestamp": "1785945178",
     "path": "Easy/3632_Button_with_Longest_Push_Time.py"
+  },
+  {
+    "problemId": "3684",
+    "problemTitle": "Substring Matching Pattern",
+    "problemSlug": "substring-matching-pattern",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2095554580",
+    "timestamp": "1785945790",
+    "path": "Easy/3684_Substring_Matching_Pattern.py"
   }
 ]
