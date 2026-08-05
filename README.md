@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 133
+Total Solved: 134
 
 ## Easy
 
@@ -95,6 +95,7 @@ Total Solved: 133
 - Make Three Strings Equal ([Python3](Easy/3207_Make_Three_Strings_Equal.py))
 - Maximum Area of Longest Diagonal Rectangle ([Python3](Easy/3251_Maximum_Area_of_Longest_Diagonal_Rectangle.py))
 - Number of Changing Keys ([Python3](Easy/3312_Number_of_Changing_Keys.py))
+- Type of Triangle ([Python3](Easy/3321_Type_of_Triangle.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -148,7 +149,7 @@ Total Solved: 133
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 93 |
+| Easy | 94 |
 | Medium | 37 |
 | Hard | 3 |
 
