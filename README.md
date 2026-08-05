@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 143
+Total Solved: 144
 
 ## Easy
 
@@ -105,6 +105,7 @@ Total Solved: 143
 - Valid Word ([Python3](Easy/3396_Valid_Word.py))
 - Find the Integer Added to Array I ([Python3](Easy/3397_Find_the_Integer_Added_to_Array_I.py))
 - Special Array I ([Python3](Easy/3429_Special_Array_I.py))
+- Find Minimum Operations to Make All Elements Divisible by Three ([Python3](Easy/3476_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -158,7 +159,7 @@ Total Solved: 143
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 103 |
+| Easy | 104 |
 | Medium | 37 |
 | Hard | 3 |
 
