@@ -1727,5 +1727,18 @@
     "submissionId": "2094923346",
     "timestamp": "1785910843",
     "path": "Easy/3251_Maximum_Area_of_Longest_Diagonal_Rectangle.py"
+  },
+  {
+    "problemId": "3312",
+    "problemTitle": "Number of Changing Keys",
+    "problemSlug": "number-of-changing-keys",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094926384",
+    "timestamp": "1785910974",
+    "path": "Easy/3312_Number_of_Changing_Keys.py"
   }
 ]
