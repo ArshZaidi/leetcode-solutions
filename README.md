@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 123
+Total Solved: 124
 
 ## Easy
 
@@ -85,6 +85,7 @@ Total Solved: 123
 - Number of Employees Who Met the Target ([Python3](Easy/2876_Number_of_Employees_Who_Met_the_Target.py))
 - Split Strings by Separator ([Python3](Easy/2881_Split_Strings_by_Separator.py))
 - Account Balance After Rounded Purchase ([Python3](Easy/2955_Account_Balance_After_Rounded_Purchase.py))
+- Check if a String Is an Acronym of Words ([Python3](Easy/2977_Check_if_a_String_Is_an_Acronym_of_Words.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -138,7 +139,7 @@ Total Solved: 123
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 83 |
+| Easy | 84 |
 | Medium | 37 |
 | Hard | 3 |
 
