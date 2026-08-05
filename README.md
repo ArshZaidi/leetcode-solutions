@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 161
+Total Solved: 162
 
 ## Easy
 
@@ -123,6 +123,7 @@ Total Solved: 161
 - Maximum Containers on a Ship ([Python3](Easy/3817_Maximum_Containers_on_a_Ship.py))
 - Find Closest Person ([Python3](Easy/3830_Find_Closest_Person.py))
 - Minimum Operations to Make Array Sum Divisible by K ([Python3](Easy/3846_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.py))
+- Maximum Product of Two Digits ([Python3](Easy/3859_Maximum_Product_of_Two_Digits.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -176,7 +177,7 @@ Total Solved: 161
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 121 |
+| Easy | 122 |
 | Medium | 37 |
 | Hard | 3 |
 
