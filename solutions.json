@@ -1740,5 +1740,18 @@
     "submissionId": "2094926384",
     "timestamp": "1785910974",
     "path": "Easy/3312_Number_of_Changing_Keys.py"
+  },
+  {
+    "problemId": "3321",
+    "problemTitle": "Type of Triangle",
+    "problemSlug": "type-of-triangle",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2094927553",
+    "timestamp": "1785911026",
+    "path": "Easy/3321_Type_of_Triangle.py"
   }
 ]
