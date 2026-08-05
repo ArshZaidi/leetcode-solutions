@@ -1714,5 +1714,18 @@
     "submissionId": "2094915660",
     "timestamp": "1785910500",
     "path": "Easy/3207_Make_Three_Strings_Equal.py"
+  },
+  {
+    "problemId": "3251",
+    "problemTitle": "Maximum Area of Longest Diagonal Rectangle",
+    "problemSlug": "maximum-area-of-longest-diagonal-rectangle",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094923346",
+    "timestamp": "1785910843",
+    "path": "Easy/3251_Maximum_Area_of_Longest_Diagonal_Rectangle.py"
   }
 ]
