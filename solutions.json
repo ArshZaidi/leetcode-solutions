@@ -1974,5 +1974,18 @@
     "submissionId": "2095520764",
     "timestamp": "1785944247",
     "path": "Easy/3617_Find_the_Original_Typed_String_I.py"
+  },
+  {
+    "problemId": "3636",
+    "problemTitle": "Check Balanced String",
+    "problemSlug": "check-balanced-string",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2095525398",
+    "timestamp": "1785944462",
+    "path": "Easy/3636_Check_Balanced_String.py"
   }
 ]
