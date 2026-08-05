@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 154
+Total Solved: 155
 
 ## Easy
 
@@ -116,6 +116,7 @@ Total Solved: 154
 - Button with Longest Push Time ([Python3](Easy/3632_Button_with_Longest_Push_Time.py))
 - Check Balanced String ([Python3](Easy/3636_Check_Balanced_String.py))
 - Substring Matching Pattern ([Python3](Easy/3684_Substring_Matching_Pattern.py))
+- Maximum Difference Between Adjacent Elements in a Circular Array ([Python3](Easy/3747_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -169,7 +170,7 @@ Total Solved: 154
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 114 |
+| Easy | 115 |
 | Medium | 37 |
 | Hard | 3 |
 
