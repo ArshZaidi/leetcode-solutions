@@ -1948,5 +1948,18 @@
     "submissionId": "2095509542",
     "timestamp": "1785943697",
     "path": "Easy/3582_Find_Indices_of_Stable_Mountains.py"
+  },
+  {
+    "problemId": "3606",
+    "problemTitle": "Minimum Element After Replacement With Digit Sum",
+    "problemSlug": "minimum-element-after-replacement-with-digit-sum",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2095517213",
+    "timestamp": "1785944075",
+    "path": "Easy/3606_Minimum_Element_After_Replacement_With_Digit_Sum.py"
   }
 ]
