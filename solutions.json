@@ -1922,5 +1922,18 @@
     "submissionId": "2094950969",
     "timestamp": "1785912097",
     "path": "Easy/3568_Find_the_Key_of_the_Numbers.py"
+  },
+  {
+    "problemId": "3553",
+    "problemTitle": "Check if Two Chessboard Squares Have the Same Color",
+    "problemSlug": "check-if-two-chessboard-squares-have-the-same-color",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "45 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094953324",
+    "timestamp": "1785912209",
+    "path": "Easy/3553_Check_if_Two_Chessboard_Squares_Have_the_Same_Color.py"
   }
 ]
