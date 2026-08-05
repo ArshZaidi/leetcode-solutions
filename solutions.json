@@ -1662,5 +1662,18 @@
     "submissionId": "2094892495",
     "timestamp": "1785909433",
     "path": "Easy/3045_Minimum_Right_Shifts_to_Sort_the_Array.py"
+  },
+  {
+    "problemId": "3154",
+    "problemTitle": "Maximum Value of an Ordered Triplet I",
+    "problemSlug": "maximum-value-of-an-ordered-triplet-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2094894049",
+    "timestamp": "1785909510",
+    "path": "Easy/3154_Maximum_Value_of_an_Ordered_Triplet_I.py"
   }
 ]
