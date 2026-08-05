@@ -1636,5 +1636,18 @@
     "submissionId": "2094889132",
     "timestamp": "1785909271",
     "path": "Easy/3019_Furthest_Point_From_Origin.py"
+  },
+  {
+    "problemId": "2999",
+    "problemTitle": "Check if Strings Can be Made Equal With Operations I",
+    "problemSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094890400",
+    "timestamp": "1785909334",
+    "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.py"
   }
 ]
