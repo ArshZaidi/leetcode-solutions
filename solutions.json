@@ -1792,5 +1792,18 @@
     "submissionId": "2094932206",
     "timestamp": "1785911233",
     "path": "Easy/3367_Find_the_Sum_of_Encrypted_Integers.py"
+  },
+  {
+    "problemId": "3371",
+    "problemTitle": "Harshad Number",
+    "problemSlug": "harshad-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2094933996",
+    "timestamp": "1785911310",
+    "path": "Easy/3371_Harshad_Number.py"
   }
 ]
