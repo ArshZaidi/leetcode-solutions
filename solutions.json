@@ -2104,5 +2104,18 @@
     "submissionId": "2095587962",
     "timestamp": "1785947201",
     "path": "Easy/3830_Find_Closest_Person.py"
+  },
+  {
+    "problemId": "3859",
+    "problemTitle": "Maximum Product of Two Digits",
+    "problemSlug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2095588544",
+    "timestamp": "1785947224",
+    "path": "Easy/3859_Maximum_Product_of_Two_Digits.py"
   }
 ]
