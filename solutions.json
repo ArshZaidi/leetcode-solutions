@@ -1701,5 +1701,18 @@
     "submissionId": "2094910570",
     "timestamp": "1785910272",
     "path": "Easy/3165_Find_Indices_With_Index_and_Value_Difference_I.py"
+  },
+  {
+    "problemId": "3207",
+    "problemTitle": "Make Three Strings Equal",
+    "problemSlug": "make-three-strings-equal",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094915660",
+    "timestamp": "1785910500",
+    "path": "Easy/3207_Make_Three_Strings_Equal.py"
   }
 ]
