@@ -1961,5 +1961,18 @@
     "submissionId": "2095517213",
     "timestamp": "1785944075",
     "path": "Easy/3606_Minimum_Element_After_Replacement_With_Digit_Sum.py"
+  },
+  {
+    "problemId": "3617",
+    "problemTitle": "Find the Original Typed String I",
+    "problemSlug": "find-the-original-typed-string-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "49 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2095520764",
+    "timestamp": "1785944247",
+    "path": "Easy/3617_Find_the_Original_Typed_String_I.py"
   }
 ]
