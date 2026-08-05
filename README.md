@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 158
+Total Solved: 159
 
 ## Easy
 
@@ -120,6 +120,7 @@ Total Solved: 158
 - Sum of Good Numbers ([Python3](Easy/3723_Sum_of_Good_Numbers.py))
 - Maximum Difference Between Adjacent Elements in a Circular Array ([Python3](Easy/3747_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py))
 - Transform Array by Parity ([Python3](Easy/3778_Transform_Array_by_Parity.py))
+- Maximum Containers on a Ship ([Python3](Easy/3817_Maximum_Containers_on_a_Ship.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -173,7 +174,7 @@ Total Solved: 158
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 118 |
+| Easy | 119 |
 | Medium | 37 |
 | Hard | 3 |
 
