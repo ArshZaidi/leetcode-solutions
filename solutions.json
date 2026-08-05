@@ -1987,5 +1987,18 @@
     "submissionId": "2095525398",
     "timestamp": "1785944462",
     "path": "Easy/3636_Check_Balanced_String.py"
+  },
+  {
+    "problemId": "3632",
+    "problemTitle": "Button with Longest Push Time",
+    "problemSlug": "button-with-longest-push-time",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.6 MB",
+    "submissionId": "2095541060",
+    "timestamp": "1785945178",
+    "path": "Easy/3632_Button_with_Longest_Push_Time.py"
   }
 ]
