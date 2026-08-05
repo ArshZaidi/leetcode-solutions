@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 149
+Total Solved: 150
 
 ## Easy
 
@@ -111,6 +111,7 @@ Total Solved: 149
 - Check if Two Chessboard Squares Have the Same Color ([Python3](Easy/3553_Check_if_Two_Chessboard_Squares_Have_the_Same_Color.py))
 - Find the Key of the Numbers ([Python3](Easy/3568_Find_the_Key_of_the_Numbers.py))
 - Find Indices of Stable Mountains ([Python3](Easy/3582_Find_Indices_of_Stable_Mountains.py))
+- Minimum Element After Replacement With Digit Sum ([Python3](Easy/3606_Minimum_Element_After_Replacement_With_Digit_Sum.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -164,7 +165,7 @@ Total Solved: 149
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 109 |
+| Easy | 110 |
 | Medium | 37 |
 | Hard | 3 |
 
