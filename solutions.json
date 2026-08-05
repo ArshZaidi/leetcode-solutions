@@ -1844,5 +1844,18 @@
     "submissionId": "2094939186",
     "timestamp": "1785911540",
     "path": "Easy/3397_Find_the_Integer_Added_to_Array_I.py"
+  },
+  {
+    "problemId": "3396",
+    "problemTitle": "Valid Word",
+    "problemSlug": "valid-word",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094940420",
+    "timestamp": "1785911598",
+    "path": "Easy/3396_Valid_Word.py"
   }
 ]
