@@ -1623,5 +1623,18 @@
     "submissionId": "2094882557",
     "timestamp": "1785908942",
     "path": "Easy/2977_Check_if_a_String_Is_an_Acronym_of_Words.py"
+  },
+  {
+    "problemId": "3019",
+    "problemTitle": "Furthest Point From Origin",
+    "problemSlug": "furthest-point-from-origin",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094889132",
+    "timestamp": "1785909271",
+    "path": "Easy/3019_Furthest_Point_From_Origin.py"
   }
 ]
