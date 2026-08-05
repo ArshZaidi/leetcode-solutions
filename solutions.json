@@ -1597,5 +1597,18 @@
     "submissionId": "2094503259",
     "timestamp": "1785869623",
     "path": "Easy/2955_Account_Balance_After_Rounded_Purchase.py"
+  },
+  {
+    "problemId": "3561",
+    "problemTitle": "Remove Methods From Project",
+    "problemSlug": "remove-methods-from-project",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "247 ms",
+    "memory": "107.1 MB",
+    "submissionId": "2094877842",
+    "timestamp": "1785908709",
+    "path": "Medium/3561_Remove_Methods_From_Project.py"
   }
 ]
