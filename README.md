@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 145
+Total Solved: 146
 
 ## Easy
 
@@ -107,6 +107,7 @@ Total Solved: 145
 - Special Array I ([Python3](Easy/3429_Special_Array_I.py))
 - Find the Encrypted String ([Python3](Easy/3468_Find_the_Encrypted_String.py))
 - Find Minimum Operations to Make All Elements Divisible by Three ([Python3](Easy/3476_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.py))
+- Find if Digit Game Can Be Won ([Python3](Easy/3515_Find_if_Digit_Game_Can_Be_Won.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -160,7 +161,7 @@ Total Solved: 145
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 105 |
+| Easy | 106 |
 | Medium | 37 |
 | Hard | 3 |
 
