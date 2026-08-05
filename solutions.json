@@ -1779,5 +1779,18 @@
     "submissionId": "2094930376",
     "timestamp": "1785911150",
     "path": "Easy/3334_Apple_Redistribution_into_Boxes.py"
+  },
+  {
+    "problemId": "3367",
+    "problemTitle": "Find the Sum of Encrypted Integers",
+    "problemSlug": "find-the-sum-of-encrypted-integers",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "60 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2094932206",
+    "timestamp": "1785911233",
+    "path": "Easy/3367_Find_the_Sum_of_Encrypted_Integers.py"
   }
 ]
