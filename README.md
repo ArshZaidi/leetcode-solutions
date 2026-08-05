@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 124
+Total Solved: 125
 
 ## Easy
 
@@ -86,6 +86,7 @@ Total Solved: 124
 - Split Strings by Separator ([Python3](Easy/2881_Split_Strings_by_Separator.py))
 - Account Balance After Rounded Purchase ([Python3](Easy/2955_Account_Balance_After_Rounded_Purchase.py))
 - Check if a String Is an Acronym of Words ([Python3](Easy/2977_Check_if_a_String_Is_an_Acronym_of_Words.py))
+- Furthest Point From Origin ([Python3](Easy/3019_Furthest_Point_From_Origin.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -139,7 +140,7 @@ Total Solved: 124
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 84 |
+| Easy | 85 |
 | Medium | 37 |
 | Hard | 3 |
 
