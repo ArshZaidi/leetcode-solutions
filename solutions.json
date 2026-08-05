@@ -1753,5 +1753,18 @@
     "submissionId": "2094927553",
     "timestamp": "1785911026",
     "path": "Easy/3321_Type_of_Triangle.py"
+  },
+  {
+    "problemId": "3331",
+    "problemTitle": "Minimum Operations to Exceed Threshold Value I",
+    "problemSlug": "minimum-operations-to-exceed-threshold-value-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2094929465",
+    "timestamp": "1785911110",
+    "path": "Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.py"
   }
 ]
