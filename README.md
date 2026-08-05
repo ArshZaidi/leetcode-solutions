@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 131
+Total Solved: 132
 
 ## Easy
 
@@ -93,6 +93,7 @@ Total Solved: 131
 - Find Indices With Index and Value Difference I ([Python3](Easy/3165_Find_Indices_With_Index_and_Value_Difference_I.py))
 - Divisible and Non-divisible Sums Difference ([Python3](Easy/3172_Divisible_and_Non-divisible_Sums_Difference.py))
 - Make Three Strings Equal ([Python3](Easy/3207_Make_Three_Strings_Equal.py))
+- Maximum Area of Longest Diagonal Rectangle ([Python3](Easy/3251_Maximum_Area_of_Longest_Diagonal_Rectangle.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -146,7 +147,7 @@ Total Solved: 131
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 91 |
+| Easy | 92 |
 | Medium | 37 |
 | Hard | 3 |
 
