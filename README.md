@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 137
+Total Solved: 138
 
 ## Easy
 
@@ -99,6 +99,7 @@ Total Solved: 137
 - Minimum Operations to Exceed Threshold Value I ([Python3](Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.py))
 - Apple Redistribution into Boxes ([Python3](Easy/3334_Apple_Redistribution_into_Boxes.py))
 - Find the Sum of Encrypted Integers ([Python3](Easy/3367_Find_the_Sum_of_Encrypted_Integers.py))
+- Harshad Number ([Python3](Easy/3371_Harshad_Number.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -152,7 +153,7 @@ Total Solved: 137
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 97 |
+| Easy | 98 |
 | Medium | 37 |
 | Hard | 3 |
 
