@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 148
+Total Solved: 149
 
 ## Easy
 
@@ -110,6 +110,7 @@ Total Solved: 148
 - Find if Digit Game Can Be Won ([Python3](Easy/3515_Find_if_Digit_Game_Can_Be_Won.py))
 - Check if Two Chessboard Squares Have the Same Color ([Python3](Easy/3553_Check_if_Two_Chessboard_Squares_Have_the_Same_Color.py))
 - Find the Key of the Numbers ([Python3](Easy/3568_Find_the_Key_of_the_Numbers.py))
+- Find Indices of Stable Mountains ([Python3](Easy/3582_Find_Indices_of_Stable_Mountains.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -163,7 +164,7 @@ Total Solved: 148
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 108 |
+| Easy | 109 |
 | Medium | 37 |
 | Hard | 3 |
 
