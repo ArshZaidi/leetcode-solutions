@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 157
+Total Solved: 158
 
 ## Easy
 
@@ -119,6 +119,7 @@ Total Solved: 157
 - Find Special Substring of Length K ([Python3](Easy/3709_Find_Special_Substring_of_Length_K.py))
 - Sum of Good Numbers ([Python3](Easy/3723_Sum_of_Good_Numbers.py))
 - Maximum Difference Between Adjacent Elements in a Circular Array ([Python3](Easy/3747_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py))
+- Transform Array by Parity ([Python3](Easy/3778_Transform_Array_by_Parity.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -172,7 +173,7 @@ Total Solved: 157
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 117 |
+| Easy | 118 |
 | Medium | 37 |
 | Hard | 3 |
 
