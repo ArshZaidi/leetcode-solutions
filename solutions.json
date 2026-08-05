@@ -2078,5 +2078,18 @@
     "submissionId": "2095584021",
     "timestamp": "1785947038",
     "path": "Easy/3817_Maximum_Containers_on_a_Ship.py"
+  },
+  {
+    "problemId": "3846",
+    "problemTitle": "Minimum Operations to Make Array Sum Divisible by K",
+    "problemSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "submissionId": "2095586187",
+    "timestamp": "1785947125",
+    "path": "Easy/3846_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.py"
   }
 ]
