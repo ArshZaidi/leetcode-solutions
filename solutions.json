@@ -1857,5 +1857,18 @@
     "submissionId": "2094940420",
     "timestamp": "1785911598",
     "path": "Easy/3396_Valid_Word.py"
+  },
+  {
+    "problemId": "3429",
+    "problemTitle": "Special Array I",
+    "problemSlug": "special-array-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094942860",
+    "timestamp": "1785911717",
+    "path": "Easy/3429_Special_Array_I.py"
   }
 ]
