@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 129
+Total Solved: 130
 
 ## Easy
 
@@ -90,6 +90,7 @@ Total Solved: 129
 - Furthest Point From Origin ([Python3](Easy/3019_Furthest_Point_From_Origin.py))
 - Minimum Right Shifts to Sort the Array ([Python3](Easy/3045_Minimum_Right_Shifts_to_Sort_the_Array.py))
 - Maximum Value of an Ordered Triplet I ([Python3](Easy/3154_Maximum_Value_of_an_Ordered_Triplet_I.py))
+- Find Indices With Index and Value Difference I ([Python3](Easy/3165_Find_Indices_With_Index_and_Value_Difference_I.py))
 - Divisible and Non-divisible Sums Difference ([Python3](Easy/3172_Divisible_and_Non-divisible_Sums_Difference.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
@@ -144,7 +145,7 @@ Total Solved: 129
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 89 |
+| Easy | 90 |
 | Medium | 37 |
 | Hard | 3 |
 
