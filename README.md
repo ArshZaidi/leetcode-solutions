@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 160
+Total Solved: 161
 
 ## Easy
 
@@ -121,6 +121,7 @@ Total Solved: 160
 - Maximum Difference Between Adjacent Elements in a Circular Array ([Python3](Easy/3747_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.py))
 - Transform Array by Parity ([Python3](Easy/3778_Transform_Array_by_Parity.py))
 - Maximum Containers on a Ship ([Python3](Easy/3817_Maximum_Containers_on_a_Ship.py))
+- Find Closest Person ([Python3](Easy/3830_Find_Closest_Person.py))
 - Minimum Operations to Make Array Sum Divisible by K ([Python3](Easy/3846_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
@@ -175,7 +176,7 @@ Total Solved: 160
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 120 |
+| Easy | 121 |
 | Medium | 37 |
 | Hard | 3 |
 
