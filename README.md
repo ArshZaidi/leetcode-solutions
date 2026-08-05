@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 135
+Total Solved: 136
 
 ## Easy
 
@@ -97,6 +97,7 @@ Total Solved: 135
 - Number of Changing Keys ([Python3](Easy/3312_Number_of_Changing_Keys.py))
 - Type of Triangle ([Python3](Easy/3321_Type_of_Triangle.py))
 - Minimum Operations to Exceed Threshold Value I ([Python3](Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.py))
+- Apple Redistribution into Boxes ([Python3](Easy/3334_Apple_Redistribution_into_Boxes.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -150,7 +151,7 @@ Total Solved: 135
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 95 |
+| Easy | 96 |
 | Medium | 37 |
 | Hard | 3 |
 
