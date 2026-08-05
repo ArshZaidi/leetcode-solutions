@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 153
+Total Solved: 154
 
 ## Easy
 
@@ -115,6 +115,7 @@ Total Solved: 153
 - Find the Original Typed String I ([Python3](Easy/3617_Find_the_Original_Typed_String_I.py))
 - Button with Longest Push Time ([Python3](Easy/3632_Button_with_Longest_Push_Time.py))
 - Check Balanced String ([Python3](Easy/3636_Check_Balanced_String.py))
+- Substring Matching Pattern ([Python3](Easy/3684_Substring_Matching_Pattern.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -168,7 +169,7 @@ Total Solved: 153
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 113 |
+| Easy | 114 |
 | Medium | 37 |
 | Hard | 3 |
 
