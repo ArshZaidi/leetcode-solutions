@@ -1935,5 +1935,18 @@
     "submissionId": "2094953324",
     "timestamp": "1785912209",
     "path": "Easy/3553_Check_if_Two_Chessboard_Squares_Have_the_Same_Color.py"
+  },
+  {
+    "problemId": "3582",
+    "problemTitle": "Find Indices of Stable Mountains",
+    "problemSlug": "find-indices-of-stable-mountains",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2095509542",
+    "timestamp": "1785943697",
+    "path": "Easy/3582_Find_Indices_of_Stable_Mountains.py"
   }
 ]
