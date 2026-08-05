@@ -1883,5 +1883,18 @@
     "submissionId": "2094944197",
     "timestamp": "1785911781",
     "path": "Easy/3476_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.py"
+  },
+  {
+    "problemId": "3468",
+    "problemTitle": "Find the Encrypted String",
+    "problemSlug": "find-the-encrypted-string",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "36 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2094947248",
+    "timestamp": "1785911921",
+    "path": "Easy/3468_Find_the_Encrypted_String.py"
   }
 ]
