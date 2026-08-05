@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 130
+Total Solved: 131
 
 ## Easy
 
@@ -92,6 +92,7 @@ Total Solved: 130
 - Maximum Value of an Ordered Triplet I ([Python3](Easy/3154_Maximum_Value_of_an_Ordered_Triplet_I.py))
 - Find Indices With Index and Value Difference I ([Python3](Easy/3165_Find_Indices_With_Index_and_Value_Difference_I.py))
 - Divisible and Non-divisible Sums Difference ([Python3](Easy/3172_Divisible_and_Non-divisible_Sums_Difference.py))
+- Make Three Strings Equal ([Python3](Easy/3207_Make_Three_Strings_Equal.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -145,7 +146,7 @@ Total Solved: 130
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 90 |
+| Easy | 91 |
 | Medium | 37 |
 | Hard | 3 |
 
