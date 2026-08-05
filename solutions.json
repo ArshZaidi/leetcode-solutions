@@ -1649,5 +1649,18 @@
     "submissionId": "2094890400",
     "timestamp": "1785909334",
     "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.py"
+  },
+  {
+    "problemId": "3045",
+    "problemTitle": "Minimum Right Shifts to Sort the Array",
+    "problemSlug": "minimum-right-shifts-to-sort-the-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2094892495",
+    "timestamp": "1785909433",
+    "path": "Easy/3045_Minimum_Right_Shifts_to_Sort_the_Array.py"
   }
 ]
