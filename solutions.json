@@ -1766,5 +1766,18 @@
     "submissionId": "2094929465",
     "timestamp": "1785911110",
     "path": "Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.py"
+  },
+  {
+    "problemId": "3334",
+    "problemTitle": "Apple Redistribution into Boxes",
+    "problemSlug": "apple-redistribution-into-boxes",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2094930376",
+    "timestamp": "1785911150",
+    "path": "Easy/3334_Apple_Redistribution_into_Boxes.py"
   }
 ]
