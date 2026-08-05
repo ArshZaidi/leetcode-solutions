@@ -2052,5 +2052,18 @@
     "submissionId": "2095577797",
     "timestamp": "1785946782",
     "path": "Easy/3709_Find_Special_Substring_of_Length_K.py"
+  },
+  {
+    "problemId": "3778",
+    "problemTitle": "Transform Array by Parity",
+    "problemSlug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2095582321",
+    "timestamp": "1785946969",
+    "path": "Easy/3778_Transform_Array_by_Parity.py"
   }
 ]
