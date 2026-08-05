@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 139
+Total Solved: 140
 
 ## Easy
 
@@ -101,6 +101,7 @@ Total Solved: 139
 - Find the Sum of Encrypted Integers ([Python3](Easy/3367_Find_the_Sum_of_Encrypted_Integers.py))
 - Harshad Number ([Python3](Easy/3371_Harshad_Number.py))
 - Longest Strictly Increasing or Strictly Decreasing Subarray ([Python3](Easy/3372_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.py))
+- Score of a String ([Python3](Easy/3379_Score_of_a_String.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
@@ -154,7 +155,7 @@ Total Solved: 139
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 99 |
+| Easy | 100 |
 | Medium | 37 |
 | Hard | 3 |
 
