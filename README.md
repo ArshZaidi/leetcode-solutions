@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 164
+Total Solved: 165
 
 ## Easy
 
@@ -162,6 +162,7 @@ Total Solved: 164
 - Daily Temperatures ([Python3](Medium/0739_Daily_Temperatures.py))
 - Global and Local Inversions ([Python3](Medium/0790_Global_and_Local_Inversions.py))
 - Stone Game ([Python3](Medium/0909_Stone_Game.py))
+- Beautiful Array ([Python3](Medium/0968_Beautiful_Array.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Remove Methods From Project ([Python3](Medium/3561_Remove_Methods_From_Project.py))
@@ -180,7 +181,7 @@ Total Solved: 164
 | Difficulty | Count |
 |------------|--------|
 | Easy | 124 |
-| Medium | 37 |
+| Medium | 38 |
 | Hard | 3 |
 
 ---
