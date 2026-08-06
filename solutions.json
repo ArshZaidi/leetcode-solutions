@@ -2143,5 +2143,18 @@
     "submissionId": "2096244537",
     "timestamp": "1785997391",
     "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.py"
+  },
+  {
+    "problemId": "968",
+    "problemTitle": "Beautiful Array",
+    "problemSlug": "beautiful-array",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2097047346",
+    "timestamp": "1786037004",
+    "path": "Medium/0968_Beautiful_Array.py"
   }
 ]
