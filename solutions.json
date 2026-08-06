@@ -2169,5 +2169,18 @@
     "submissionId": "2097056096",
     "timestamp": "1786037322",
     "path": "Medium/0974_Reorder_Data_in_Log_Files.py"
+  },
+  {
+    "problemId": "983",
+    "problemTitle": "Validate Stack Sequences",
+    "problemSlug": "validate-stack-sequences",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2097061310",
+    "timestamp": "1786037515",
+    "path": "Medium/0983_Validate_Stack_Sequences.py"
   }
 ]
