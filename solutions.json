@@ -2156,5 +2156,18 @@
     "submissionId": "2097047346",
     "timestamp": "1786037004",
     "path": "Medium/0968_Beautiful_Array.py"
+  },
+  {
+    "problemId": "974",
+    "problemTitle": "Reorder Data in Log Files",
+    "problemSlug": "reorder-data-in-log-files",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2097056096",
+    "timestamp": "1786037322",
+    "path": "Medium/0974_Reorder_Data_in_Log_Files.py"
   }
 ]
