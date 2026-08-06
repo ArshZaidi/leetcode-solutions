@@ -2130,5 +2130,18 @@
     "submissionId": "2095589764",
     "timestamp": "1785947274",
     "path": "Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.py"
+  },
+  {
+    "problemId": "3626",
+    "problemTitle": "Smallest Divisible Digit Product I",
+    "problemSlug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "1 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2096244537",
+    "timestamp": "1785997391",
+    "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.py"
   }
 ]
