@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 163
+Total Solved: 164
 
 ## Easy
 
@@ -113,6 +113,7 @@ Total Solved: 163
 - Find Indices of Stable Mountains ([Python3](Easy/3582_Find_Indices_of_Stable_Mountains.py))
 - Minimum Element After Replacement With Digit Sum ([Python3](Easy/3606_Minimum_Element_After_Replacement_With_Digit_Sum.py))
 - Find the Original Typed String I ([Python3](Easy/3617_Find_the_Original_Typed_String_I.py))
+- Smallest Divisible Digit Product I ([Python3](Easy/3626_Smallest_Divisible_Digit_Product_I.py))
 - Button with Longest Push Time ([Python3](Easy/3632_Button_with_Longest_Push_Time.py))
 - Check Balanced String ([Python3](Easy/3636_Check_Balanced_String.py))
 - Substring Matching Pattern ([Python3](Easy/3684_Substring_Matching_Pattern.py))
@@ -178,7 +179,7 @@ Total Solved: 163
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 123 |
+| Easy | 124 |
 | Medium | 37 |
 | Hard | 3 |
 
