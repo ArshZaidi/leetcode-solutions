@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 165
+Total Solved: 166
 
 ## Easy
 
@@ -163,6 +163,7 @@ Total Solved: 165
 - Global and Local Inversions ([Python3](Medium/0790_Global_and_Local_Inversions.py))
 - Stone Game ([Python3](Medium/0909_Stone_Game.py))
 - Beautiful Array ([Python3](Medium/0968_Beautiful_Array.py))
+- Reorder Data in Log Files ([Python3](Medium/0974_Reorder_Data_in_Log_Files.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Remove Methods From Project ([Python3](Medium/3561_Remove_Methods_From_Project.py))
@@ -181,7 +182,7 @@ Total Solved: 165
 | Difficulty | Count |
 |------------|--------|
 | Easy | 124 |
-| Medium | 38 |
+| Medium | 39 |
 | Hard | 3 |
 
 ---
