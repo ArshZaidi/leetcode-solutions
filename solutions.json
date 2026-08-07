@@ -2182,5 +2182,18 @@
     "submissionId": "2097061310",
     "timestamp": "1786037515",
     "path": "Medium/0983_Validate_Stack_Sequences.py"
+  },
+  {
+    "problemId": "3635",
+    "problemTitle": "Smallest Divisible Digit Product II",
+    "problemSlug": "smallest-divisible-digit-product-ii",
+    "difficulty": "Hard",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3592 ms",
+    "memory": "42.2 MB",
+    "submissionId": "2097408340",
+    "timestamp": "1786073907",
+    "path": "Hard/3635_Smallest_Divisible_Digit_Product_II.py"
   }
 ]
