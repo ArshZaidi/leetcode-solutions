@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 168
+Total Solved: 169
 
 ## Easy
 
@@ -168,6 +168,7 @@ Total Solved: 168
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Remove Methods From Project ([Python3](Medium/3561_Remove_Methods_From_Project.py))
+- Find the Lexicographically Smallest Valid Sequence ([Python3](Medium/3584_Find_the_Lexicographically_Smallest_Valid_Sequence.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
 - Number of Unique XOR Triplets I ([Python3](Medium/3824_Number_of_Unique_XOR_Triplets_I.py))
 - Sum of GCD of Formed Pairs ([Python](Medium/4242_Sum_of_GCD_of_Formed_Pairs.py))
@@ -184,7 +185,7 @@ Total Solved: 168
 | Difficulty | Count |
 |------------|--------|
 | Easy | 124 |
-| Medium | 40 |
+| Medium | 41 |
 | Hard | 4 |
 
 ---
