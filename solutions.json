@@ -2195,5 +2195,18 @@
     "submissionId": "2097408340",
     "timestamp": "1786073907",
     "path": "Hard/3635_Smallest_Divisible_Digit_Product_II.py"
+  },
+  {
+    "problemId": "3584",
+    "problemTitle": "Find the Lexicographically Smallest Valid Sequence",
+    "problemSlug": "find-the-lexicographically-smallest-valid-sequence",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "407 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2099274768",
+    "timestamp": "1786203347",
+    "path": "Medium/3584_Find_the_Lexicographically_Smallest_Valid_Sequence.py"
   }
 ]
