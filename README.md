@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 173
+Total Solved: 174
 
 ## Easy
 
@@ -129,6 +129,7 @@ Total Solved: 173
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Earliest Time to Finish One Task ([Python3](Easy/4012_Earliest_Time_to_Finish_One_Task.py))
 - Compute Decimal Representation ([Python3](Easy/4039_Compute_Decimal_Representation.py))
+- Equal Score Substrings ([Python3](Easy/4052_Equal_Score_Substrings.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
 ## Medium
@@ -188,7 +189,7 @@ Total Solved: 173
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 126 |
+| Easy | 127 |
 | Medium | 42 |
 | Hard | 5 |
 
