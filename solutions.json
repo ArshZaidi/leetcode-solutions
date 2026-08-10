@@ -2325,5 +2325,18 @@
     "submissionId": "2101811128",
     "timestamp": "1786379350",
     "path": "Easy/4177_Reverse_String_Prefix.py"
+  },
+  {
+    "problemId": "4229",
+    "problemTitle": "Trim Trailing Vowels",
+    "problemSlug": "trim-trailing-vowels",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2101828567",
+    "timestamp": "1786380132",
+    "path": "Easy/4229_Trim_Trailing_Vowels.py"
   }
 ]
