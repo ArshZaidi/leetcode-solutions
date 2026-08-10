@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 176
+Total Solved: 177
 
 ## Easy
 
@@ -133,6 +133,7 @@ Total Solved: 176
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 - Minimum Moves to Equal Array Elements III ([Python3](Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.py))
 - Absolute Difference Between Maximum and Minimum K Elements ([Python3](Easy/4158_Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.py))
+- Mirror Distance of an Integer ([Python3](Easy/4168_Mirror_Distance_of_an_Integer.py))
 
 ## Medium
 
@@ -191,7 +192,7 @@ Total Solved: 176
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 129 |
+| Easy | 130 |
 | Medium | 42 |
 | Hard | 5 |
 
