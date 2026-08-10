@@ -2286,5 +2286,18 @@
     "submissionId": "2101787638",
     "timestamp": "1786378298",
     "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.py"
+  },
+  {
+    "problemId": "4158",
+    "problemTitle": "Absolute Difference Between Maximum and Minimum K Elements",
+    "problemSlug": "absolute-difference-between-maximum-and-minimum-k-elements",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2101801632",
+    "timestamp": "1786378936",
+    "path": "Easy/4158_Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.py"
   }
 ]
