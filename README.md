@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 175
+Total Solved: 176
 
 ## Easy
 
@@ -132,6 +132,7 @@ Total Solved: 175
 - Equal Score Substrings ([Python3](Easy/4052_Equal_Score_Substrings.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 - Minimum Moves to Equal Array Elements III ([Python3](Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.py))
+- Absolute Difference Between Maximum and Minimum K Elements ([Python3](Easy/4158_Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.py))
 
 ## Medium
 
@@ -190,7 +191,7 @@ Total Solved: 175
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 128 |
+| Easy | 129 |
 | Medium | 42 |
 | Hard | 5 |
 
