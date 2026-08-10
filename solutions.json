@@ -2338,5 +2338,18 @@
     "submissionId": "2101828567",
     "timestamp": "1786380132",
     "path": "Easy/4229_Trim_Trailing_Vowels.py"
+  },
+  {
+    "problemId": "4247",
+    "problemTitle": "Minimum Capacity Box",
+    "problemSlug": "minimum-capacity-box",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2101837703",
+    "timestamp": "1786380530",
+    "path": "Easy/4247_Minimum_Capacity_Box.py"
   }
 ]
