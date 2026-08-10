@@ -2234,5 +2234,18 @@
     "submissionId": "2101257232",
     "timestamp": "1786349472",
     "path": "Hard/1617_Stone_Game_IV.py"
+  },
+  {
+    "problemId": "4012",
+    "problemTitle": "Earliest Time to Finish One Task",
+    "problemSlug": "earliest-time-to-finish-one-task",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2101730038",
+    "timestamp": "1786375667",
+    "path": "Easy/4012_Earliest_Time_to_Finish_One_Task.py"
   }
 ]
