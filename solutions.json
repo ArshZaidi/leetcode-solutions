@@ -2208,5 +2208,18 @@
     "submissionId": "2099274768",
     "timestamp": "1786203347",
     "path": "Medium/3584_Find_the_Lexicographically_Smallest_Valid_Sequence.py"
+  },
+  {
+    "problemId": "1240",
+    "problemTitle": "Stone Game II",
+    "problemSlug": "stone-game-ii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "183 ms",
+    "memory": "27.2 MB",
+    "submissionId": "2101256726",
+    "timestamp": "1786349436",
+    "path": "Medium/1240_Stone_Game_II.py"
   }
 ]
