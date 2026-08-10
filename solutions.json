@@ -2260,5 +2260,18 @@
     "submissionId": "2101746214",
     "timestamp": "1786376430",
     "path": "Easy/4039_Compute_Decimal_Representation.py"
+  },
+  {
+    "problemId": "4052",
+    "problemTitle": "Equal Score Substrings",
+    "problemSlug": "equal-score-substrings",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "7 ms",
+    "memory": "19.5 MB",
+    "submissionId": "2101780552",
+    "timestamp": "1786377979",
+    "path": "Easy/4052_Equal_Score_Substrings.py"
   }
 ]
