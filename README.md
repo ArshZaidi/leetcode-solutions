@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 169
+Total Solved: 170
 
 ## Easy
 
@@ -167,6 +167,7 @@ Total Solved: 169
 - Validate Stack Sequences ([Python3](Medium/0983_Validate_Stack_Sequences.py))
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
+- Stone Game II ([Python3](Medium/1240_Stone_Game_II.py))
 - Remove Methods From Project ([Python3](Medium/3561_Remove_Methods_From_Project.py))
 - Find the Lexicographically Smallest Valid Sequence ([Python3](Medium/3584_Find_the_Lexicographically_Smallest_Valid_Sequence.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -185,7 +186,7 @@ Total Solved: 169
 | Difficulty | Count |
 |------------|--------|
 | Easy | 124 |
-| Medium | 41 |
+| Medium | 42 |
 | Hard | 4 |
 
 ---
