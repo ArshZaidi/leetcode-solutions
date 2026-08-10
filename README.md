@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 174
+Total Solved: 175
 
 ## Easy
 
@@ -131,6 +131,7 @@ Total Solved: 174
 - Compute Decimal Representation ([Python3](Easy/4039_Compute_Decimal_Representation.py))
 - Equal Score Substrings ([Python3](Easy/4052_Equal_Score_Substrings.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
+- Minimum Moves to Equal Array Elements III ([Python3](Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.py))
 
 ## Medium
 
@@ -189,7 +190,7 @@ Total Solved: 174
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 127 |
+| Easy | 128 |
 | Medium | 42 |
 | Hard | 5 |
 
