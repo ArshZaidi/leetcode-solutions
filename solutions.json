@@ -2299,5 +2299,18 @@
     "submissionId": "2101801632",
     "timestamp": "1786378936",
     "path": "Easy/4158_Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.py"
+  },
+  {
+    "problemId": "4168",
+    "problemTitle": "Mirror Distance of an Integer",
+    "problemSlug": "mirror-distance-of-an-integer",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "1 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2101809649",
+    "timestamp": "1786379284",
+    "path": "Easy/4168_Mirror_Distance_of_an_Integer.py"
   }
 ]
