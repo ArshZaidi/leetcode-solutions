@@ -2312,5 +2312,18 @@
     "submissionId": "2101809649",
     "timestamp": "1786379284",
     "path": "Easy/4168_Mirror_Distance_of_an_Integer.py"
+  },
+  {
+    "problemId": "4177",
+    "problemTitle": "Reverse String Prefix",
+    "problemSlug": "reverse-string-prefix",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2101811128",
+    "timestamp": "1786379350",
+    "path": "Easy/4177_Reverse_String_Prefix.py"
   }
 ]
