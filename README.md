@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 172
+Total Solved: 173
 
 ## Easy
 
@@ -128,6 +128,7 @@ Total Solved: 172
 - Smallest Index With Digit Sum Equal to Index ([Python3](Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
 - Earliest Time to Finish One Task ([Python3](Easy/4012_Earliest_Time_to_Finish_One_Task.py))
+- Compute Decimal Representation ([Python3](Easy/4039_Compute_Decimal_Representation.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
 ## Medium
@@ -187,7 +188,7 @@ Total Solved: 172
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 125 |
+| Easy | 126 |
 | Medium | 42 |
 | Hard | 5 |
 
