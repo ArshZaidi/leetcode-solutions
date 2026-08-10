@@ -2247,5 +2247,18 @@
     "submissionId": "2101730038",
     "timestamp": "1786375667",
     "path": "Easy/4012_Earliest_Time_to_Finish_One_Task.py"
+  },
+  {
+    "problemId": "4039",
+    "problemTitle": "Compute Decimal Representation",
+    "problemSlug": "compute-decimal-representation",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2101746214",
+    "timestamp": "1786376430",
+    "path": "Easy/4039_Compute_Decimal_Representation.py"
   }
 ]
