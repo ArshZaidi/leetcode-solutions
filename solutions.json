@@ -2273,5 +2273,18 @@
     "submissionId": "2101780552",
     "timestamp": "1786377979",
     "path": "Easy/4052_Equal_Score_Substrings.py"
+  },
+  {
+    "problemId": "4116",
+    "problemTitle": "Minimum Moves to Equal Array Elements III",
+    "problemSlug": "minimum-moves-to-equal-array-elements-iii",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "11 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2101787638",
+    "timestamp": "1786378298",
+    "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.py"
   }
 ]
