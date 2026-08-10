@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 177
+Total Solved: 178
 
 ## Easy
 
@@ -134,6 +134,7 @@ Total Solved: 177
 - Minimum Moves to Equal Array Elements III ([Python3](Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.py))
 - Absolute Difference Between Maximum and Minimum K Elements ([Python3](Easy/4158_Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.py))
 - Mirror Distance of an Integer ([Python3](Easy/4168_Mirror_Distance_of_an_Integer.py))
+- Reverse String Prefix ([Python3](Easy/4177_Reverse_String_Prefix.py))
 
 ## Medium
 
@@ -192,7 +193,7 @@ Total Solved: 177
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 130 |
+| Easy | 131 |
 | Medium | 42 |
 | Hard | 5 |
 
