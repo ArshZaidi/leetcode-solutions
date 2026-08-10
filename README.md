@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 171
+Total Solved: 172
 
 ## Easy
 
@@ -127,6 +127,7 @@ Total Solved: 171
 - Maximum Product of Two Digits ([Python3](Easy/3859_Maximum_Product_of_Two_Digits.py))
 - Smallest Index With Digit Sum Equal to Index ([Python3](Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.py))
 - GCD of Odd and Even Sums ([Python](Easy/3995_GCD_of_Odd_and_Even_Sums.py))
+- Earliest Time to Finish One Task ([Python3](Easy/4012_Earliest_Time_to_Finish_One_Task.py))
 - Find Missing Elements ([Python3](Easy/4107_Find_Missing_Elements.py))
 
 ## Medium
@@ -186,7 +187,7 @@ Total Solved: 171
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 124 |
+| Easy | 125 |
 | Medium | 42 |
 | Hard | 5 |
 
