@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 178
+Total Solved: 179
 
 ## Easy
 
@@ -135,6 +135,7 @@ Total Solved: 178
 - Absolute Difference Between Maximum and Minimum K Elements ([Python3](Easy/4158_Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.py))
 - Mirror Distance of an Integer ([Python3](Easy/4168_Mirror_Distance_of_an_Integer.py))
 - Reverse String Prefix ([Python3](Easy/4177_Reverse_String_Prefix.py))
+- Trim Trailing Vowels ([Python3](Easy/4229_Trim_Trailing_Vowels.py))
 
 ## Medium
 
@@ -193,7 +194,7 @@ Total Solved: 178
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 131 |
+| Easy | 132 |
 | Medium | 42 |
 | Hard | 5 |
 
