@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 170
+Total Solved: 171
 
 ## Easy
 
@@ -177,6 +177,7 @@ Total Solved: 170
 ## Hard
 
 - Stone Game III ([Python3](Hard/1522_Stone_Game_III.py))
+- Stone Game IV ([Python3](Hard/1617_Stone_Game_IV.py))
 - Sorted GCD Pair Queries ([Python](Hard/3583_Sorted_GCD_Pair_Queries.py))
 - Smallest Divisible Digit Product II ([Python3](Hard/3635_Smallest_Divisible_Digit_Product_II.py))
 - Maximize Active Section with Trade II ([C++](Hard/3804_Maximize_Active_Section_with_Trade_II.cpp))
@@ -187,7 +188,7 @@ Total Solved: 170
 |------------|--------|
 | Easy | 124 |
 | Medium | 42 |
-| Hard | 4 |
+| Hard | 5 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
