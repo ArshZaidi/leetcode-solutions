@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 181
+Total Solved: 182
 
 ## Easy
 
+- Remove Duplicates from Sorted Array ([Python3](Easy/0026_Remove_Duplicates_from_Sorted_Array.py))
 - Maximum Product of Three Numbers ([Python](Easy/0628_Maximum_Product_of_Three_Numbers.py), [Python3](Easy/0628_Maximum_Product_of_Three_Numbers.py))
 - Mean of Array After Removing Some Elements ([Python](Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py))
 - Element Appearing More Than 25% In Sorted Array ([Python](Easy/1221_Element_Appearing_More_Than_25_In_Sorted_Array.py))
@@ -196,7 +197,7 @@ Total Solved: 181
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 134 |
+| Easy | 135 |
 | Medium | 42 |
 | Hard | 5 |
 
