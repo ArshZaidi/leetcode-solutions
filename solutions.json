@@ -2364,5 +2364,18 @@
     "submissionId": "2103143499",
     "timestamp": "1786466498",
     "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.py"
+  },
+  {
+    "problemId": "26",
+    "problemTitle": "Remove Duplicates from Sorted Array",
+    "problemSlug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "20.4 MB",
+    "submissionId": "2103146581",
+    "timestamp": "1786466613",
+    "path": "Easy/0026_Remove_Duplicates_from_Sorted_Array.py"
   }
 ]
