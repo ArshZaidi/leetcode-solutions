@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 180
+Total Solved: 181
 
 ## Easy
 
@@ -93,6 +93,7 @@ Total Solved: 180
 - Find Indices With Index and Value Difference I ([Python3](Easy/3165_Find_Indices_With_Index_and_Value_Difference_I.py))
 - Divisible and Non-divisible Sums Difference ([Python3](Easy/3172_Divisible_and_Non-divisible_Sums_Difference.py))
 - Make Three Strings Equal ([Python3](Easy/3207_Make_Three_Strings_Equal.py))
+- Smallest Missing Integer Greater Than Sequential Prefix Sum ([Python3](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.py))
 - Maximum Area of Longest Diagonal Rectangle ([Python3](Easy/3251_Maximum_Area_of_Longest_Diagonal_Rectangle.py))
 - Number of Changing Keys ([Python3](Easy/3312_Number_of_Changing_Keys.py))
 - Type of Triangle ([Python3](Easy/3321_Type_of_Triangle.py))
@@ -195,7 +196,7 @@ Total Solved: 180
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 133 |
+| Easy | 134 |
 | Medium | 42 |
 | Hard | 5 |
 
