@@ -2351,5 +2351,18 @@
     "submissionId": "2101837703",
     "timestamp": "1786380530",
     "path": "Easy/4247_Minimum_Capacity_Box.py"
+  },
+  {
+    "problemId": "3236",
+    "problemTitle": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "problemSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2103143499",
+    "timestamp": "1786466498",
+    "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.py"
   }
 ]
