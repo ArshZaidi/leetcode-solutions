@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 182
+Total Solved: 183
 
 ## Easy
 
@@ -179,6 +179,7 @@ Total Solved: 182
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Stone Game II ([Python3](Medium/1240_Stone_Game_II.py))
+- Length of Longest Subarray With at Most K Frequency ([Python3](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py))
 - Remove Methods From Project ([Python3](Medium/3561_Remove_Methods_From_Project.py))
 - Find the Lexicographically Smallest Valid Sequence ([Python3](Medium/3584_Find_the_Lexicographically_Smallest_Valid_Sequence.py))
 - Number of Unique XOR Triplets II ([Python3](Medium/3820_Number_of_Unique_XOR_Triplets_II.py))
@@ -198,7 +199,7 @@ Total Solved: 182
 | Difficulty | Count |
 |------------|--------|
 | Easy | 135 |
-| Medium | 42 |
+| Medium | 43 |
 | Hard | 5 |
 
 ---
