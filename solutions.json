@@ -2377,5 +2377,18 @@
     "submissionId": "2103146581",
     "timestamp": "1786466613",
     "path": "Easy/0026_Remove_Duplicates_from_Sorted_Array.py"
+  },
+  {
+    "problemId": "3225",
+    "problemTitle": "Length of Longest Subarray With at Most K Frequency",
+    "problemSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "243 ms",
+    "memory": "35.3 MB",
+    "submissionId": "2104638273",
+    "timestamp": "1786559510",
+    "path": "Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py"
   }
 ]
