@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 184
+Total Solved: 185
 
 ## Easy
 
@@ -138,6 +138,7 @@ Total Solved: 184
 - Mirror Distance of an Integer ([Python3](Easy/4168_Mirror_Distance_of_an_Integer.py))
 - Reverse String Prefix ([Python3](Easy/4177_Reverse_String_Prefix.py))
 - Trim Trailing Vowels ([Python3](Easy/4229_Trim_Trailing_Vowels.py))
+- Count Commas in Range ([Python3](Easy/4245_Count_Commas_in_Range.py))
 - Minimum Capacity Box ([Python3](Easy/4247_Minimum_Capacity_Box.py))
 
 ## Medium
@@ -199,7 +200,7 @@ Total Solved: 184
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 135 |
+| Easy | 136 |
 | Medium | 43 |
 | Hard | 6 |
 
