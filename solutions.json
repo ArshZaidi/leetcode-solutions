@@ -2429,5 +2429,18 @@
     "submissionId": "2105338067",
     "timestamp": "1786619308",
     "path": "Easy/4256_Construct_Uniform_Parity_Array_I.py"
+  },
+  {
+    "problemId": "4264",
+    "problemTitle": "First Matching Character From Both Ends",
+    "problemSlug": "first-matching-character-from-both-ends",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2105345066",
+    "timestamp": "1786619787",
+    "path": "Easy/4264_First_Matching_Character_From_Both_Ends.py"
   }
 ]
