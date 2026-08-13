@@ -2546,5 +2546,18 @@
     "submissionId": "2105369458",
     "timestamp": "1786621551",
     "path": "Easy/4332_Check_Good_Integer.py"
+  },
+  {
+    "problemId": "4357",
+    "problemTitle": "Number of Elapsed Seconds Between Two Times",
+    "problemSlug": "number-of-elapsed-seconds-between-two-times",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2105403821",
+    "timestamp": "1786624030",
+    "path": "Easy/4357_Number_of_Elapsed_Seconds_Between_Two_Times.py"
   }
 ]
