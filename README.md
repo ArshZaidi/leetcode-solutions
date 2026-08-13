@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 189
+Total Solved: 190
 
 ## Easy
 
@@ -144,6 +144,7 @@ Total Solved: 189
 - First Matching Character From Both Ends ([Python3](Easy/4264_First_Matching_Character_From_Both_Ends.py))
 - Smallest Stable Index I ([Python3](Easy/4284_Smallest_Stable_Index_I.py))
 - Valid Digit Number ([Python3](Easy/4286_Valid_Digit_Number.py))
+- Valid Elements in an Array ([Python3](Easy/4290_Valid_Elements_in_an_Array.py))
 
 ## Medium
 
@@ -204,7 +205,7 @@ Total Solved: 189
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 140 |
+| Easy | 141 |
 | Medium | 43 |
 | Hard | 6 |
 
