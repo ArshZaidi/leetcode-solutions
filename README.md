@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 188
+Total Solved: 189
 
 ## Easy
 
@@ -143,6 +143,7 @@ Total Solved: 188
 - Construct Uniform Parity Array I ([Python3](Easy/4256_Construct_Uniform_Parity_Array_I.py))
 - First Matching Character From Both Ends ([Python3](Easy/4264_First_Matching_Character_From_Both_Ends.py))
 - Smallest Stable Index I ([Python3](Easy/4284_Smallest_Stable_Index_I.py))
+- Valid Digit Number ([Python3](Easy/4286_Valid_Digit_Number.py))
 
 ## Medium
 
@@ -203,7 +204,7 @@ Total Solved: 188
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 139 |
+| Easy | 140 |
 | Medium | 43 |
 | Hard | 6 |
 
