@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 191
+Total Solved: 192
 
 ## Easy
 
@@ -146,6 +146,7 @@ Total Solved: 191
 - Valid Digit Number ([Python3](Easy/4286_Valid_Digit_Number.py))
 - Valid Elements in an Array ([Python3](Easy/4290_Valid_Elements_in_an_Array.py))
 - Count Indices With Opposite Parity ([Python3](Easy/4295_Count_Indices_With_Opposite_Parity.py))
+- Check Adjacent Digit Differences ([Python3](Easy/4305_Check_Adjacent_Digit_Differences.py))
 
 ## Medium
 
@@ -206,7 +207,7 @@ Total Solved: 191
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 142 |
+| Easy | 143 |
 | Medium | 43 |
 | Hard | 6 |
 
