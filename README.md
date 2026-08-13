@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 195
+Total Solved: 196
 
 ## Easy
 
@@ -150,6 +150,7 @@ Total Solved: 195
 - Limit Occurrences in Sorted Array ([Python3](Easy/4312_Limit_Occurrences_in_Sorted_Array.py))
 - Minimum Swaps to Move Zeros to End ([Python3](Easy/4316_Minimum_Swaps_to_Move_Zeros_to_End.py))
 - Check Good Integer ([Python3](Easy/4332_Check_Good_Integer.py))
+- Number of Elapsed Seconds Between Two Times ([Python3](Easy/4357_Number_of_Elapsed_Seconds_Between_Two_Times.py))
 
 ## Medium
 
@@ -210,7 +211,7 @@ Total Solved: 195
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 146 |
+| Easy | 147 |
 | Medium | 43 |
 | Hard | 6 |
 
