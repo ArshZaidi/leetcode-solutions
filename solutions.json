@@ -2520,5 +2520,18 @@
     "submissionId": "2105368045",
     "timestamp": "1786621442",
     "path": "Easy/4316_Minimum_Swaps_to_Move_Zeros_to_End.py"
+  },
+  {
+    "problemId": "4312",
+    "problemTitle": "Limit Occurrences in Sorted Array",
+    "problemSlug": "limit-occurrences-in-sorted-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2105368771",
+    "timestamp": "1786621497",
+    "path": "Easy/4312_Limit_Occurrences_in_Sorted_Array.py"
   }
 ]
