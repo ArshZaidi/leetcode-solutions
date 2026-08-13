@@ -2455,5 +2455,18 @@
     "submissionId": "2105356794",
     "timestamp": "1786620613",
     "path": "Easy/4284_Smallest_Stable_Index_I.py"
+  },
+  {
+    "problemId": "4286",
+    "problemTitle": "Valid Digit Number",
+    "problemSlug": "valid-digit-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2105357397",
+    "timestamp": "1786620660",
+    "path": "Easy/4286_Valid_Digit_Number.py"
   }
 ]
