@@ -2507,5 +2507,18 @@
     "submissionId": "2105365808",
     "timestamp": "1786621281",
     "path": "Easy/4305_Check_Adjacent_Digit_Differences.py"
+  },
+  {
+    "problemId": "4316",
+    "problemTitle": "Minimum Swaps to Move Zeros to End",
+    "problemSlug": "minimum-swaps-to-move-zeros-to-end",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "2 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2105368045",
+    "timestamp": "1786621442",
+    "path": "Easy/4316_Minimum_Swaps_to_Move_Zeros_to_End.py"
   }
 ]
