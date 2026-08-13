@@ -2442,5 +2442,18 @@
     "submissionId": "2105345066",
     "timestamp": "1786619787",
     "path": "Easy/4264_First_Matching_Character_From_Both_Ends.py"
+  },
+  {
+    "problemId": "4284",
+    "problemTitle": "Smallest Stable Index I",
+    "problemSlug": "smallest-stable-index-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2105356794",
+    "timestamp": "1786620613",
+    "path": "Easy/4284_Smallest_Stable_Index_I.py"
   }
 ]
