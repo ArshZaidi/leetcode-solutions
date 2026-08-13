@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 193
+Total Solved: 194
 
 ## Easy
 
@@ -147,6 +147,7 @@ Total Solved: 193
 - Valid Elements in an Array ([Python3](Easy/4290_Valid_Elements_in_an_Array.py))
 - Count Indices With Opposite Parity ([Python3](Easy/4295_Count_Indices_With_Opposite_Parity.py))
 - Check Adjacent Digit Differences ([Python3](Easy/4305_Check_Adjacent_Digit_Differences.py))
+- Limit Occurrences in Sorted Array ([Python3](Easy/4312_Limit_Occurrences_in_Sorted_Array.py))
 - Minimum Swaps to Move Zeros to End ([Python3](Easy/4316_Minimum_Swaps_to_Move_Zeros_to_End.py))
 
 ## Medium
@@ -208,7 +209,7 @@ Total Solved: 193
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 144 |
+| Easy | 145 |
 | Medium | 43 |
 | Hard | 6 |
 
