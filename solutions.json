@@ -2533,5 +2533,18 @@
     "submissionId": "2105368771",
     "timestamp": "1786621497",
     "path": "Easy/4312_Limit_Occurrences_in_Sorted_Array.py"
+  },
+  {
+    "problemId": "4332",
+    "problemTitle": "Check Good Integer",
+    "problemSlug": "check-good-integer",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "2 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2105369458",
+    "timestamp": "1786621551",
+    "path": "Easy/4332_Check_Good_Integer.py"
   }
 ]
