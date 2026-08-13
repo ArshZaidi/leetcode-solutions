@@ -2416,5 +2416,18 @@
     "submissionId": "2105330919",
     "timestamp": "1786618827",
     "path": "Easy/4245_Count_Commas_in_Range.py"
+  },
+  {
+    "problemId": "4256",
+    "problemTitle": "Construct Uniform Parity Array I",
+    "problemSlug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2105338067",
+    "timestamp": "1786619308",
+    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.py"
   }
 ]
