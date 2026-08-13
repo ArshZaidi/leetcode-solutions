@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 186
+Total Solved: 187
 
 ## Easy
 
@@ -141,6 +141,7 @@ Total Solved: 186
 - Count Commas in Range ([Python3](Easy/4245_Count_Commas_in_Range.py))
 - Minimum Capacity Box ([Python3](Easy/4247_Minimum_Capacity_Box.py))
 - Construct Uniform Parity Array I ([Python3](Easy/4256_Construct_Uniform_Parity_Array_I.py))
+- First Matching Character From Both Ends ([Python3](Easy/4264_First_Matching_Character_From_Both_Ends.py))
 
 ## Medium
 
@@ -201,7 +202,7 @@ Total Solved: 186
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 137 |
+| Easy | 138 |
 | Medium | 43 |
 | Hard | 6 |
 
