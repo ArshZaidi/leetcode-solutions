@@ -2390,5 +2390,18 @@
     "submissionId": "2104638273",
     "timestamp": "1786559510",
     "path": "Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py"
+  },
+  {
+    "problemId": "2319",
+    "problemTitle": "Longest Substring of One Repeating Character",
+    "problemSlug": "longest-substring-of-one-repeating-character",
+    "difficulty": "Hard",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3448 ms",
+    "memory": "211.7 MB",
+    "submissionId": "2105319896",
+    "timestamp": "1786618091",
+    "path": "Hard/2319_Longest_Substring_of_One_Repeating_Character.py"
   }
 ]
