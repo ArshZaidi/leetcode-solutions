@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 185
+Total Solved: 186
 
 ## Easy
 
@@ -140,6 +140,7 @@ Total Solved: 185
 - Trim Trailing Vowels ([Python3](Easy/4229_Trim_Trailing_Vowels.py))
 - Count Commas in Range ([Python3](Easy/4245_Count_Commas_in_Range.py))
 - Minimum Capacity Box ([Python3](Easy/4247_Minimum_Capacity_Box.py))
+- Construct Uniform Parity Array I ([Python3](Easy/4256_Construct_Uniform_Parity_Array_I.py))
 
 ## Medium
 
@@ -200,7 +201,7 @@ Total Solved: 185
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 136 |
+| Easy | 137 |
 | Medium | 43 |
 | Hard | 6 |
 
