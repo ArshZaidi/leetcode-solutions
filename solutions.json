@@ -2468,5 +2468,18 @@
     "submissionId": "2105357397",
     "timestamp": "1786620660",
     "path": "Easy/4286_Valid_Digit_Number.py"
+  },
+  {
+    "problemId": "4290",
+    "problemTitle": "Valid Elements in an Array",
+    "problemSlug": "valid-elements-in-an-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "6 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2105358795",
+    "timestamp": "1786620767",
+    "path": "Easy/4290_Valid_Elements_in_an_Array.py"
   }
 ]
