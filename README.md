@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 187
+Total Solved: 188
 
 ## Easy
 
@@ -142,6 +142,7 @@ Total Solved: 187
 - Minimum Capacity Box ([Python3](Easy/4247_Minimum_Capacity_Box.py))
 - Construct Uniform Parity Array I ([Python3](Easy/4256_Construct_Uniform_Parity_Array_I.py))
 - First Matching Character From Both Ends ([Python3](Easy/4264_First_Matching_Character_From_Both_Ends.py))
+- Smallest Stable Index I ([Python3](Easy/4284_Smallest_Stable_Index_I.py))
 
 ## Medium
 
@@ -202,7 +203,7 @@ Total Solved: 187
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 138 |
+| Easy | 139 |
 | Medium | 43 |
 | Hard | 6 |
 
