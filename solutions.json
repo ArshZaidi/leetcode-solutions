@@ -2403,5 +2403,18 @@
     "submissionId": "2105319896",
     "timestamp": "1786618091",
     "path": "Hard/2319_Longest_Substring_of_One_Repeating_Character.py"
+  },
+  {
+    "problemId": "4245",
+    "problemTitle": "Count Commas in Range",
+    "problemSlug": "count-commas-in-range",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2105330919",
+    "timestamp": "1786618827",
+    "path": "Easy/4245_Count_Commas_in_Range.py"
   }
 ]
