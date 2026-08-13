@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 194
+Total Solved: 195
 
 ## Easy
 
@@ -149,6 +149,7 @@ Total Solved: 194
 - Check Adjacent Digit Differences ([Python3](Easy/4305_Check_Adjacent_Digit_Differences.py))
 - Limit Occurrences in Sorted Array ([Python3](Easy/4312_Limit_Occurrences_in_Sorted_Array.py))
 - Minimum Swaps to Move Zeros to End ([Python3](Easy/4316_Minimum_Swaps_to_Move_Zeros_to_End.py))
+- Check Good Integer ([Python3](Easy/4332_Check_Good_Integer.py))
 
 ## Medium
 
@@ -209,7 +210,7 @@ Total Solved: 194
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 145 |
+| Easy | 146 |
 | Medium | 43 |
 | Hard | 6 |
 
