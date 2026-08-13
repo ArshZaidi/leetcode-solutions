@@ -2494,5 +2494,18 @@
     "submissionId": "2105359592",
     "timestamp": "1786620826",
     "path": "Easy/4295_Count_Indices_With_Opposite_Parity.py"
+  },
+  {
+    "problemId": "4305",
+    "problemTitle": "Check Adjacent Digit Differences",
+    "problemSlug": "check-adjacent-digit-differences",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2105365808",
+    "timestamp": "1786621281",
+    "path": "Easy/4305_Check_Adjacent_Digit_Differences.py"
   }
 ]
