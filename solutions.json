@@ -2559,5 +2559,18 @@
     "submissionId": "2105403821",
     "timestamp": "1786624030",
     "path": "Easy/4357_Number_of_Elapsed_Seconds_Between_Two_Times.py"
+  },
+  {
+    "problemId": "3349",
+    "problemTitle": "Maximum Length Substring With Two Occurrences",
+    "problemSlug": "maximum-length-substring-with-two-occurrences",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2106900873",
+    "timestamp": "1786729524",
+    "path": "Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.py"
   }
 ]
