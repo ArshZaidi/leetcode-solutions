@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 197
+Total Solved: 198
 
 ## Easy
 
@@ -192,6 +192,7 @@ Total Solved: 197
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Stone Game II ([Python3](Medium/1240_Stone_Game_II.py))
+- Stone Game IX ([Python3](Medium/2156_Stone_Game_IX.py))
 - Length of Longest Subarray With at Most K Frequency ([Python3](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py))
 - Remove Methods From Project ([Python3](Medium/3561_Remove_Methods_From_Project.py))
 - Find the Lexicographically Smallest Valid Sequence ([Python3](Medium/3584_Find_the_Lexicographically_Smallest_Valid_Sequence.py))
@@ -213,7 +214,7 @@ Total Solved: 197
 | Difficulty | Count |
 |------------|--------|
 | Easy | 148 |
-| Medium | 43 |
+| Medium | 44 |
 | Hard | 6 |
 
 ---
