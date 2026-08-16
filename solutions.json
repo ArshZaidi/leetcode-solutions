@@ -2572,5 +2572,18 @@
     "submissionId": "2106900873",
     "timestamp": "1786729524",
     "path": "Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.py"
+  },
+  {
+    "problemId": "2156",
+    "problemTitle": "Stone Game IX",
+    "problemSlug": "stone-game-ix",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "64 ms",
+    "memory": "30.9 MB",
+    "submissionId": "2109117664",
+    "timestamp": "1786892150",
+    "path": "Medium/2156_Stone_Game_IX.py"
   }
 ]
