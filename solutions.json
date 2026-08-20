@@ -2585,5 +2585,18 @@
     "submissionId": "2109117664",
     "timestamp": "1786892150",
     "path": "Medium/2156_Stone_Game_IX.py"
+  },
+  {
+    "problemId": "3347",
+    "problemTitle": "Distribute Elements Into Two Arrays I",
+    "problemSlug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2113974349",
+    "timestamp": "1787232875",
+    "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.py"
   }
 ]
