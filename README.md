@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 198
+Total Solved: 199
 
 ## Easy
 
@@ -100,6 +100,7 @@ Total Solved: 198
 - Type of Triangle ([Python3](Easy/3321_Type_of_Triangle.py))
 - Minimum Operations to Exceed Threshold Value I ([Python3](Easy/3331_Minimum_Operations_to_Exceed_Threshold_Value_I.py))
 - Apple Redistribution into Boxes ([Python3](Easy/3334_Apple_Redistribution_into_Boxes.py))
+- Distribute Elements Into Two Arrays I ([Python3](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.py))
 - Maximum Length Substring With Two Occurrences ([Python3](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.py))
 - Find the Sum of Encrypted Integers ([Python3](Easy/3367_Find_the_Sum_of_Encrypted_Integers.py))
 - Harshad Number ([Python3](Easy/3371_Harshad_Number.py))
@@ -213,7 +214,7 @@ Total Solved: 198
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 148 |
+| Easy | 149 |
 | Medium | 44 |
 | Hard | 6 |
 
