@@ -2,8 +2,8 @@
 # Problem ID: 3347
 # Difficulty: Easy
 # Language: Python3
-# Runtime: 4 ms
-# Memory: 19.3 MB
+# Runtime: 0 ms
+# Memory: 19.4 MB
 # Synced From: LeetCode
 # Date: 2026-08-20
 
@@ -17,6 +17,4 @@ class Solution:
                 arr1.append(nums[i])
             else:
                 arr2.append(nums[i]) 
-        
-        result = arr1 + arr2
-        return result
+        return arr1 + arr2
