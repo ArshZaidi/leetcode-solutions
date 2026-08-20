@@ -2593,10 +2593,10 @@
     "difficulty": "Easy",
     "language": "Python3",
     "extension": "py",
-    "runtime": "4 ms",
-    "memory": "19.3 MB",
-    "submissionId": "2113974349",
-    "timestamp": "1787232875",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2113974624",
+    "timestamp": "1787232890",
     "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.py"
   }
 ]
