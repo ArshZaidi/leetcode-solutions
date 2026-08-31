@@ -2598,5 +2598,18 @@
     "submissionId": "2113974624",
     "timestamp": "1787232890",
     "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.py"
+  },
+  {
+    "problemId": "2182",
+    "problemTitle": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "problemSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "68 ms",
+    "memory": "63.5 MB",
+    "submissionId": "2126322417",
+    "timestamp": "1788193285",
+    "path": "Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py"
   }
 ]
