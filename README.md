@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 199
+Total Solved: 200
 
 ## Easy
 
@@ -194,6 +194,7 @@ Total Solved: 199
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Stone Game II ([Python3](Medium/1240_Stone_Game_II.py))
 - Stone Game IX ([Python3](Medium/2156_Stone_Game_IX.py))
+- Find the Minimum and Maximum Number of Nodes Between Critical Points ([Python3](Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py))
 - Length of Longest Subarray With at Most K Frequency ([Python3](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py))
 - Remove Methods From Project ([Python3](Medium/3561_Remove_Methods_From_Project.py))
 - Find the Lexicographically Smallest Valid Sequence ([Python3](Medium/3584_Find_the_Lexicographically_Smallest_Valid_Sequence.py))
@@ -215,7 +216,7 @@ Total Solved: 199
 | Difficulty | Count |
 |------------|--------|
 | Easy | 149 |
-| Medium | 44 |
+| Medium | 45 |
 | Hard | 6 |
 
 ---
