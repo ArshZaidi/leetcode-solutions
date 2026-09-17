@@ -3053,5 +3053,18 @@
     "submissionId": "2144997337",
     "timestamp": "1789666055",
     "path": "Easy/0290_Word_Pattern.py"
+  },
+  {
+    "problemId": "292",
+    "problemTitle": "Nim Game",
+    "problemSlug": "nim-game",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2144998790",
+    "timestamp": "1789666125",
+    "path": "Easy/0292_Nim_Game.py"
   }
 ]
