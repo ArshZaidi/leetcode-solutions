@@ -2975,5 +2975,18 @@
     "submissionId": "2144989909",
     "timestamp": "1789665695",
     "path": "Easy/0257_Binary_Tree_Paths.py"
+  },
+  {
+    "problemId": "260",
+    "problemTitle": "Single Number III",
+    "problemSlug": "single-number-iii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "20.8 MB",
+    "submissionId": "2144991020",
+    "timestamp": "1789665748",
+    "path": "Medium/0260_Single_Number_III.py"
   }
 ]
