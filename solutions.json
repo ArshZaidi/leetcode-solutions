@@ -3001,5 +3001,18 @@
     "submissionId": "2144992258",
     "timestamp": "1789665811",
     "path": "Medium/0264_Ugly_Number_II.py"
+  },
+  {
+    "problemId": "278",
+    "problemTitle": "First Bad Version",
+    "problemSlug": "first-bad-version",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "43 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2144994422",
+    "timestamp": "1789665917",
+    "path": "Easy/0278_First_Bad_Version.py"
   }
 ]
