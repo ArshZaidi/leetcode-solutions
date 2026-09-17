@@ -3066,5 +3066,18 @@
     "submissionId": "2144998790",
     "timestamp": "1789666125",
     "path": "Easy/0292_Nim_Game.py"
+  },
+  {
+    "problemId": "300",
+    "problemTitle": "Longest Increasing Subsequence",
+    "problemSlug": "longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "1281 ms",
+    "memory": "19.5 MB",
+    "submissionId": "2145000846",
+    "timestamp": "1789666223",
+    "path": "Medium/0300_Longest_Increasing_Subsequence.py"
   }
 ]
