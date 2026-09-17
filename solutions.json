@@ -2936,5 +2936,18 @@
     "submissionId": "2144985456",
     "timestamp": "1789665480",
     "path": "Easy/0228_Summary_Ranges.py"
+  },
+  {
+    "problemId": "229",
+    "problemTitle": "Majority Element II",
+    "problemSlug": "majority-element-ii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "1 ms",
+    "memory": "22.3 MB",
+    "submissionId": "2144986072",
+    "timestamp": "1789665510",
+    "path": "Medium/0229_Majority_Element_II.py"
   }
 ]
