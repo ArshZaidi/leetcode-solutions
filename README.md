@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 204
+Total Solved: 205
 
 ## Easy
 
 - Roman to Integer ([Python3](Easy/0013_Roman_to_Integer.py))
+- Longest Common Prefix ([Python3](Easy/0014_Longest_Common_Prefix.py))
 - Remove Duplicates from Sorted Array ([Python3](Easy/0026_Remove_Duplicates_from_Sorted_Array.py))
 - Maximum Product of Three Numbers ([Python](Easy/0628_Maximum_Product_of_Three_Numbers.py), [Python3](Easy/0628_Maximum_Product_of_Three_Numbers.py))
 - Mean of Array After Removing Some Elements ([Python](Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py))
@@ -219,7 +220,7 @@ Total Solved: 204
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 150 |
+| Easy | 151 |
 | Medium | 45 |
 | Hard | 9 |
 
