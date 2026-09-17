@@ -2923,5 +2923,18 @@
     "submissionId": "2144983442",
     "timestamp": "1789665384",
     "path": "Medium/0209_Minimum_Size_Subarray_Sum.py"
+  },
+  {
+    "problemId": "228",
+    "problemTitle": "Summary Ranges",
+    "problemSlug": "summary-ranges",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2144985456",
+    "timestamp": "1789665480",
+    "path": "Easy/0228_Summary_Ranges.py"
   }
 ]
