@@ -2702,5 +2702,18 @@
     "submissionId": "2144787155",
     "timestamp": "1789654258",
     "path": "Easy/0067_Add_Binary.py"
+  },
+  {
+    "problemId": "69",
+    "problemTitle": "Sqrt(x)",
+    "problemSlug": "sqrtx",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "4 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2144787676",
+    "timestamp": "1789654291",
+    "path": "Easy/0069_Sqrtx.py"
   }
 ]
