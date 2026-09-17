@@ -3027,5 +3027,18 @@
     "submissionId": "2144995190",
     "timestamp": "1789665952",
     "path": "Medium/0279_Perfect_Squares.py"
+  },
+  {
+    "problemId": "287",
+    "problemTitle": "Find the Duplicate Number",
+    "problemSlug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "32 ms",
+    "memory": "33.6 MB",
+    "submissionId": "2144996504",
+    "timestamp": "1789666014",
+    "path": "Medium/0287_Find_the_Duplicate_Number.py"
   }
 ]
