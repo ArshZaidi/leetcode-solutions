@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 232
+Total Solved: 233
 
 ## Easy
 
@@ -201,6 +201,7 @@ Total Solved: 232
 - Single Number III ([Python3](Medium/0260_Single_Number_III.py))
 - Ugly Number II ([Python3](Medium/0264_Ugly_Number_II.py))
 - Perfect Squares ([Python3](Medium/0279_Perfect_Squares.py))
+- Find the Duplicate Number ([Python3](Medium/0287_Find_the_Duplicate_Number.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
@@ -248,7 +249,7 @@ Total Solved: 232
 | Difficulty | Count |
 |------------|--------|
 | Easy | 169 |
-| Medium | 54 |
+| Medium | 55 |
 | Hard | 9 |
 
 ---
