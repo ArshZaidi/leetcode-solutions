@@ -2806,5 +2806,18 @@
     "submissionId": "2144797314",
     "timestamp": "1789654882",
     "path": "Easy/0136_Single_Number.py"
+  },
+  {
+    "problemId": "169",
+    "problemTitle": "Majority Element",
+    "problemSlug": "majority-element",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "3 ms",
+    "memory": "21.5 MB",
+    "submissionId": "2144798411",
+    "timestamp": "1789654949",
+    "path": "Easy/0169_Majority_Element.py"
   }
 ]
