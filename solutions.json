@@ -2871,5 +2871,18 @@
     "submissionId": "2144868308",
     "timestamp": "1789659364",
     "path": "Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.py"
+  },
+  {
+    "problemId": "198",
+    "problemTitle": "House Robber",
+    "problemSlug": "house-robber",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.1 MB",
+    "submissionId": "2144975118",
+    "timestamp": "1789664981",
+    "path": "Medium/0198_House_Robber.py"
   }
 ]
