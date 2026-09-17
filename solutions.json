@@ -2793,5 +2793,18 @@
     "submissionId": "2144795846",
     "timestamp": "1789654789",
     "path": "Easy/0125_Valid_Palindrome.py"
+  },
+  {
+    "problemId": "136",
+    "problemTitle": "Single Number",
+    "problemSlug": "single-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "21.1 MB",
+    "submissionId": "2144797314",
+    "timestamp": "1789654882",
+    "path": "Easy/0136_Single_Number.py"
   }
 ]
