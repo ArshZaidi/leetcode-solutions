@@ -2780,5 +2780,18 @@
     "submissionId": "2144792267",
     "timestamp": "1789654575",
     "path": "Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py"
+  },
+  {
+    "problemId": "125",
+    "problemTitle": "Valid Palindrome",
+    "problemSlug": "valid-palindrome",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "12 ms",
+    "memory": "19.7 MB",
+    "submissionId": "2144795846",
+    "timestamp": "1789654789",
+    "path": "Easy/0125_Valid_Palindrome.py"
   }
 ]
