@@ -2728,5 +2728,18 @@
     "submissionId": "2144788378",
     "timestamp": "1789654332",
     "path": "Easy/0070_Climbing_Stairs.py"
+  },
+  {
+    "problemId": "88",
+    "problemTitle": "Merge Sorted Array",
+    "problemSlug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2144789796",
+    "timestamp": "1789654422",
+    "path": "Easy/0088_Merge_Sorted_Array.py"
   }
 ]
