@@ -2819,5 +2819,18 @@
     "submissionId": "2144798411",
     "timestamp": "1789654949",
     "path": "Easy/0169_Majority_Element.py"
+  },
+  {
+    "problemId": "171",
+    "problemTitle": "Excel Sheet Column Number",
+    "problemSlug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2144798829",
+    "timestamp": "1789654974",
+    "path": "Easy/0171_Excel_Sheet_Column_Number.py"
   }
 ]
