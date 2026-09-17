@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 225
+Total Solved: 226
 
 ## Easy
 
@@ -194,6 +194,7 @@ Total Solved: 225
 - Count Primes ([Python3](Medium/0204_Count_Primes.py))
 - Minimum Size Subarray Sum ([Python3](Medium/0209_Minimum_Size_Subarray_Sum.py))
 - Kth Largest Element in an Array ([Python](Medium/0215_Kth_Largest_Element_in_an_Array.py))
+- Majority Element II ([Python3](Medium/0229_Majority_Element_II.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
@@ -241,7 +242,7 @@ Total Solved: 225
 | Difficulty | Count |
 |------------|--------|
 | Easy | 166 |
-| Medium | 50 |
+| Medium | 51 |
 | Hard | 9 |
 
 ---
