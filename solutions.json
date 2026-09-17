@@ -2754,5 +2754,18 @@
     "submissionId": "2144791198",
     "timestamp": "1789654509",
     "path": "Easy/0118_Pascals_Triangle.py"
+  },
+  {
+    "problemId": "119",
+    "problemTitle": "Pascal's Triangle II",
+    "problemSlug": "pascals-triangle-ii",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2144791702",
+    "timestamp": "1789654541",
+    "path": "Easy/0119_Pascals_Triangle_II.py"
   }
 ]
