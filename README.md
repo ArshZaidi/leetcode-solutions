@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 222
+Total Solved: 223
 
 ## Easy
 
@@ -190,6 +190,7 @@ Total Solved: 222
 - Department Highest Salary ([MySQL](Medium/0184_Department_Highest_Salary.sql))
 - House Robber ([Python3](Medium/0198_House_Robber.py))
 - Bitwise AND of Numbers Range ([Python3](Medium/0201_Bitwise_AND_of_Numbers_Range.py))
+- Count Primes ([Python3](Medium/0204_Count_Primes.py))
 - Kth Largest Element in an Array ([Python](Medium/0215_Kth_Largest_Element_in_an_Array.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
@@ -238,7 +239,7 @@ Total Solved: 222
 | Difficulty | Count |
 |------------|--------|
 | Easy | 165 |
-| Medium | 48 |
+| Medium | 49 |
 | Hard | 9 |
 
 ---
