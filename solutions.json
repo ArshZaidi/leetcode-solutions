@@ -2715,5 +2715,18 @@
     "submissionId": "2144787676",
     "timestamp": "1789654291",
     "path": "Easy/0069_Sqrtx.py"
+  },
+  {
+    "problemId": "70",
+    "problemTitle": "Climbing Stairs",
+    "problemSlug": "climbing-stairs",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2144788378",
+    "timestamp": "1789654332",
+    "path": "Easy/0070_Climbing_Stairs.py"
   }
 ]
