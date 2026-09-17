@@ -2858,5 +2858,18 @@
     "submissionId": "2144804811",
     "timestamp": "1789655352",
     "path": "Easy/0191_Number_of_1_Bits.py"
+  },
+  {
+    "problemId": "1573",
+    "problemTitle": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "problemSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "96 ms",
+    "memory": "31 MB",
+    "submissionId": "2144868308",
+    "timestamp": "1789659364",
+    "path": "Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.py"
   }
 ]
