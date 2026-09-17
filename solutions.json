@@ -2676,5 +2676,18 @@
     "submissionId": "2144785642",
     "timestamp": "1789654163",
     "path": "Easy/0014_Longest_Common_Prefix.py"
+  },
+  {
+    "problemId": "20",
+    "problemTitle": "Valid Parentheses",
+    "problemSlug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2144786462",
+    "timestamp": "1789654214",
+    "path": "Easy/0020_Valid_Parentheses.py"
   }
 ]
