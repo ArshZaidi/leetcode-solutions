@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 233
+Total Solved: 234
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 233
 - Palindrome Linked List ([Python3](Easy/0234_Palindrome_Linked_List.py))
 - Binary Tree Paths ([Python3](Easy/0257_Binary_Tree_Paths.py))
 - First Bad Version ([Python3](Easy/0278_First_Bad_Version.py))
+- Word Pattern ([Python3](Easy/0290_Word_Pattern.py))
 - Maximum Product of Three Numbers ([Python](Easy/0628_Maximum_Product_of_Three_Numbers.py), [Python3](Easy/0628_Maximum_Product_of_Three_Numbers.py))
 - Mean of Array After Removing Some Elements ([Python](Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py))
 - Element Appearing More Than 25% In Sorted Array ([Python](Easy/1221_Element_Appearing_More_Than_25_In_Sorted_Array.py))
@@ -248,7 +249,7 @@ Total Solved: 233
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 169 |
+| Easy | 170 |
 | Medium | 55 |
 | Hard | 9 |
 
