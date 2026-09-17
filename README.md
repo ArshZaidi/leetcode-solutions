@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 223
+Total Solved: 224
 
 ## Easy
 
@@ -191,6 +191,7 @@ Total Solved: 223
 - House Robber ([Python3](Medium/0198_House_Robber.py))
 - Bitwise AND of Numbers Range ([Python3](Medium/0201_Bitwise_AND_of_Numbers_Range.py))
 - Count Primes ([Python3](Medium/0204_Count_Primes.py))
+- Minimum Size Subarray Sum ([Python3](Medium/0209_Minimum_Size_Subarray_Sum.py))
 - Kth Largest Element in an Array ([Python](Medium/0215_Kth_Largest_Element_in_an_Array.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
@@ -239,7 +240,7 @@ Total Solved: 223
 | Difficulty | Count |
 |------------|--------|
 | Easy | 165 |
-| Medium | 49 |
+| Medium | 50 |
 | Hard | 9 |
 
 ---
