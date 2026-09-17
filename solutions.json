@@ -2663,5 +2663,18 @@
     "submissionId": "2144785085",
     "timestamp": "1789654128",
     "path": "Easy/0013_Roman_to_Integer.py"
+  },
+  {
+    "problemId": "14",
+    "problemTitle": "Longest Common Prefix",
+    "problemSlug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "submissionId": "2144785642",
+    "timestamp": "1789654163",
+    "path": "Easy/0014_Longest_Common_Prefix.py"
   }
 ]
