@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 200
+Total Solved: 201
 
 ## Easy
 
@@ -204,6 +204,7 @@ Total Solved: 200
 
 ## Hard
 
+- Department Top Three Salaries ([MySQL](Hard/0185_Department_Top_Three_Salaries.sql))
 - Stone Game III ([Python3](Hard/1522_Stone_Game_III.py))
 - Stone Game IV ([Python3](Hard/1617_Stone_Game_IV.py))
 - Longest Substring of One Repeating Character ([Python3](Hard/2319_Longest_Substring_of_One_Repeating_Character.py))
@@ -217,7 +218,7 @@ Total Solved: 200
 |------------|--------|
 | Easy | 149 |
 | Medium | 45 |
-| Hard | 6 |
+| Hard | 7 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
