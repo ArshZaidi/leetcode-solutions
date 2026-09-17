@@ -2910,5 +2910,18 @@
     "submissionId": "2144977244",
     "timestamp": "1789665084",
     "path": "Medium/0204_Count_Primes.py"
+  },
+  {
+    "problemId": "209",
+    "problemTitle": "Minimum Size Subarray Sum",
+    "problemSlug": "minimum-size-subarray-sum",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "17 ms",
+    "memory": "30.6 MB",
+    "submissionId": "2144983442",
+    "timestamp": "1789665384",
+    "path": "Medium/0209_Minimum_Size_Subarray_Sum.py"
   }
 ]
