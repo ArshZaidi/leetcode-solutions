@@ -2741,5 +2741,18 @@
     "submissionId": "2144789796",
     "timestamp": "1789654422",
     "path": "Easy/0088_Merge_Sorted_Array.py"
+  },
+  {
+    "problemId": "118",
+    "problemTitle": "Pascal's Triangle",
+    "problemSlug": "pascals-triangle",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2144791198",
+    "timestamp": "1789654509",
+    "path": "Easy/0118_Pascals_Triangle.py"
   }
 ]
