@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 221
+Total Solved: 222
 
 ## Easy
 
@@ -189,6 +189,7 @@ Total Solved: 221
 - Consecutive Numbers ([MySQL](Medium/0180_Consecutive_Numbers.sql))
 - Department Highest Salary ([MySQL](Medium/0184_Department_Highest_Salary.sql))
 - House Robber ([Python3](Medium/0198_House_Robber.py))
+- Bitwise AND of Numbers Range ([Python3](Medium/0201_Bitwise_AND_of_Numbers_Range.py))
 - Kth Largest Element in an Array ([Python](Medium/0215_Kth_Largest_Element_in_an_Array.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
@@ -237,7 +238,7 @@ Total Solved: 221
 | Difficulty | Count |
 |------------|--------|
 | Easy | 165 |
-| Medium | 47 |
+| Medium | 48 |
 | Hard | 9 |
 
 ---
