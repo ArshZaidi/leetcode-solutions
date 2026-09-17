@@ -3040,5 +3040,18 @@
     "submissionId": "2144996504",
     "timestamp": "1789666014",
     "path": "Medium/0287_Find_the_Duplicate_Number.py"
+  },
+  {
+    "problemId": "290",
+    "problemTitle": "Word Pattern",
+    "problemSlug": "word-pattern",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2144997337",
+    "timestamp": "1789666055",
+    "path": "Easy/0290_Word_Pattern.py"
   }
 ]
