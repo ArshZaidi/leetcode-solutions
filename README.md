@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 237
+Total Solved: 238
 
 ## Easy
 
@@ -206,6 +206,7 @@ Total Solved: 237
 - Perfect Squares ([Python3](Medium/0279_Perfect_Squares.py))
 - Find the Duplicate Number ([Python3](Medium/0287_Find_the_Duplicate_Number.py))
 - Longest Increasing Subsequence ([Python3](Medium/0300_Longest_Increasing_Subsequence.py))
+- Maximum Product of Word Lengths ([Python3](Medium/0318_Maximum_Product_of_Word_Lengths.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
@@ -253,7 +254,7 @@ Total Solved: 237
 | Difficulty | Count |
 |------------|--------|
 | Easy | 172 |
-| Medium | 56 |
+| Medium | 57 |
 | Hard | 9 |
 
 ---
