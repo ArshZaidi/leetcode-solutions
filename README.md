@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 215
+Total Solved: 216
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 215
 - Best Time to Buy and Sell Stock ([Python3](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py))
 - Valid Palindrome ([Python3](Easy/0125_Valid_Palindrome.py))
 - Single Number ([Python3](Easy/0136_Single_Number.py))
+- Majority Element ([Python3](Easy/0169_Majority_Element.py))
 - Maximum Product of Three Numbers ([Python](Easy/0628_Maximum_Product_of_Three_Numbers.py), [Python3](Easy/0628_Maximum_Product_of_Three_Numbers.py))
 - Mean of Array After Removing Some Elements ([Python](Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py))
 - Element Appearing More Than 25% In Sorted Array ([Python](Easy/1221_Element_Appearing_More_Than_25_In_Sorted_Array.py))
@@ -230,7 +231,7 @@ Total Solved: 215
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 161 |
+| Easy | 162 |
 | Medium | 45 |
 | Hard | 9 |
 
