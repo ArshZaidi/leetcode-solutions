@@ -2767,5 +2767,18 @@
     "submissionId": "2144791702",
     "timestamp": "1789654541",
     "path": "Easy/0119_Pascals_Triangle_II.py"
+  },
+  {
+    "problemId": "121",
+    "problemTitle": "Best Time to Buy and Sell Stock",
+    "problemSlug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "46 ms",
+    "memory": "28.7 MB",
+    "submissionId": "2144792267",
+    "timestamp": "1789654575",
+    "path": "Easy/0121_Best_Time_to_Buy_and_Sell_Stock.py"
   }
 ]
