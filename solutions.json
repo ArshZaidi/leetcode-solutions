@@ -2689,5 +2689,18 @@
     "submissionId": "2144786462",
     "timestamp": "1789654214",
     "path": "Easy/0020_Valid_Parentheses.py"
+  },
+  {
+    "problemId": "67",
+    "problemTitle": "Add Binary",
+    "problemSlug": "add-binary",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2144787155",
+    "timestamp": "1789654258",
+    "path": "Easy/0067_Add_Binary.py"
   }
 ]
