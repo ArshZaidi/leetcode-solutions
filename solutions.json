@@ -3014,5 +3014,18 @@
     "submissionId": "2144994422",
     "timestamp": "1789665917",
     "path": "Easy/0278_First_Bad_Version.py"
+  },
+  {
+    "problemId": "279",
+    "problemTitle": "Perfect Squares",
+    "problemSlug": "perfect-squares",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "1812 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2144995190",
+    "timestamp": "1789665952",
+    "path": "Medium/0279_Perfect_Squares.py"
   }
 ]
