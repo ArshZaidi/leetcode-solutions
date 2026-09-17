@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 231
+Total Solved: 232
 
 ## Easy
 
@@ -200,6 +200,7 @@ Total Solved: 231
 - Majority Element II ([Python3](Medium/0229_Majority_Element_II.py))
 - Single Number III ([Python3](Medium/0260_Single_Number_III.py))
 - Ugly Number II ([Python3](Medium/0264_Ugly_Number_II.py))
+- Perfect Squares ([Python3](Medium/0279_Perfect_Squares.py))
 - Remove K Digits ([Python3](Medium/0402_Remove_K_Digits.py))
 - String Compression ([Python3](Medium/0443_String_Compression.py))
 - Validate IP Address ([Python3](Medium/0468_Validate_IP_Address.py))
@@ -247,7 +248,7 @@ Total Solved: 231
 | Difficulty | Count |
 |------------|--------|
 | Easy | 169 |
-| Medium | 53 |
+| Medium | 54 |
 | Hard | 9 |
 
 ---
