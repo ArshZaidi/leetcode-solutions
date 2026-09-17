@@ -2897,5 +2897,18 @@
     "submissionId": "2144976211",
     "timestamp": "1789665034",
     "path": "Medium/0201_Bitwise_AND_of_Numbers_Range.py"
+  },
+  {
+    "problemId": "204",
+    "problemTitle": "Count Primes",
+    "problemSlug": "count-primes",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "9467 ms",
+    "memory": "86.2 MB",
+    "submissionId": "2144977244",
+    "timestamp": "1789665084",
+    "path": "Medium/0204_Count_Primes.py"
   }
 ]
