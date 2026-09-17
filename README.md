@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 219
+Total Solved: 220
 
 ## Easy
 
@@ -209,6 +209,7 @@ Total Solved: 219
 - Smallest Subsequence of Distinct Characters ([Python](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.py))
 - Sequential Digits ([Python](Medium/1212_Sequential_Digits.py))
 - Stone Game II ([Python3](Medium/1240_Stone_Game_II.py))
+- Find Two Non-overlapping Sub-arrays Each With Target Sum ([Python3](Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.py))
 - Stone Game IX ([Python3](Medium/2156_Stone_Game_IX.py))
 - Find the Minimum and Maximum Number of Nodes Between Critical Points ([Python3](Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py))
 - Length of Longest Subarray With at Most K Frequency ([Python3](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py))
@@ -235,7 +236,7 @@ Total Solved: 219
 | Difficulty | Count |
 |------------|--------|
 | Easy | 165 |
-| Medium | 45 |
+| Medium | 46 |
 | Hard | 9 |
 
 ---
