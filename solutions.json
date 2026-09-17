@@ -2884,5 +2884,18 @@
     "submissionId": "2144975118",
     "timestamp": "1789664981",
     "path": "Medium/0198_House_Robber.py"
+  },
+  {
+    "problemId": "201",
+    "problemTitle": "Bitwise AND of Numbers Range",
+    "problemSlug": "bitwise-and-of-numbers-range",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2144976211",
+    "timestamp": "1789665034",
+    "path": "Medium/0201_Bitwise_AND_of_Numbers_Range.py"
   }
 ]
