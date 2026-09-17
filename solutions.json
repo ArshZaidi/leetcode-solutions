@@ -390,6 +390,19 @@
     "path": "Medium/0184_Department_Highest_Salary.sql"
   },
   {
+    "problemId": "185",
+    "problemTitle": "Department Top Three Salaries",
+    "problemSlug": "department-top-three-salaries",
+    "difficulty": "Hard",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1964 ms",
+    "memory": "0B",
+    "submissionId": "2144781612",
+    "timestamp": "1789653915",
+    "path": "Hard/0185_Department_Top_Three_Salaries.sql"
+  },
+  {
     "problemId": "4242",
     "problemTitle": "Sum of GCD of Formed Pairs",
     "problemSlug": "sum-of-gcd-of-formed-pairs",
@@ -2613,16 +2626,16 @@
     "path": "Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py"
   },
   {
-    "problemId": "185",
-    "problemTitle": "Department Top Three Salaries",
-    "problemSlug": "department-top-three-salaries",
+    "problemId": "262",
+    "problemTitle": "Trips and Users",
+    "problemSlug": "trips-and-users",
     "difficulty": "Hard",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "1964 ms",
+    "runtime": "929 ms",
     "memory": "0B",
-    "submissionId": "2144781612",
-    "timestamp": "1789653915",
-    "path": "Hard/0185_Department_Top_Three_Salaries.sql"
+    "submissionId": "2144782652",
+    "timestamp": "1789653979",
+    "path": "Hard/0262_Trips_and_Users.sql"
   }
 ]
