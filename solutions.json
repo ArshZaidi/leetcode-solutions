@@ -2611,5 +2611,18 @@
     "submissionId": "2126322417",
     "timestamp": "1788193285",
     "path": "Medium/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.py"
+  },
+  {
+    "problemId": "185",
+    "problemTitle": "Department Top Three Salaries",
+    "problemSlug": "department-top-three-salaries",
+    "difficulty": "Hard",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1964 ms",
+    "memory": "0B",
+    "submissionId": "2144781612",
+    "timestamp": "1789653915",
+    "path": "Hard/0185_Department_Top_Three_Salaries.sql"
   }
 ]
