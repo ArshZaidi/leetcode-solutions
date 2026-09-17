@@ -3092,5 +3092,18 @@
     "submissionId": "2145002121",
     "timestamp": "1789666285",
     "path": "Easy/0303_Range_Sum_Query_-_Immutable.py"
+  },
+  {
+    "problemId": "318",
+    "problemTitle": "Maximum Product of Word Lengths",
+    "problemSlug": "maximum-product-of-word-lengths",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "253 ms",
+    "memory": "22.4 MB",
+    "submissionId": "2145003868",
+    "timestamp": "1789666371",
+    "path": "Medium/0318_Maximum_Product_of_Word_Lengths.py"
   }
 ]
