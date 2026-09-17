@@ -2845,5 +2845,18 @@
     "submissionId": "2144804302",
     "timestamp": "1789655321",
     "path": "Easy/0190_Reverse_Bits.py"
+  },
+  {
+    "problemId": "191",
+    "problemTitle": "Number of 1 Bits",
+    "problemSlug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "0 ms",
+    "memory": "19.3 MB",
+    "submissionId": "2144804811",
+    "timestamp": "1789655352",
+    "path": "Easy/0191_Number_of_1_Bits.py"
   }
 ]
