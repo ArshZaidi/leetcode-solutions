@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Language: Python3
 # Runtime: 3 ms
-# Memory: 19.3 MB
+# Memory: 19.2 MB
 # Synced From: LeetCode
 # Date: 2026-09-17
 
@@ -14,5 +14,5 @@ class Solution:
         for _ in range(32):
             result = (result << 1) | (n & 1)
             n >>= 1
-
+        
         return result
