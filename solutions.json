@@ -2988,5 +2988,18 @@
     "submissionId": "2144991020",
     "timestamp": "1789665748",
     "path": "Medium/0260_Single_Number_III.py"
+  },
+  {
+    "problemId": "264",
+    "problemTitle": "Ugly Number II",
+    "problemSlug": "ugly-number-ii",
+    "difficulty": "Medium",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "31 ms",
+    "memory": "19.4 MB",
+    "submissionId": "2144992258",
+    "timestamp": "1789665811",
+    "path": "Medium/0264_Ugly_Number_II.py"
   }
 ]
