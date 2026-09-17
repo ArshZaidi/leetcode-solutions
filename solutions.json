@@ -3079,5 +3079,18 @@
     "submissionId": "2145000846",
     "timestamp": "1789666223",
     "path": "Medium/0300_Longest_Increasing_Subsequence.py"
+  },
+  {
+    "problemId": "303",
+    "problemTitle": "Range Sum Query - Immutable",
+    "problemSlug": "range-sum-query-immutable",
+    "difficulty": "Easy",
+    "language": "Python3",
+    "extension": "py",
+    "runtime": "11 ms",
+    "memory": "22.9 MB",
+    "submissionId": "2145002121",
+    "timestamp": "1789666285",
+    "path": "Easy/0303_Range_Sum_Query_-_Immutable.py"
   }
 ]
