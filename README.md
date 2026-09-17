@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 236
+Total Solved: 237
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 236
 - First Bad Version ([Python3](Easy/0278_First_Bad_Version.py))
 - Word Pattern ([Python3](Easy/0290_Word_Pattern.py))
 - Nim Game ([Python3](Easy/0292_Nim_Game.py))
+- Range Sum Query - Immutable ([Python3](Easy/0303_Range_Sum_Query_-_Immutable.py))
 - Maximum Product of Three Numbers ([Python](Easy/0628_Maximum_Product_of_Three_Numbers.py), [Python3](Easy/0628_Maximum_Product_of_Three_Numbers.py))
 - Mean of Array After Removing Some Elements ([Python](Easy/1210_Mean_of_Array_After_Removing_Some_Elements.py))
 - Element Appearing More Than 25% In Sorted Array ([Python](Easy/1221_Element_Appearing_More_Than_25_In_Sorted_Array.py))
@@ -251,7 +252,7 @@ Total Solved: 236
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 171 |
+| Easy | 172 |
 | Medium | 56 |
 | Hard | 9 |
 
